@@ -1,0 +1,1284 @@
+﻿Row_ID,Order_ID,Order_Date,Customer_Name,Segment,State,Postal_Code,Sub_Category,Product_Name,Sales,Quantity,Discount,Profit
+1,US-2017-156909,7/16/2017,Sandra Flanagan,Consumer,Pennsylvania,19140,Chairs,"Global Deluxe Stacking Chair, Gray",71.372,2,0.3,-1.0196
+2,CA-2015-106320,9/25/2015,Emily Burns,Consumer,Utah,84057,Tables,Bretford CR4500 Series Slim Rectangular Table,1044.63,3,0,240.2649
+3,US-2015-150630,9/17/2015,Tracy Blumstein,Consumer,Pennsylvania,19140,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",3083.43,7,0.5,-1665.0522
+4,US-2015-150630,9/17/2015,Tracy Blumstein,Consumer,Pennsylvania,19140,Furnishings,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",124.2,3,0.2,15.525
+5,CA-2015-117415,12/27/2015,Steve Nguyen,Home Office,Texas,77041,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",532.3992,3,0.32,-46.9764
+6,CA-2015-117415,12/27/2015,Steve Nguyen,Home Office,Texas,77041,Chairs,"Global Fabric Manager's Chair, Dark Gray",212.058,3,0.3,-15.147
+7,CA-2015-115742,4/18/2015,Darren Powers,Consumer,Indiana,47150,Furnishings,Longer-Life Soft White Bulbs,6.16,2,0,2.9568
+8,CA-2015-115742,4/18/2015,Darren Powers,Consumer,Indiana,47150,Chairs,"Global Leather Task Chair, Black",89.99,1,0,17.0981
+9,CA-2016-111682,6/17/2016,Ted Butterfield,Consumer,New York,12180,Chairs,Novimex Turbo Task Chair,319.41,5,0.1,7.098
+10,CA-2015-135545,11/24/2015,Kunst Miller,Consumer,California,90004,Furnishings,Luxo Economy Swing Arm Lamp,79.76,4,0,22.3328
+11,US-2015-164175,4/30/2015,Paul Stevenson,Home Office,Illinois,60610,Chairs,"Global Value Mid-Back Manager's Chair, Gray",213.115,5,0.3,-15.2225
+12,US-2015-134026,4/26/2015,Joel Eaton,Consumer,Tennessee,38109,Chairs,High-Back Leather Manager's Chair,831.936,8,0.2,-114.3912
+13,US-2015-134026,4/26/2015,Joel Eaton,Consumer,Tennessee,38109,Furnishings,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",97.04,2,0.2,1.213
+14,US-2014-147606,11/26/2014,Joel Eaton,Consumer,Texas,77070,Furnishings,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",19.3,5,0.6,-14.475
+15,CA-2017-140088,5/28/2017,Patrick O'Donnell,Consumer,South Carolina,29203,Chairs,Novimex Swivel Fabric Task Chair,301.96,2,0,33.2156
+16,CA-2015-149587,1/31/2015,Karl Braun,Consumer,Minnesota,55407,Furnishings,"Seth Thomas 13 1/2"" Wall Clock",53.34,3,0,16.5354
+17,US-2015-156867,11/13/2015,Lena Cacioppo,Consumer,Colorado,80013,Furnishings,"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",102.36,3,0.2,-3.8385
+18,CA-2017-146780,12/25/2017,Cynthia Voltz,Corporate,New York,10035,Furnishings,Magnifier Swing Arm Lamp,41.96,2,0,10.9096
+19,US-2014-152030,12/26/2014,Alan Dominguez,Home Office,Texas,77041,Chairs,Global Deluxe High-Back Manager's Chair,600.558,3,0.3,-8.5794
+20,US-2014-134614,9/20/2014,Philip Fox,Consumer,Illinois,61701,Tables,Bevis 44 x 96 Conference Tables,617.7,6,0.5,-407.682
+21,CA-2016-145583,10/13/2016,Lena Creighton,Consumer,California,95661,Furnishings,Longer-Life Soft White Bulbs,43.12,14,0,20.6976
+22,CA-2014-110072,10/22/2014,Maureen Gastineau,Home Office,Ohio,43055,Furnishings,"Seth Thomas 14"" Putty-Colored Wall Clock",93.888,4,0.2,12.9096
+23,US-2015-101511,11/21/2015,Joel Eaton,Consumer,Ohio,43055,Chairs,"Padded Folding Chairs, Black, 4/Carton",396.802,7,0.3,-11.3372
+24,CA-2015-169397,12/24/2015,Joni Blumstein,Consumer,Ohio,43017,Furnishings,"Executive Impressions 14"" Two-Color Numerals Wall Clock",72.704,4,0.2,19.0848
+25,US-2015-145436,2/28/2015,Valerie Dominguez,Consumer,Tennessee,38401,Chairs,Global Low Back Tilter Chair,161.568,2,0.2,-28.2744
+26,US-2015-145436,2/28/2015,Valerie Dominguez,Consumer,Tennessee,38401,Chairs,"Global Push Button Manager's Chair, Indigo",389.696,8,0.2,43.8408
+27,US-2015-159982,11/28/2015,Dan Reichenbach,Corporate,Illinois,60623,Furnishings,Eldon 100 Class Desk Accessories,12.132,9,0.6,-8.4924
+28,CA-2015-155334,7/30/2015,Helen Andreada,Consumer,California,94109,Furnishings,Regeneration Desk Collection,5.28,3,0,2.3232
+29,CA-2016-110772,11/20/2016,Nick Zandusky,Home Office,Ohio,43229,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",86.97,3,0.5,-48.7032
+30,CA-2014-111451,12/26/2014,Kelly Lampkin,Corporate,Colorado,80906,Furnishings,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",300.416,8,0.2,78.8592
+31,CA-2014-111451,12/26/2014,Kelly Lampkin,Corporate,Colorado,80906,Chairs,Global Deluxe Office Fabric Chairs,230.352,3,0.2,20.1558
+32,CA-2014-111451,12/26/2014,Kelly Lampkin,Corporate,Colorado,80906,Furnishings,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,218.352,3,0.2,-24.5646
+33,CA-2016-142545,10/28/2016,Jonathan Doherty,Corporate,New Jersey,7109,Furnishings,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",77.6,4,0,38.024
+34,US-2017-152380,11/19/2017,Jonathan Howell,Consumer,Illinois,60623,Tables,BPI Conference Tables,219.075,3,0.5,-131.445
+35,CA-2014-120887,9/27/2014,Thomas Seio,Corporate,New Jersey,7601,Furnishings,"Deflect-o SuperTray Unbreakable Stackable Tray, Letter, Black",87.54,3,0,37.6422
+36,US-2016-141544,8/30/2016,Patrick O'Brill,Consumer,Pennsylvania,19143,Chairs,Hon 2090 ÒPillow SoftÓ Series Mid Back Swivel/Tilt Chairs,786.744,4,0.3,-258.5016
+37,CA-2017-144904,9/25/2017,Katrina Willman,Consumer,New York,10009,Chairs,Global Ergonomic Managers Chair,488.646,3,0.1,86.8704
+38,CA-2017-144904,9/25/2017,Katrina Willman,Consumer,New York,10009,Furnishings,Eldon Wave Desk Accessories,47.12,8,0,20.7328
+39,CA-2016-155516,10/21/2016,Michael Kennedy,Corporate,Connecticut,6040,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",1043.92,4,0,271.4192
+40,US-2017-134481,8/27/2017,Allen Rosenblatt,Corporate,Massachusetts,2038,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",1488.424,7,0.3,-297.6848
+41,US-2015-168935,11/27/2015,Denny Ordway,Consumer,Florida,33024,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",375.4575,3,0.45,-157.0095
+42,CA-2016-148796,4/14/2016,Philip Brown,Consumer,California,90004,Chairs,Bevis Steel Folding Chairs,383.8,5,0.2,38.38
+43,CA-2017-125388,10/19/2017,Michael Paige,Corporate,Massachusetts,1841,Furnishings,"Westinghouse Mesh Shade Clip-On Gooseneck Lamp, Black",56.56,4,0,14.7056
+44,CA-2017-155705,8/21/2017,Natalie Fritzler,Consumer,Mississippi,39212,Chairs,Hon Multipurpose Stacking Arm Chairs,866.4,4,0,225.264
+45,CA-2017-149160,11/23/2017,Janet Molinari,Corporate,Michigan,48187,Furnishings,Coloredge Poster Frame,28.4,2,0,11.076
+46,CA-2017-157252,1/20/2017,Cynthia Voltz,Corporate,New York,10024,Chairs,Global Deluxe Steno Chair,207.846,3,0.1,2.3094
+47,CA-2017-154214,3/20/2017,Troy Blackwell,Consumer,Indiana,47201,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",2.91,1,0,1.3677
+48,CA-2017-147277,10/20/2017,Ed Braxton,Corporate,Ohio,44312,Tables,Chromcraft Rectangular Conference Tables,284.364,2,0.4,-75.8304
+49,US-2016-157945,9/26/2016,Natalie Fritzler,Consumer,Illinois,62521,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,747.558,3,0.3,-96.1146
+50,CA-2016-109869,4/22/2016,Tanja Norvell,Home Office,Arizona,85023,Furnishings,Eldon Wave Desk Accessories,23.56,5,0.2,7.068
+51,CA-2016-109869,4/22/2016,Tanja Norvell,Home Office,Arizona,85023,Tables,Bush Advantage Collection Racetrack Conference Table,1272.63,6,0.5,-814.4832
+52,US-2015-101399,1/17/2015,Joni Sundaresam,Home Office,Illinois,60068,Furnishings,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,254.744,7,0.6,-312.0614
+53,CA-2017-154907,3/31/2017,David Smith,Corporate,Texas,79109,Bookcases,Bush Mission Pointe Library,205.3328,2,0.32,-36.2352
+54,CA-2016-152632,10/27/2016,Jeremy Ellison,Consumer,New York,12180,Furnishings,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,40.2,3,0,19.296
+55,US-2016-120929,3/18/2016,Rose O'Brian,Consumer,Tennessee,38109,Tables,Balt Solid Wood Rectangular Table,189.882,3,0.4,-94.941
+56,CA-2016-126158,7/25/2016,Sanjit Chand,Consumer,California,92627,Furnishings,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",255.76,4,0,81.8432
+57,CA-2016-126158,7/25/2016,Sanjit Chand,Consumer,California,92627,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,241.568,2,0.2,18.1176
+58,CA-2016-126158,7/25/2016,Sanjit Chand,Consumer,California,92627,Furnishings,Deflect-O Glasstique Clear Desk Accessories,69.3,9,0,22.869
+59,US-2016-105578,5/30/2016,Maribeth Yedwab,Corporate,Colorado,80134,Chairs,Global Troy Executive Leather Low-Back Tilter,801.568,2,0.2,50.098
+60,CA-2017-135307,11/26/2017,Lynn Smith,Consumer,Missouri,64118,Furnishings,Executive Impressions Supervisor Wall Clock,126.3,3,0,40.416
+61,CA-2017-145142,1/23/2017,Matt Connell,Corporate,Michigan,48234,Tables,Balt Solid Wood Rectangular Table,210.98,2,0,21.098
+62,CA-2017-113558,10/21/2017,Patricia Hirasaki,Home Office,Florida,33801,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,683.952,3,0.2,42.747
+63,CA-2017-113558,10/21/2017,Patricia Hirasaki,Home Office,Florida,33801,Furnishings,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",45.696,3,0.2,5.1408
+64,CA-2016-136406,4/15/2016,Bill Donatelli,Consumer,California,94110,Chairs,HON 5400 Series Task Chairs for Big and Tall,1121.568,2,0.2,0
+65,CA-2017-118731,11/20/2017,Liz Pelletier,Consumer,California,94110,Furnishings,Coloredge Poster Frame,42.6,3,0,16.614
+66,CA-2014-145576,9/14/2014,Cynthia Arntzen,Consumer,Florida,33614,Furnishings,Advantus Panel Wall Acrylic Frame,13.128,3,0.2,3.7743
+67,CA-2017-118640,7/20/2017,Carlos Soltero,Consumer,Illinois,60610,Furnishings,"Contract Clock, 14"", Brown",8.792,1,0.6,-5.7148
+68,CA-2014-149958,3/15/2014,Alan Shonely,Consumer,Florida,33614,Furnishings,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",45.696,3,0.2,5.1408
+69,CA-2017-117947,8/18/2017,Nat Gilpin,Corporate,New York,10011,Furnishings,"DAX Metal Frame, Desktop, Stepped-Edge",40.48,2,0,15.7872
+70,CA-2017-117947,8/18/2017,Nat Gilpin,Corporate,New York,10011,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",9.94,2,0,3.0814
+71,CA-2017-117947,8/18/2017,Nat Gilpin,Corporate,New York,10011,Furnishings,"Seth Thomas 14"" Putty-Colored Wall Clock",88.02,3,0,27.2862
+72,CA-2015-138009,11/29/2015,Sylvia Foulston,Corporate,Michigan,48126,Chairs,"Global Manager's Adjustable Task Chair, Storm",301.96,2,0,87.5684
+73,CA-2017-163020,9/15/2017,Meg O'Connel,Home Office,New York,10009,Furnishings,"Master Caster Door Stop, Brown",35.56,7,0,12.0904
+74,CA-2016-115917,5/20/2016,Rick Bensley,Home Office,California,94591,Furnishings,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1049.2,5,0,272.792
+75,CA-2016-147067,12/18/2016,Justin Deggeller,Corporate,Minnesota,55407,Furnishings,Eldon 200 Class Desk Accessories,18.84,3,0,6.0288
+76,US-2016-156097,9/19/2016,Eugene Hildebrand,Home Office,Illinois,60505,Chairs,Global Troy Executive Leather Low-Back Tilter,701.372,2,0.3,-50.098
+77,CA-2015-146563,8/24/2015,Cassandra Brandow,Consumer,Texas,76017,Tables,Hon Racetrack Conference Tables,918.785,5,0.3,-118.1295
+78,CA-2014-156314,12/24/2014,Resi Pšlking,Consumer,Ohio,44105,Furnishings,"Master Giant Foot Doorstop, Safety Yellow",30.36,5,0.2,8.7285
+79,US-2017-119438,3/18/2017,Carol Darley,Consumer,Texas,75701,Furnishings,"Howard Miller 13-1/2"" Diameter Rosebrook Wall Clock",82.524,3,0.6,-41.262
+80,CA-2017-161480,12/25/2017,Ralph Arnett,Consumer,New York,10035,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",191.984,2,0.2,4.7996
+81,US-2014-117135,6/21/2014,Naresj Patel,Consumer,Virginia,22980,Furnishings,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,104.01,1,0,14.5614
+82,CA-2017-108910,9/24/2017,Kelly Collister,Consumer,Ohio,43055,Furnishings,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",103.056,3,0.2,24.4758
+83,CA-2016-142335,12/15/2016,Michael Paige,Corporate,Michigan,48205,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,1652.94,3,0,231.4116
+84,CA-2017-131954,1/21/2017,Darrin Sayre,Home Office,Washington,98115,Bookcases,O'Sullivan Cherrywood Estates Traditional Bookcase,84.98,1,0,18.6956
+85,CA-2014-124429,5/27/2014,Maya Herman,Corporate,California,92105,Tables,KI Conference Tables,567.12,10,0.2,-28.356
+86,CA-2016-140928,9/18/2016,Nona Balk,Corporate,Florida,32216,Tables,Chromcraft Round Conference Tables,383.438,4,0.45,-167.3184
+87,CA-2014-106810,5/14/2014,Anthony Johnson,Corporate,Florida,33710,Furnishings,Electrix Halogen Magnifier Lamp,310.88,2,0.2,23.316
+88,CA-2016-157245,5/19/2016,Laurel Elliston,Consumer,Virginia,22204,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,641.96,2,0,179.7488
+89,CA-2017-104220,1/30/2017,Benjamin Venier,Corporate,Iowa,50315,Furnishings,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",34.58,7,0,14.5236
+90,CA-2015-144267,8/21/2015,Nick Zandusky,Home Office,California,94110,Chairs,Hon GuestStacker Chair,544.008,3,0.2,40.8006
+91,CA-2015-115938,6/26/2015,Sue Ann Reed,Consumer,Virginia,23223,Chairs,Office Star - Contemporary Task Swivel Chair,332.94,3,0,79.9056
+92,CA-2015-101910,11/27/2015,Carlos Daly,Consumer,California,92530,Chairs,"Situations Contoured Folding Chairs, 4/Set",283.92,5,0.2,17.745
+93,CA-2017-105809,2/20/2017,Helen Wasserman,Corporate,California,92105,Furnishings,"Executive Impressions 14"" Contract Wall Clock",22.23,1,0,7.3359
+94,CA-2017-135783,4/22/2017,Gary McGarr,Consumer,California,94122,Furnishings,"Eldon Stackable Tray, Side-Load, Legal, Smoke",18.28,2,0,6.2152
+95,CA-2014-151995,10/13/2014,Zuschuss Carroll,Consumer,Washington,98026,Tables,"Bevis Round Bullnose 29"" High Table Top",1298.55,5,0,311.652
+96,CA-2017-143686,5/14/2017,Pauline Johnson,Consumer,California,92704,Furnishings,"Eldon Stackable Tray, Side-Load, Legal, Smoke",18.28,2,0,6.2152
+97,CA-2014-140858,6/28/2014,Cynthia Arntzen,Consumer,Pennsylvania,19140,Chairs,Global Leather Executive Chair,1228.465,5,0.3,0
+98,CA-2017-129462,6/16/2017,Joel Eaton,Consumer,Kentucky,41042,Chairs,"Global Airflow Leather Mesh Back Chair, Black",301.96,2,0,90.588
+99,CA-2015-100454,11/20/2015,Brian Moss,Corporate,New York,10035,Bookcases,O'Sullivan 3-Shelf Heavy-Duty Bookcases,186.048,4,0.2,9.3024
+100,CA-2015-114300,10/13/2015,Art Foster,Consumer,Kentucky,40214,Chairs,Global Deluxe Office Fabric Chairs,287.94,3,0,77.7438
+101,CA-2016-123274,2/19/2016,Greg Tran,Consumer,New York,10035,Furnishings,"Executive Impressions 14"" Contract Wall Clock",44.46,2,0,14.6718
+102,CA-2016-116736,1/17/2016,Chuck Clark,Home Office,New Hampshire,3301,Furnishings,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",322.59,3,0,64.518
+103,CA-2017-111689,11/30/2017,Harold Pawlan,Home Office,New York,10024,Chairs,SAFCO Arco Folding Chair,1242.9,5,0.1,262.39
+104,CA-2016-165148,10/22/2016,Peter McVee,Home Office,Michigan,48227,Furnishings,Eldon 200 Class Desk Accessories,31.4,5,0,10.048
+105,CA-2014-134061,4/29/2014,Lauren Leatherbury,Consumer,New York,14609,Furnishings,Dax Clear Box Frame,17.46,2,0,5.9364
+106,CA-2017-143259,12/30/2017,Patrick O'Donnell,Consumer,New York,10009,Bookcases,"Bush Westfield Collection Bookcases, Fully Assembled",323.136,4,0.2,12.1176
+107,CA-2015-133627,5/31/2015,Sample Company A,Home Office,Connecticut,6360,Furnishings,3M Hangers With Command Adhesive,22.2,6,0,9.102
+108,CA-2017-102519,11/27/2017,Brian Moss,Corporate,Wisconsin,53209,Furnishings,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",46.94,1,0,19.2454
+109,US-2014-141215,6/15/2014,Kelly Lampkin,Corporate,Texas,78207,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",99.918,2,0.3,-18.5562
+110,US-2014-141215,6/15/2014,Kelly Lampkin,Corporate,Texas,78207,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,797.944,4,0.3,-56.996
+111,CA-2016-142958,12/13/2016,Rob Williams,Corporate,California,90503,Tables,Bretford CR4500 Series Slim Rectangular Table,1114.272,4,0.2,41.7852
+112,US-2015-140200,7/26/2015,Cynthia Arntzen,Consumer,Arizona,85204,Tables,Bevis Boat-Shaped Conference Table,393.165,3,0.5,-204.4458
+113,US-2017-110576,11/28/2017,Ross Baird,Home Office,Pennsylvania,19120,Furnishings,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",516.488,7,0.2,-12.9122
+114,US-2017-110576,11/28/2017,Ross Baird,Home Office,Pennsylvania,19120,Furnishings,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1007.232,6,0.2,75.5424
+115,US-2017-110576,11/28/2017,Ross Baird,Home Office,Pennsylvania,19120,Tables,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",2065.32,12,0.4,-619.596
+116,CA-2017-136539,12/28/2017,Greg Hansen,Consumer,Texas,78664,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",78.8528,2,0.32,-11.596
+117,CA-2015-112571,9/22/2015,Daniel Lacy,Consumer,California,92054,Furnishings,Luxo Professional Combination Clamp-On Lamps,204.6,2,0,53.196
+118,CA-2017-152142,11/14/2017,Lindsay Williams,Corporate,California,94110,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",321.568,2,0.2,28.1372
+119,CA-2014-115791,1/16/2014,Delfina Latchford,Consumer,Pennsylvania,19134,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,127.104,6,0.2,28.5984
+120,CA-2017-167899,5/21/2017,John Grady,Corporate,New York,13021,Furnishings,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,520.05,5,0,72.807
+121,CA-2015-153549,3/29/2015,Sara Luxemburg,Home Office,Florida,32216,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,1166.92,5,0.2,131.2785
+122,CA-2015-162537,10/28/2015,Rob Dowd,Consumer,Kentucky,42420,Furnishings,Magna Visual Magnetic Picture Hangers,24.1,5,0,9.158
+123,CA-2015-162537,10/28/2015,Rob Dowd,Consumer,Kentucky,42420,Furnishings,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,33.11,7,0,12.9129
+124,CA-2015-124891,7/31/2015,Rick Hansen,Consumer,New York,10024,Tables,"Bevis Round Bullnose 29"" High Table Top",1090.782,7,0.4,-290.8752
+125,CA-2014-158540,11/24/2014,Vivek Gonzalez,Consumer,California,92037,Furnishings,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",151.72,4,0,27.3096
+126,CA-2017-118437,6/17/2017,Philip Fox,Consumer,Washington,98502,Furnishings,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",155.25,3,0,46.575
+127,US-2015-126214,12/21/2015,John Stevenson,Consumer,Washington,98103,Tables,Bevis 36 x 72 Conference Tables,1618.37,13,0,356.0414
+128,CA-2015-124450,4/27/2015,Greg Tran,Consumer,District of Columbia,20016,Chairs,Global Comet Stacking Arm Chair,1267.53,3,0,316.8825
+129,CA-2016-113061,4/22/2016,Ed Ludwig,Home Office,Missouri,65109,Furnishings,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,86.62,2,0,8.662
+130,CA-2016-127670,3/20/2016,Robert Dilbeck,Home Office,Missouri,63376,Tables,Chromcraft Round Conference Tables,697.16,4,0,146.4036
+131,US-2015-125374,3/23/2015,Julia Dunbar,Consumer,Texas,77095,Chairs,Global Deluxe Steno Chair,107.772,2,0.3,-29.2524
+132,CA-2015-110016,11/29/2015,Bill Tyler,Corporate,Michigan,48227,Chairs,"Global High-Back Leather Tilter, Burgundy",1106.91,9,0,121.7601
+133,CA-2014-159338,6/25/2014,Noel Staavos,Corporate,California,90049,Tables,Hon 4060 Series Tables,447.84,5,0.2,11.196
+134,CA-2016-107216,6/14/2016,Paul Van Hugh,Home Office,California,94122,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",8.73,3,0,4.1031
+135,US-2016-110156,11/19/2016,Eric Hoffmann,Consumer,Texas,77041,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",2.328,2,0.6,-0.7566
+136,CA-2017-140585,12/18/2017,Russell Applegate,Consumer,California,92024,Bookcases,"Bush Saratoga Collection 5-Shelf Bookcase, Hanover Cherry, *Special Order",119.833,1,0.15,-12.6882
+137,US-2014-147627,1/20/2014,Hunter Lopez,Consumer,Arkansas,72401,Furnishings,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",38.6,4,0,11.58
+138,US-2014-147627,1/20/2014,Hunter Lopez,Consumer,Arkansas,72401,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,1067.94,3,0,224.2674
+139,CA-2014-146969,9/29/2014,Arthur Prichep,Consumer,California,90045,Furnishings,Luxo Professional Combination Clamp-On Lamps,204.6,2,0,53.196
+140,CA-2014-136567,12/20/2014,Penelope Sewall,Home Office,Virginia,22801,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",2244.48,7,0,493.7856
+141,CA-2014-136567,12/20/2014,Penelope Sewall,Home Office,Virginia,22801,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",455.1,2,0,100.122
+142,CA-2017-117212,2/26/2017,Bradley Talbott,Home Office,California,90036,Chairs,GuestStacker Chair with Chrome Finish Legs,892.224,3,0.2,89.2224
+143,US-2015-130519,9/15/2015,Nat Gilpin,Corporate,Florida,33065,Furnishings,Ultra Door Push Plate,15.712,4,0.2,2.5532
+144,US-2015-130519,9/15/2015,Nat Gilpin,Corporate,Florida,33065,Furnishings,"Tenex ""The Solids"" Textured Chair Mats",55.968,1,0.2,-2.0988
+145,CA-2016-114727,7/18/2016,Linda Southworth,Corporate,Colorado,80219,Chairs,Hon GuestStacker Chair,544.008,3,0.2,40.8006
+146,CA-2016-114727,7/18/2016,Linda Southworth,Corporate,Colorado,80219,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,854.352,3,0.2,10.6794
+147,CA-2016-137050,7/14/2016,Steven Ward,Corporate,New York,10009,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,579.136,4,0.2,21.7176
+148,CA-2016-144344,10/28/2016,Patrick Gardner,Consumer,Florida,33437,Furnishings,24-Hour Round Wall Clock,47.952,3,0.2,13.7862
+149,CA-2016-144344,10/28/2016,Patrick Gardner,Consumer,Florida,33437,Furnishings,Eldon Radial Chair Mat for Low to Medium Pile Carpets,63.968,2,0.2,0
+150,CA-2016-144344,10/28/2016,Patrick Gardner,Consumer,Florida,33437,Furnishings,"Howard Miller 13-1/2"" Diameter Rosebrook Wall Clock",165.048,3,0.2,41.262
+151,CA-2017-115602,12/18/2017,Doug Jacobs,Consumer,New York,10009,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,1141.938,9,0.1,139.5702
+152,US-2014-167738,12/24/2014,Julie Creighton,Corporate,California,90045,Chairs,"Global Value Mid-Back Manager's Chair, Gray",292.272,6,0.2,18.267
+153,CA-2017-121412,9/23/2017,Brooke Gillingham,Corporate,Colorado,80027,Furnishings,Aluminum Document Frame,29.328,3,0.2,3.666
+154,CA-2016-119186,5/26/2016,Maurice Satty,Consumer,Texas,76106,Chairs,Office Star Flex Back Scooter Chair with White Frame,388.43,5,0.3,-88.784
+155,CA-2016-154711,11/22/2016,Todd Boyes,Corporate,New York,10009,Furnishings,Luxo Economy Swing Arm Lamp,39.88,2,0,11.1664
+156,CA-2016-137043,12/23/2016,Logan Currie,Consumer,Virginia,22153,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",572.76,6,0,166.1004
+157,CA-2016-137043,12/23/2016,Logan Currie,Consumer,Virginia,22153,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",286.38,3,0,83.0502
+158,CA-2015-115847,9/19/2015,Tracy Collins,Home Office,Virginia,22204,Bookcases,Sauder Cornerstone Collection Library,61.96,2,0,4.3372
+159,CA-2016-141397,6/20/2016,Roy Collins,Consumer,California,91104,Chairs,Hon Valutask Swivel Chairs,161.568,2,0.2,-8.0784
+160,US-2016-134488,9/24/2016,Pete Kriz,Consumer,Ohio,43229,Chairs,Office Star - Contemporary Task Swivel Chair,155.372,2,0.3,-13.3176
+161,CA-2016-145919,12/18/2016,Henry Goldwyn,Corporate,California,90032,Furnishings,"Seth Thomas 12"" Clock w/ Goldtone Case",183.84,8,0,62.5056
+162,CA-2015-120439,6/14/2015,Alan Dominguez,Home Office,Pennsylvania,19120,Furnishings,"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",51.072,6,0.2,5.1072
+163,CA-2016-142762,5/23/2016,Lisa DeCherney,Consumer,California,94109,Furnishings,"Eldon Image Series Desk Accessories, Ebony",37.05,3,0,16.302
+164,CA-2017-100524,3/31/2017,Chad McGuire,Consumer,New York,10011,Furnishings,Tensor Computer Mounted Lamp,29.78,2,0,8.0406
+165,CA-2017-160045,4/26/2017,Larry Blacks,Consumer,Texas,76106,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",1.988,1,0.6,-1.4413
+166,US-2014-151925,9/26/2014,Kean Takahito,Consumer,California,90049,Chairs,"Leather Task Chair, Black",145.568,2,0.2,0
+167,US-2015-103471,12/24/2015,Jim Radford,Consumer,Colorado,80906,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",590.058,7,0.7,-786.744
+168,CA-2015-120362,9/14/2015,Christina Anderson,Consumer,Utah,84604,Tables,"Lesro Round Back Collection Coffee Table, End Table",912.75,5,0,118.6575
+169,US-2016-161396,4/19/2016,Gary Mitchum,Home Office,Ohio,43229,Tables,"Bush Andora Conference Table, Maple/Graphite Gray Finish",205.176,2,0.4,-58.1332
+170,US-2016-122245,9/25/2016,Adrian Barton,Consumer,Arizona,85023,Tables,Bevis Boat-Shaped Conference Table,393.165,3,0.5,-204.4458
+171,CA-2017-115994,1/28/2017,Beth Thompson,Home Office,California,92627,Furnishings,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",37.74,3,0,12.8316
+172,CA-2015-126697,9/21/2015,Stuart Van,Corporate,Texas,77041,Furnishings,Longer-Life Soft White Bulbs,4.928,4,0.6,-1.4784
+173,CA-2014-120768,12/19/2014,Irene Maddox,Consumer,Alabama,35630,Chairs,High-Back Leather Manager's Chair,1819.86,14,0,163.7874
+174,CA-2015-139731,10/15/2015,Joel Eaton,Consumer,Texas,79109,Chairs,HON 5400 Series Task Chairs for Big and Tall,2453.43,5,0.3,-350.49
+175,CA-2017-102337,6/13/2017,Shirley Daniels,Home Office,Illinois,60653,Chairs,Global Super Steno Chair,470.302,7,0.3,-87.3418
+176,CA-2016-152289,8/26/2016,Linda Cazamias,Corporate,Texas,77506,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,1024.716,6,0.3,-29.2776
+177,CA-2017-166436,11/24/2017,Todd Sumrall,Corporate,New York,10035,Chairs,Global Ergonomic Managers Chair,977.292,6,0.1,173.7408
+178,CA-2017-139661,10/30/2017,Jane Waco,Corporate,Washington,98661,Furnishings,Magna Visual Magnetic Picture Hangers,9.64,2,0,3.6632
+179,CA-2016-100468,11/24/2016,Alyssa Tate,Home Office,California,90045,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",9.94,2,0,3.0814
+180,CA-2016-122392,7/22/2016,Caroline Jumper,Consumer,Pennsylvania,18103,Furnishings,"Master Caster Door Stop, Large Neon Orange",11.648,2,0.2,3.3488
+181,CA-2017-121888,9/15/2017,Carl Ludwig,Consumer,Massachusetts,2149,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",782.94,3,0,203.5644
+182,CA-2014-150245,12/31/2014,Pamela Coakley,Corporate,New York,13601,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",1573.488,7,0.2,196.686
+183,CA-2015-112116,3/16/2015,Jeremy Ellison,Consumer,Washington,98103,Tables,KI Adjustable-Height Table,171.96,2,0,44.7096
+184,US-2017-102890,6/30/2017,Sheri Gordon,Consumer,New York,10011,Tables,Bretford CR4500 Series Slim Rectangular Table,1044.63,5,0.4,-295.9785
+185,US-2014-157385,11/23/2014,Sanjit Chand,Consumer,California,90004,Chairs,Novimex Swivel Fabric Task Chair,603.92,5,0.2,-67.941
+186,US-2014-157385,11/23/2014,Sanjit Chand,Consumer,California,90004,Chairs,Safco Contoured Stacking Chairs,381.44,2,0.2,23.84
+187,CA-2014-101602,12/15/2014,Mick Crebagga,Consumer,Texas,79907,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",763.28,5,0.3,-21.808
+188,CA-2015-118423,3/24/2015,Dennis Pardue,Home Office,Illinois,61604,Bookcases,Sauder Inglewood Library Bookcases,359.058,3,0.3,-35.9058
+189,CA-2017-132234,10/16/2017,Maribeth Yedwab,Corporate,New York,10011,Furnishings,Executive Impressions Supervisor Wall Clock,547.3,13,0,175.136
+190,CA-2017-158876,11/19/2017,Aimee Bixby,Consumer,Texas,75007,Furnishings,Telescoping Adjustable Floor Lamp,15.992,2,0.6,-13.993
+191,CA-2014-156349,5/26/2014,Marina Lichtenstein,Corporate,California,90008,Bookcases,Sauder Inglewood Library Bookcases,290.666,2,0.15,27.3568
+192,CA-2015-143119,9/24/2015,Marc Crier,Consumer,Louisiana,70506,Chairs,Harbour Creations Steel Folding Chair,517.5,6,0,155.25
+193,CA-2017-101049,6/21/2017,Alan Shonely,Consumer,Ohio,44105,Furnishings,"Stacking Tray, Side-Loading, Legal, Smoke",17.92,5,0.2,2.464
+194,CA-2016-157266,5/26/2016,Toby Braunhardt,Consumer,District of Columbia,20016,Furnishings,9-3/4 Diameter Round Wall Clock,41.37,3,0,17.3754
+195,CA-2015-143077,9/17/2015,Sylvia Foulston,Corporate,Texas,77041,Furnishings,Howard Miller Distant Time Traveler Alarm Clock,21.936,2,0.6,-10.4196
+196,CA-2014-142839,8/16/2014,Troy Staebel,Consumer,Pennsylvania,19143,Tables,Chromcraft Rectangular Conference Tables,853.092,6,0.4,-227.4912
+197,US-2016-154361,3/14/2016,Henia Zydlo,Consumer,Ohio,43229,Furnishings,Advantus Panel Wall Acrylic Frame,21.88,5,0.2,6.2905
+198,CA-2015-114069,7/13/2015,Natalie DeCherney,Consumer,New York,10035,Chairs,Safco Contoured Stacking Chairs,1931.04,9,0.1,321.84
+199,CA-2017-123491,10/30/2017,Jamie Kunitz,Consumer,California,94122,Chairs,"Global Leather Task Chair, Black",71.992,1,0.2,-0.8999
+200,CA-2016-169943,5/19/2016,Bradley Nguyen,Consumer,New York,10011,Furnishings,Nu-Dell Float Frame 11 x 14 1/2,35.92,4,0,15.0864
+201,CA-2016-169943,5/19/2016,Bradley Nguyen,Consumer,New York,10011,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",39.76,8,0,12.3256
+202,US-2015-123218,12/20/2015,Katherine Ducich,Consumer,Illinois,60623,Bookcases,"Sauder Facets Collection Library, Sky Alder Finish",359.058,3,0.3,-71.8116
+203,US-2017-164056,4/29/2017,Filia McAdams,Corporate,Ohio,43017,Tables,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",1048.35,5,0.4,-69.89
+204,CA-2017-152807,10/30/2017,Mick Crebagga,Consumer,Pennsylvania,19140,Furnishings,"Stacking Tray, Side-Loading, Legal, Smoke",7.168,2,0.2,0.9856
+205,CA-2015-139094,11/22/2015,Meg O'Connel,Home Office,Texas,78207,Tables,Hon 2111 Invitation Series Straight Table,206.962,2,0.3,-32.5226
+206,CA-2017-168837,10/14/2017,Joni Wasserman,Consumer,California,94601,Furnishings,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,9.46,2,0,3.6894
+207,CA-2016-149461,11/13/2016,Adrian Shami,Home Office,Washington,98002,Furnishings,"Eldon Image Series Desk Accessories, Burgundy",4.18,1,0,1.5048
+208,CA-2016-165484,10/23/2016,Heather Kirkland,Corporate,Illinois,60610,Furnishings,DAX Cubicle Frames - 8x10,16.156,7,0.6,-12.117
+209,US-2017-161193,11/20/2017,Brian Thompson,Consumer,Ohio,43055,Furnishings,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",77.6,5,0.2,28.13
+210,US-2017-161193,11/20/2017,Brian Thompson,Consumer,Ohio,43055,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",4.656,2,0.2,1.5714
+211,CA-2015-131597,9/14/2015,Stefania Perrino,Corporate,California,90045,Tables,KI Conference Tables,170.136,3,0.2,-8.5068
+212,US-2014-130379,5/25/2014,Janet Lee,Consumer,Illinois,60623,Furnishings,"Electrix Incandescent Magnifying Lamp, Black",29.32,2,0.6,-24.189
+213,CA-2016-168956,2/16/2016,Erin Ashbrook,Corporate,Illinois,60623,Chairs,"Global Stack Chair with Arms, Black",62.958,3,0.3,-2.6982
+214,CA-2016-167507,12/22/2016,Sue Ann Reed,Consumer,Oregon,97756,Furnishings,3M Hangers With Command Adhesive,11.84,4,0.2,3.108
+215,CA-2016-167507,12/22/2016,Sue Ann Reed,Consumer,Oregon,97756,Furnishings,"Seth Thomas 14"" Day/Date Wall Clock",22.784,1,0.2,4.8416
+216,CA-2017-145884,10/21/2017,Sara Luxemburg,Home Office,Oklahoma,74403,Tables,Bevis Boat-Shaped Conference Table,262.11,1,0,62.9064
+217,CA-2016-157763,7/18/2016,Katharine Harms,Corporate,Kentucky,42104,Chairs,Hon Olson Stacker Stools,140.81,1,0,39.4268
+218,US-2017-121251,3/26/2017,Gary McGarr,Consumer,New York,10009,Bookcases,"Sauder Forest Hills Library with Doors, Woodland Oak Finish",257.568,2,0.2,-28.9764
+219,US-2016-100839,10/13/2016,Noah Childs,Corporate,Colorado,80013,Tables,Hon 5100 Series Wood Tables,727.45,5,0.5,-465.568
+220,US-2016-100839,10/13/2016,Noah Childs,Corporate,Colorado,80013,Furnishings,"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",24.96,3,0.2,4.368
+221,CA-2017-118857,4/15/2017,Adam Hart,Corporate,Nevada,89015,Furnishings,"Howard Miller 12"" Round Wall Clock",196.45,5,0,70.722
+222,CA-2014-116932,7/21/2014,Michelle Ellison,Corporate,California,94122,Chairs,Global Troy Executive Leather Low-Back Tilter,801.568,2,0.2,50.098
+223,CA-2014-116932,7/21/2014,Michelle Ellison,Corporate,California,94122,Tables,"Hon 30"" x 60"" Table with Locking Drawer",272.848,1,0.2,27.2848
+224,CA-2017-142888,11/21/2017,Benjamin Patterson,Consumer,Washington,99207,Tables,Safco Drafting Table,70.98,1,0,20.5842
+225,CA-2017-118885,12/29/2017,James Galang,Consumer,California,90049,Chairs,"Global High-Back Leather Tilter, Burgundy",393.568,4,0.2,-44.2764
+226,CA-2016-147578,4/22/2016,Paul Gonzalez,Consumer,California,94122,Furnishings,Ultra Door Pull Handle,31.56,3,0,10.4148
+227,CA-2014-142587,10/21/2014,Tracy Blumstein,Consumer,Ohio,45014,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",409.59,3,0.4,-122.877
+228,CA-2014-169775,8/29/2014,Ryan Akin,Consumer,Florida,33178,Tables,Balt Solid Wood Rectangular Table,174.0585,3,0.45,-110.7645
+229,CA-2017-167094,10/21/2017,Damala Kotsonis,Corporate,Oregon,97477,Chairs,Global Comet Stacking Armless Chair,478.48,2,0.2,47.848
+230,CA-2017-105886,12/18/2017,Duane Benoit,Consumer,New York,11572,Furnishings,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",18.96,2,0,8.532
+231,US-2017-111423,8/17/2017,Edward Hooks,Corporate,New York,13601,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,462.564,2,0.1,97.6524
+232,CA-2015-141768,5/25/2015,Nora Pelletier,Home Office,California,94109,Furnishings,Ultra Door Push Plate,14.73,3,0,4.8609
+233,CA-2014-110408,10/18/2014,Alan Schoenberger,Corporate,Alabama,36116,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",545.88,6,0,70.9644
+234,CA-2016-112669,4/14/2016,Kean Takahito,Consumer,Arizona,85301,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,933.536,4,0.2,105.0228
+235,CA-2014-164721,11/25/2014,Laurel Workman,Corporate,California,94513,Furnishings,Staple-based wall hangings,23.88,3,0,10.5072
+236,CA-2017-163510,12/25/2017,Joni Wasserman,Consumer,Kentucky,40214,Chairs,"Global Value Mid-Back Manager's Chair, Gray",304.45,5,0,76.1125
+237,CA-2016-145905,9/18/2016,Anne McFarland,Consumer,Alabama,36830,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,350.98,1,0,84.2352
+238,CA-2016-168354,9/19/2016,Rick Huthwaite,Home Office,Rhode Island,2908,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",872.32,4,0,244.2496
+239,CA-2015-114237,3/13/2015,Marc Crier,Consumer,Washington,98103,Bookcases,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",141.96,2,0,39.7488
+240,CA-2017-162481,9/25/2017,Carol Triggs,Consumer,Minnesota,55901,Chairs,"Global Leather Task Chair, Black",269.97,3,0,51.2943
+241,CA-2015-122287,6/18/2015,Skye Norling,Home Office,Arizona,85345,Furnishings,Flat Face Poster Frame,75.36,5,0.2,20.724
+242,CA-2017-120376,12/22/2017,Theone Pippenger,Consumer,Michigan,48227,Chairs,Hon GuestStacker Chair,1586.69,7,0,412.5394
+243,CA-2017-120376,12/22/2017,Theone Pippenger,Consumer,Michigan,48227,Tables,Bevis 44 x 96 Conference Tables,411.8,2,0,70.006
+244,CA-2014-106439,10/31/2014,Greg Guthrie,Corporate,California,90049,Chairs,Novimex Fabric Task Chair,146.352,3,0.2,-9.147
+245,CA-2015-133452,4/13/2015,Zuschuss Carroll,Consumer,California,91767,Tables,Hon 94000 Series Round Tables,710.832,3,0.2,-97.7394
+246,US-2017-110996,11/20/2017,Kelly Andreada,Consumer,California,91761,Chairs,Novimex High-Tech Fabric Mesh Task Chair,283.92,5,0.2,-46.137
+247,CA-2015-120103,12/24/2015,Maribeth Schnelling,Consumer,Arizona,85023,Furnishings,Magna Visual Magnetic Picture Hangers,7.712,2,0.2,1.7352
+248,CA-2017-166142,7/15/2017,Magdelene Morse,Consumer,Delaware,19805,Tables,Hon 2111 Invitation Series Straight Table,310.443,3,0.3,-48.7839
+249,CA-2014-145926,11/17/2014,Mark Packer,Home Office,Minnesota,56560,Chairs,Global Super Steno Chair,479.9,5,0,81.583
+250,CA-2014-123295,7/18/2014,Adrian Hane,Home Office,Arizona,85705,Chairs,Office Star - Ergonomically Designed Knee Chair,259.136,4,0.2,-25.9136
+251,CA-2015-164882,10/31/2015,Sandra Glassco,Consumer,California,92374,Chairs,"Global Fabric Manager's Chair, Dark Gray",323.136,4,0.2,20.196
+252,CA-2015-164882,10/31/2015,Sandra Glassco,Consumer,California,92374,Bookcases,DMI Eclipse Executive Suite Bookcases,425.833,1,0.15,20.0392
+253,CA-2017-167381,9/22/2017,Erica Hernandez,Home Office,Michigan,48911,Bookcases,O'Sullivan 4-Shelf Bookcase in Odessa Pine,241.96,2,0,41.1332
+254,US-2014-114188,5/20/2014,Randy Ferguson,Corporate,New Hampshire,3820,Furnishings,24-Hour Round Wall Clock,139.86,7,0,60.1398
+255,CA-2015-156377,12/31/2015,Trudy Brown,Consumer,Texas,75051,Furnishings,"Eldon Expressions Wood Desk Accessories, Oak",14.76,5,0.6,-11.439
+256,US-2016-152051,6/25/2016,Theresa Swint,Corporate,Pennsylvania,17403,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",422.058,3,0.3,-18.0882
+257,US-2017-139969,11/19/2017,Art Ferguson,Consumer,Texas,77840,Chairs,Office Star Flex Back Scooter Chair with White Frame,233.058,3,0.3,-53.2704
+258,US-2016-120460,4/30/2016,Ben Ferrer,Home Office,Texas,75081,Furnishings,Flat Face Poster Frame,22.608,3,0.6,-10.1736
+259,CA-2016-141019,5/14/2016,Logan Haushalter,Consumer,Ohio,45231,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",79.384,1,0.2,29.769
+260,CA-2016-154018,10/13/2016,Helen Andreada,Consumer,Texas,78041,Furnishings,"Tenex ""The Solids"" Textured Chair Mats",139.92,5,0.6,-150.414
+261,US-2017-137491,11/19/2017,Linda Cazamias,Corporate,Texas,76903,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",305.312,2,0.3,-8.7232
+262,CA-2015-128860,6/29/2015,Steven Cartwright,Consumer,Pennsylvania,17602,Furnishings,"Eldon Executive Woodline II Desk Accessories, Mahogany",20.104,1,0.2,1.7591
+263,CA-2017-107874,11/21/2017,Scott Williamson,Consumer,New York,10035,Furnishings,Howard Miller Distant Time Traveler Alarm Clock,27.42,1,0,11.2422
+264,CA-2016-106383,3/19/2016,Bobby Trafton,Consumer,Colorado,80122,Bookcases,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",72.294,1,0.7,-98.8018
+265,CA-2017-157091,6/26/2017,Denny Blanton,Consumer,Indiana,46350,Furnishings,Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,526.45,5,0,31.587
+266,CA-2017-166849,4/20/2017,Sanjit Jacobs,Home Office,Illinois,60610,Furnishings,Eldon Cleatmat Chair Mats for Medium Pile Carpets,44.4,2,0.6,-52.17
+267,CA-2016-164091,9/17/2016,Laura Armstrong,Corporate,Maine,4401,Furnishings,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",109.48,2,0,33.9388
+268,CA-2017-105214,6/16/2017,Troy Staebel,Consumer,California,94122,Chairs,Hon Multipurpose Stacking Arm Chairs,1212.96,7,0.2,90.972
+269,CA-2014-104283,6/27/2014,Liz MacKendrick,Consumer,Mississippi,38671,Tables,KI Adjustable-Height Table,85.98,1,0,22.3548
+270,CA-2017-142622,10/30/2017,Jim Karlsson,Consumer,Washington,98115,Chairs,Novimex Fabric Task Chair,97.568,2,0.2,-6.098
+271,CA-2017-142622,10/30/2017,Jim Karlsson,Consumer,Washington,98115,Chairs,Global Super Steno Chair,614.272,8,0.2,-23.0352
+272,CA-2017-142622,10/30/2017,Jim Karlsson,Consumer,Washington,98115,Bookcases,Bestar Classic Bookcase,199.98,2,0,37.9962
+273,CA-2015-149342,4/20/2015,Theresa Swint,Corporate,Georgia,31907,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",595.38,6,0,297.69
+274,CA-2017-127929,12/23/2017,Filia McAdams,Corporate,Connecticut,6457,Furnishings,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",181.95,3,0,38.2095
+275,CA-2017-157931,9/17/2017,Meg O'Connel,Home Office,Georgia,30076,Chairs,Global Ergonomic Managers Chair,723.92,4,0,188.2192
+276,CA-2016-115574,12/23/2016,Ben Peterman,Corporate,Illinois,60623,Bookcases,"Bush Westfield Collection Bookcases, Fully Assembled",141.372,2,0.3,-14.1372
+277,CA-2017-122035,7/20/2017,Elizabeth Moffitt,Corporate,South Dakota,57103,Chairs,Novimex Fabric Task Chair,182.94,3,0,27.441
+278,CA-2015-105102,9/15/2015,Brendan Murry,Corporate,New York,10035,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",46.384,1,0.2,1.1596
+279,US-2015-147739,12/25/2015,Justin Deggeller,Corporate,Pennsylvania,19140,Furnishings,Tenex Antistatic Computer Chair Mats,547.136,4,0.2,-68.392
+280,US-2014-143231,12/31/2014,Gary Mitchum,Home Office,Massachusetts,2038,Furnishings,Nu-Dell Executive Frame,63.2,5,0,23.384
+281,CA-2016-159373,3/13/2016,Liz Thompson,Consumer,Texas,78207,Tables,Hon Non-Folding Utility Tables,557.585,5,0.3,0
+282,CA-2015-111514,8/31/2015,Scott Cohen,Corporate,California,94122,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",1552.831,7,0.15,200.9546
+283,US-2014-148838,3/17/2014,Christine Phan,Corporate,New York,10024,Tables,Bretford Rectangular Conference Table Tops,1579.746,7,0.4,-447.5947
+284,US-2014-148838,3/17/2014,Christine Phan,Corporate,New York,10024,Tables,Balt Solid Wood Round Tables,1071.576,4,0.4,-553.6476
+285,US-2014-148838,3/17/2014,Christine Phan,Corporate,New York,10024,Tables,"Hon 30"" x 60"" Table with Locking Drawer",613.908,3,0.4,-122.7816
+286,US-2016-108637,3/13/2016,Adam Bellavance,Home Office,Virginia,22980,Furnishings,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",127.88,2,0,40.9216
+287,CA-2014-102295,11/24/2014,Erica Hackney,Consumer,California,95823,Chairs,"Global Leather & Oak Executive Chair, Burgundy",120.712,1,0.2,-18.1068
+288,US-2016-129469,9/23/2016,Kelly Lampkin,Corporate,Ohio,45014,Furnishings,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",532.704,6,0.2,-26.6352
+289,US-2016-110170,9/27/2016,Harry Marie,Corporate,Texas,77340,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,956.6648,7,0.32,-225.0976
+290,CA-2017-155985,3/23/2017,Bill Eplett,Home Office,California,94122,Furnishings,DAX Natural Wood-Tone Poster Frame,211.84,8,0,76.2624
+291,CA-2016-156300,12/29/2016,Troy Blackwell,Consumer,Wisconsin,53209,Chairs,"Global Leather & Oak Executive Chair, Burgundy",754.45,5,0,60.356
+292,US-2017-147669,12/25/2017,Susan Vittorini,Consumer,Ohio,45014,Tables,Hon Rectangular Conference Tables,273.06,2,0.4,-104.673
+293,CA-2017-129805,12/28/2017,Harry Marie,Corporate,Washington,98103,Furnishings,3M Hangers With Command Adhesive,7.4,2,0,3.034
+294,CA-2014-148586,3/25/2014,Annie Zypern,Consumer,New York,10009,Chairs,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",366.786,7,0.1,65.2064
+295,CA-2014-164210,11/18/2014,Pierre Wener,Consumer,Colorado,80027,Tables,Bevis Rectangular Conference Tables,145.98,2,0.5,-99.2664
+296,CA-2017-139948,7/17/2017,Shaun Weien,Consumer,Florida,33614,Furnishings,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",7.904,2,0.2,2.1736
+297,CA-2016-146934,5/22/2016,Art Ferguson,Consumer,New Jersey,7055,Tables,Bevis 36 x 72 Conference Tables,174.286,2,0.3,-19.9184
+298,CA-2016-119165,10/31/2016,Bill Donatelli,Consumer,Pennsylvania,19143,Chairs,Hon Olson Stacker Stools,492.835,5,0.3,-14.081
+299,US-2016-135923,1/22/2016,Carlos Meador,Consumer,North Carolina,28314,Furnishings,Eldon Pizzaz Desk Accessories,14.272,8,0.2,4.2816
+300,US-2016-135923,1/22/2016,Carlos Meador,Consumer,North Carolina,28314,Bookcases,"Sauder Forest Hills Library, Woodland Oak Finish",451.136,4,0.2,-67.6704
+301,CA-2017-126067,8/28/2017,Kristina Nunn,Home Office,Washington,98105,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",1137.75,5,0,250.305
+302,CA-2014-136644,6/16/2014,Sonia Cooley,Consumer,Indiana,46544,Chairs,"Global Geo Office Task Chair, Gray",647.84,8,0,32.392
+303,CA-2014-143917,7/25/2014,Ken Lonsdale,Consumer,California,94122,Furnishings,Staple-based wall hangings,77.92,8,0,34.2848
+304,CA-2015-168746,1/27/2015,Seth Vernon,Consumer,Ohio,44105,Chairs,High-Back Leather Manager's Chair,181.986,2,0.3,-54.5958
+305,CA-2015-113404,7/16/2015,Eleni McCrary,Corporate,California,94122,Chairs,Hon 2090 ÒPillow SoftÓ Series Mid Back Swivel/Tilt Chairs,1348.704,6,0.2,-219.1644
+306,CA-2015-113404,7/16/2015,Eleni McCrary,Corporate,California,94122,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,700.152,3,0.2,78.7671
+307,CA-2016-144792,4/30/2016,Ken Dana,Corporate,Arizona,85254,Furnishings,12-1/2 Diameter Round Wall Clock,111.888,7,0.2,22.3776
+308,CA-2017-108070,4/16/2017,Joel Eaton,Consumer,California,95123,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,102.833,1,0.15,-6.049
+309,CA-2017-101042,11/19/2017,Adrian Barton,Consumer,Kentucky,42420,Furnishings,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",821.88,6,0,213.6888
+310,CA-2015-147788,5/31/2015,Tamara Manning,Consumer,Utah,84057,Bookcases,O'Sullivan Living Dimensions 3-Shelf Bookcases,1406.86,7,0,140.686
+311,US-2014-155502,1/26/2014,Shirley Daniels,Home Office,Virginia,22304,Furnishings,"GE General Use Halogen Bulbs, 100 Watts, 1 Bulb per Pack",62.82,3,0,30.7818
+312,US-2014-155502,1/26/2014,Shirley Daniels,Home Office,Virginia,22304,Furnishings,Eldon Image Series Black Desk Accessories,12.42,3,0,4.4712
+313,CA-2017-131695,6/30/2017,Ralph Arnett,Consumer,New York,10024,Furnishings,"Executive Impressions 14""",22.23,1,0,9.7812
+314,CA-2014-127446,11/25/2014,Matt Collister,Corporate,Texas,76017,Tables,Bretford CR4500 Series Slim Rectangular Table,1218.735,5,0.3,-121.8735
+315,CA-2014-127446,11/25/2014,Matt Collister,Corporate,Texas,76017,Furnishings,"Master Caster Door Stop, Brown",6.096,3,0.6,-3.9624
+316,CA-2016-137204,4/28/2016,Bill Overfelt,Corporate,California,90045,Chairs,"Global Stack Chair without Arms, Black",41.568,2,0.2,2.598
+317,CA-2014-147298,4/26/2014,Aleksandra Gannaway,Corporate,California,90049,Chairs,Bevis Steel Folding Chairs,230.28,3,0.2,23.028
+318,US-2017-110604,5/15/2017,Jason Fortune-,Consumer,Washington,98103,Furnishings,24-Hour Round Wall Clock,39.96,2,0,17.1828
+319,US-2017-110604,5/15/2017,Jason Fortune-,Consumer,Washington,98103,Chairs,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,42.624,2,0.2,4.2624
+320,US-2017-110604,5/15/2017,Jason Fortune-,Consumer,Washington,98103,Chairs,SAFCO Arco Folding Chair,220.96,1,0.2,24.858
+321,CA-2016-149111,4/17/2016,Ben Ferrer,Home Office,North Carolina,27604,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",18.624,8,0.2,6.2856
+322,US-2016-146794,9/26/2016,Sally Hughsby,Corporate,California,92345,Bookcases,Bestar Classic Bookcase,424.9575,5,0.15,19.998
+323,CA-2017-112515,9/17/2017,Alan Schoenberger,Corporate,Utah,84604,Bookcases,"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",1292.94,3,0,77.5764
+324,CA-2015-135538,12/24/2015,Harold Ryan,Corporate,Arizona,85234,Chairs,SAFCO Arco Folding Chair,883.84,4,0.2,99.432
+325,US-2015-139759,8/25/2015,Nancy Lomonaco,Home Office,California,90045,Chairs,"Global Deluxe Stacking Chair, Gray",40.784,1,0.2,4.5882
+326,CA-2016-138079,1/22/2016,Anthony Johnson,Corporate,Washington,98115,Furnishings,"Contract Clock, 14"", Brown",109.9,5,0,37.366
+327,CA-2014-143182,10/15/2014,Dan Lawera,Consumer,Florida,33012,Furnishings,"Executive Impressions 13"" Clairmont Wall Clock",15.384,1,0.2,4.0383
+328,CA-2014-145317,3/18/2014,Sean Miller,Home Office,Florida,32216,Furnishings,"Executive Impressions 13"" Clairmont Wall Clock",30.768,2,0.2,8.0766
+329,CA-2014-145317,3/18/2014,Sean Miller,Home Office,Florida,32216,Furnishings,"Dana Fluorescent Magnifying Lamp, White, 36""",122.352,3,0.2,15.294
+330,CA-2015-121797,1/30/2015,Charles Crestani,Consumer,California,90049,Furnishings,"Computer Room Manger, 14""",227.36,7,0,81.8496
+331,CA-2017-104801,2/13/2017,Fred Harton,Consumer,Washington,98105,Furnishings,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",107.53,1,0,21.506
+332,CA-2015-115798,11/13/2015,Ken Lonsdale,Consumer,Delaware,19711,Bookcases,Bestar Classic Bookcase,299.97,3,0,56.9943
+333,CA-2015-140144,6/20/2015,Stewart Carmichael,Corporate,California,94122,Furnishings,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",257.64,6,0,100.4796
+334,CA-2014-158029,5/26/2014,Herbert Flentye,Consumer,California,90008,Chairs,Hon Olson Stacker Stools,225.296,2,0.2,22.5296
+335,CA-2015-138534,7/17/2015,Jessica Myrick,Consumer,California,93309,Bookcases,"Sauder Camden County Collection Libraries, Planked Cherry Finish",195.466,2,0.15,-13.7976
+336,CA-2017-108322,4/30/2017,Saphhira Shifley,Corporate,Florida,33068,Furnishings,3M Hangers With Command Adhesive,23.68,8,0.2,6.216
+337,CA-2015-149972,9/21/2015,Cynthia Delaney,Home Office,California,90036,Chairs,Hon Every-Day Series Multi-Task Chairs,601.536,4,0.2,0
+338,CA-2015-148635,7/25/2015,Michelle Huthwaite,Consumer,Washington,98115,Bookcases,"Sauder Forest Hills Library, Woodland Oak Finish",704.9,5,0,56.392
+339,CA-2015-148635,7/25/2015,Michelle Huthwaite,Consumer,Washington,98115,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,561.568,2,0.2,28.0784
+340,CA-2015-135685,11/16/2015,Mike Pelletier,Home Office,Wisconsin,53209,Furnishings,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",185.58,6,0,76.0878
+341,CA-2015-135685,11/16/2015,Mike Pelletier,Home Office,Wisconsin,53209,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",214.11,3,0,36.3987
+342,CA-2015-135685,11/16/2015,Mike Pelletier,Home Office,Wisconsin,53209,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",653.55,3,0,111.1035
+343,US-2014-112914,9/25/2014,Michelle Tran,Home Office,Texas,77041,Bookcases,O'Sullivan Living Dimensions 5-Shelf Bookcases,300.5328,2,0.32,-97.2312
+344,US-2014-125521,3/14/2014,Christine Kargatis,Home Office,Virginia,23320,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,1139.92,4,0,284.98
+345,US-2016-162852,12/27/2016,Brooke Gillingham,Corporate,Illinois,60098,Chairs,"Global Manager's Adjustable Task Chair, Storm",845.488,8,0.3,-12.0784
+346,CA-2016-136371,3/19/2016,Susan Vittorini,Consumer,New York,11572,Furnishings,"GE 4 Foot Flourescent Tube, 40 Watt",14.98,1,0,6.8908
+347,CA-2016-136371,3/19/2016,Susan Vittorini,Consumer,New York,11572,Furnishings,"Master Caster Door Stop, Brown",20.32,4,0,6.9088
+348,CA-2016-128594,8/26/2016,Don Jones,Corporate,California,92037,Chairs,Global Troy Executive Leather Low-Back Tilter,1603.136,4,0.2,100.196
+349,CA-2016-154690,8/15/2016,Christopher Conant,Consumer,North Carolina,28314,Chairs,Hon Olson Stacker Stools,225.296,2,0.2,22.5296
+350,CA-2017-138975,5/19/2017,Shahid Collister,Consumer,Georgia,30318,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,1628.82,9,0,374.6286
+351,CA-2014-148040,3/22/2014,Beth Fritzler,Corporate,Arizona,85705,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,314.352,3,0.2,-35.3646
+352,US-2016-167339,1/21/2016,Tamara Dahlen,Consumer,California,92037,Chairs,Global Super Steno Chair,153.568,2,0.2,-5.7588
+353,US-2016-167339,1/21/2016,Tamara Dahlen,Consumer,California,92037,Chairs,Global Ergonomic Managers Chair,1013.488,7,0.2,76.0116
+354,US-2016-159856,10/18/2016,Emily Phan,Consumer,Arizona,85281,Chairs,Global Deluxe Steno Chair,307.92,5,0.2,-34.641
+355,CA-2014-142727,4/29/2014,Harry Greene,Consumer,Louisiana,70601,Chairs,"Global Stack Chair without Arms, Black",51.96,2,0,12.99
+356,CA-2017-139913,10/23/2017,Julie Creighton,Corporate,New York,14609,Furnishings,"Eldon 200 Class Desk Accessories, Smoke",69.08,11,0,29.0136
+357,US-2015-114839,4/26/2015,Pierre Wener,Consumer,Texas,77036,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,408.422,2,0.3,-5.8346
+358,CA-2016-153577,6/27/2016,Katharine Harms,Corporate,Illinois,60035,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,539.658,3,0.3,-7.7094
+359,CA-2016-160129,11/23/2016,Luke Schmidt,Corporate,Pennsylvania,19140,Furnishings,Nu-Dell Float Frame 11 x 14 1/2,14.368,2,0.2,3.9512
+360,CA-2016-160129,11/23/2016,Luke Schmidt,Corporate,Pennsylvania,19140,Furnishings,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",70.448,7,0.2,12.3284
+361,CA-2017-143434,11/18/2017,Maria Etezadi,Home Office,Michigan,48601,Furnishings,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",19.76,4,0,8.2992
+362,CA-2017-155880,3/25/2017,Justin Deggeller,Corporate,Wisconsin,53209,Chairs,Global Highback Leather Tilter in Burgundy,90.99,1,0,14.5584
+363,CA-2017-155880,3/25/2017,Justin Deggeller,Corporate,Wisconsin,53209,Chairs,"Lifetime Advantage Folding Chairs, 4/Carton",1526.56,7,0,427.4368
+364,CA-2017-155880,3/25/2017,Justin Deggeller,Corporate,Wisconsin,53209,Chairs,"Global High-Back Leather Tilter, Burgundy",368.97,3,0,40.5867
+365,CA-2017-126242,11/19/2017,Mick Crebagga,Consumer,California,90049,Furnishings,"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",18.7,1,0,7.106
+366,CA-2017-169859,12/14/2017,Mike Pelletier,Home Office,California,92024,Furnishings,"Eldon 400 Class Desk Accessories, Black Carbon",26.25,3,0,11.025
+367,CA-2017-123638,6/27/2017,Michelle Arnett,Home Office,New York,13601,Chairs,"Situations Contoured Folding Chairs, 4/Set",191.646,3,0.1,31.941
+368,CA-2017-137428,12/16/2017,Andy Yotov,Corporate,California,92054,Chairs,"Global Deluxe Stacking Chair, Gray",81.568,2,0.2,9.1764
+369,CA-2017-137428,12/16/2017,Andy Yotov,Corporate,California,92054,Chairs,"Global Value Steno Chair, Gray",97.184,2,0.2,6.074
+370,CA-2017-137428,12/16/2017,Andy Yotov,Corporate,California,92054,Furnishings,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",18.96,2,0,7.584
+371,CA-2014-162866,12/27/2014,Corey-Lock,Consumer,Illinois,60076,Furnishings,DAX Wood Document Frame,32.952,6,0.6,-19.7712
+372,CA-2014-109232,1/13/2014,Natalie DeCherney,Consumer,South Carolina,29464,Chairs,Global Highback Leather Tilter in Burgundy,545.94,6,0,87.3504
+373,CA-2016-139269,5/25/2016,Julia Barnett,Home Office,Georgia,31907,Furnishings,Eldon Expressions Mahogany Wood Desk Collection,24.96,4,0,6.24
+374,CA-2014-138317,6/21/2014,Natalie Webber,Consumer,Pennsylvania,19120,Furnishings,Stacking Trays by OIC,3.984,1,0.2,0.6474
+375,US-2015-138919,9/17/2015,Lindsay Shagiari,Home Office,New York,10035,Tables,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",344.22,2,0.4,-103.266
+376,US-2016-160528,8/23/2016,Mick Hernandez,Home Office,Texas,78577,Furnishings,Flat Face Poster Frame,22.608,3,0.6,-10.1736
+377,CA-2017-124674,11/17/2017,Joy Bell-,Consumer,Texas,78521,Bookcases,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",327.7328,2,0.32,-14.4588
+378,CA-2017-169054,4/22/2017,Meg O'Connel,Home Office,Pennsylvania,19140,Furnishings,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",254.352,3,0.2,0
+379,CA-2017-116855,12/17/2017,Arianne Irving,Consumer,Virginia,23320,Chairs,Hon Valutask Swivel Chairs,504.9,5,0,80.784
+380,CA-2015-168480,9/21/2015,Dario Medina,Corporate,Michigan,48146,Bookcases,O'Sullivan 2-Shelf Heavy-Duty Bookcases,194.32,4,0,31.0912
+381,US-2016-114293,11/21/2016,Justin Hirsh,Consumer,Oregon,97030,Chairs,Novimex Fabric Task Chair,195.136,4,0.2,-12.196
+382,CA-2017-131492,10/19/2017,Hilary Holden,Corporate,California,94110,Furnishings,"Linden 10"" Round Wall Clock, Black",30.56,2,0,10.3904
+383,CA-2017-131492,10/19/2017,Hilary Holden,Corporate,California,94110,Tables,Anderson Hickey Conga Table Tops & Accessories,24.368,2,0.2,-3.3506
+384,CA-2014-119375,11/17/2014,Yoseph Carroll,Corporate,Delaware,19711,Furnishings,Eldon Econocleat Chair Mats for Low Pile Carpets,124.41,3,0,14.9292
+385,CA-2014-143903,7/20/2014,Katherine Murray,Home Office,Texas,75217,Furnishings,Westinghouse Clip-On Gooseneck Lamps,16.74,5,0.6,-14.229
+386,CA-2014-143903,7/20/2014,Katherine Murray,Home Office,Texas,75217,Chairs,HON 5400 Series Task Chairs for Big and Tall,981.372,2,0.3,-140.196
+387,US-2017-159205,3/31/2017,Daniel Byrd,Home Office,Kentucky,42420,Furnishings,Advantus Panel Wall Certificate Holder - 8.5x11,61,5,0,25.62
+388,CA-2017-135692,4/27/2017,Cynthia Voltz,Corporate,Texas,76106,Bookcases,Sauder Barrister Bookcases,220.2656,4,0.32,-42.1096
+389,CA-2017-131233,4/14/2017,Christine Sundaresam,Consumer,New York,10024,Bookcases,"Bush Westfield Collection Bookcases, Fully Assembled",242.352,3,0.2,9.0882
+390,CA-2017-119578,12/22/2017,Jason Gross,Corporate,Rhode Island,2908,Bookcases,"Bush Cubix Collection Bookcases, Fully Assembled",220.98,1,0,50.8254
+391,CA-2016-150350,8/23/2016,Maxwell Schwartz,Consumer,Washington,98105,Chairs,Office Star Flex Back Scooter Chair with White Frame,532.704,6,0.2,-39.9528
+392,CA-2014-136399,12/16/2014,Chad Cunningham,Home Office,California,90049,Furnishings,"Executive Impressions 14"" Contract Wall Clock",44.46,2,0,14.6718
+393,CA-2014-136399,12/16/2014,Chad Cunningham,Home Office,California,90049,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,241.568,2,0.2,18.1176
+394,CA-2014-107916,8/24/2014,Jennifer Patt,Corporate,New York,11572,Furnishings,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,13.28,2,0,6.3744
+395,CA-2015-147830,12/15/2015,Natalie Fritzler,Consumer,Ohio,43055,Furnishings,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",262.864,7,0.2,69.0018
+396,CA-2015-139584,8/24/2015,Eleni McCrary,Corporate,New York,10009,Tables,Chromcraft Rectangular Conference Tables,284.364,2,0.4,-75.8304
+397,CA-2016-146682,10/29/2016,Katrina Willman,Consumer,Michigan,48911,Furnishings,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,67,5,0,32.16
+398,CA-2016-138695,5/28/2016,Kimberly Carter,Corporate,Florida,32303,Chairs,Novimex Fabric Task Chair,390.272,8,0.2,-24.392
+399,US-2016-133879,3/21/2016,Kean Takahito,Consumer,Illinois,60623,Chairs,"Global Airflow Leather Mesh Back Chair, Black",528.43,5,0.3,0
+400,US-2017-132059,9/23/2017,Arthur Prichep,Consumer,Colorado,80525,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",180.588,2,0.7,-240.784
+401,CA-2014-164224,5/18/2014,Ted Trevino,Consumer,Ohio,44312,Furnishings,Deflect-o Glass Clear Studded Chair Mats,149.232,3,0.2,3.7308
+402,CA-2016-140746,1/15/2016,Roy Collins,Consumer,Connecticut,6824,Tables,"Bevis Round Bullnose 29"" High Table Top",181.797,1,0.3,-15.5826
+403,US-2016-127971,11/20/2016,David Wiener,Corporate,Texas,77095,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",318.43,5,0.3,-77.333
+404,US-2016-127971,11/20/2016,David Wiener,Corporate,Texas,77095,Furnishings,Eldon Wave Desk Accessories,7.068,3,0.6,-2.8272
+405,CA-2016-159730,9/17/2016,Sanjit Jacobs,Home Office,Washington,98103,Chairs,Harbour Creations 67200 Series Stacking Chairs,113.888,2,0.2,9.9652
+406,CA-2017-119389,4/17/2017,Bruce Geld,Consumer,Pennsylvania,19120,Furnishings,"Eldon Executive Woodline II Desk Accessories, Mahogany",60.312,3,0.2,5.2773
+407,CA-2014-159478,9/30/2014,Maya Herman,Corporate,New York,10035,Furnishings,"Master Caster Door Stop, Brown",15.24,3,0,5.1816
+408,CA-2014-106264,12/26/2014,Clytie Kelty,Consumer,California,92024,Furnishings,"Eldon Regeneration Recycled Desk Accessories, Smoke",3.48,2,0,1.1136
+409,US-2014-159926,11/18/2014,Carlos Soltero,Consumer,Pennsylvania,19140,Furnishings,"Eldon Executive Woodline II Desk Accessories, Mahogany",60.312,3,0.2,5.2773
+410,CA-2016-162747,3/20/2016,Aaron Hawkins,Corporate,Mississippi,39503,Furnishings,"Eldon Image Series Desk Accessories, Ebony",86.45,7,0,38.038
+411,US-2014-133130,9/27/2014,Thea Hendricks,Consumer,California,92037,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,603.92,5,0.2,45.294
+412,CA-2017-169978,12/24/2017,Hunter Glantz,Consumer,New York,11572,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,271.764,2,0.1,48.3136
+413,CA-2014-134551,12/20/2014,Tony Sayre,Consumer,Tennessee,38401,Chairs,SAFCO Arco Folding Chair,662.88,3,0.2,74.574
+414,CA-2015-120810,7/23/2015,Tracy Hopkins,Home Office,New York,10009,Furnishings,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",128.82,3,0,50.2398
+415,CA-2017-122595,12/14/2017,Gary Mitchum,Home Office,Illinois,60653,Furnishings,"Master Caster Door Stop, Gray",2.032,1,0.6,-1.3208
+416,US-2017-109253,8/21/2017,Patrick Ryan,Consumer,California,94601,Furnishings,Tenex Chairmats For Use with Hard Floors,129.92,4,0,10.3936
+417,US-2017-109253,8/21/2017,Patrick Ryan,Consumer,California,94601,Tables,Chromcraft Rectangular Conference Tables,568.728,3,0.2,28.4364
+418,CA-2016-145982,8/27/2016,Ted Butterfield,Consumer,Massachusetts,2169,Tables,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",244.615,1,0.3,20.967
+419,US-2014-134733,9/23/2014,Brian Moss,Corporate,California,92037,Bookcases,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",435.999,3,0.15,20.5176
+420,US-2014-150434,7/19/2014,Christine Abelman,Corporate,Connecticut,6010,Tables,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",70.56,1,0.3,-4.032
+421,CA-2016-130050,7/16/2016,Mark Cousins,Corporate,Texas,77036,Furnishings,Staple-based wall hangings,9.552,3,0.6,-3.8208
+422,CA-2014-115161,1/31/2014,Liz Carlisle,Consumer,California,92691,Bookcases,"Sauder Facets Collection Library, Sky Alder Finish",290.666,2,0.15,3.4196
+423,CA-2015-115511,11/21/2015,Natalie Webber,Consumer,Nevada,89115,Bookcases,"Hon Metal Bookcases, Putty",141.96,2,0,41.1684
+424,CA-2017-103156,11/23/2017,Tamara Dahlen,Consumer,Pennsylvania,19120,Furnishings,OIC Stacking Trays,24.048,9,0.2,7.2144
+425,CA-2017-168739,5/29/2017,Henia Zydlo,Consumer,Texas,77095,Furnishings,Eldon Executive Woodline II Cherry Finish Desk Accessories,65.424,4,0.6,-52.3392
+426,US-2014-150119,4/23/2014,Laurel Beltran,Home Office,Ohio,43229,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",281.372,2,0.3,-12.0588
+427,US-2014-150119,4/23/2014,Laurel Beltran,Home Office,Ohio,43229,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",281.372,2,0.3,-12.0588
+428,US-2014-150119,4/23/2014,Laurel Beltran,Home Office,Ohio,43229,Furnishings,G.E. Halogen Desk Lamp Bulbs,22.336,4,0.2,7.8176
+429,CA-2015-153381,9/24/2015,Deanra Eno,Home Office,Iowa,52001,Chairs,Hon Olson Stacker Stools,1408.1,10,0,394.268
+430,US-2015-100531,9/27/2015,Neoma Murray,Consumer,Illinois,60610,Furnishings,"DAX Metal Frame, Desktop, Stepped-Edge",24.288,3,0.6,-12.7512
+431,CA-2017-152583,10/30/2017,Ryan Akin,Consumer,Texas,75217,Furnishings,"DAX Metal Frame, Desktop, Stepped-Edge",16.192,2,0.6,-8.5008
+432,CA-2017-152583,10/30/2017,Ryan Akin,Consumer,Texas,75217,Tables,"Bevis Round Conference Table Top, X-Base",251.006,2,0.3,-68.1302
+433,CA-2017-136448,9/16/2017,Adam Shillingsburg,Consumer,Pennsylvania,19143,Furnishings,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",22.512,3,0.2,2.2512
+434,CA-2016-146143,12/14/2016,Michael Chen,Consumer,Mississippi,39212,Furnishings,"Executive Impressions 14""",133.38,6,0,58.6872
+435,CA-2014-124688,8/27/2014,Corey Catlett,Corporate,Virginia,22153,Furnishings,"Master Caster Door Stop, Large Neon Orange",29.12,4,0,12.5216
+436,CA-2014-124688,8/27/2014,Corey Catlett,Corporate,Virginia,22153,Tables,Bretford CR8500 Series Meeting Room Furniture,1202.94,3,0,300.735
+437,CA-2017-142034,9/24/2017,Karen Bern,Corporate,Minnesota,56301,Chairs,"Global Airflow Leather Mesh Back Chair, Black",603.92,4,0,181.176
+438,CA-2014-166863,6/20/2014,Sam Craven,Consumer,Texas,75023,Bookcases,"Hon Metal Bookcases, Black",193.0656,4,0.32,-19.8744
+439,CA-2015-124975,6/22/2015,Michael Grace,Home Office,Illinois,60505,Tables,Hon Rectangular Conference Tables,796.425,7,0.5,-525.6405
+440,CA-2016-157511,9/18/2016,Seth Vernon,Consumer,Ohio,43229,Furnishings,Eldon Pizzaz Desk Accessories,5.352,3,0.2,1.6056
+441,CA-2016-157511,9/18/2016,Seth Vernon,Consumer,Ohio,43229,Chairs,"Situations Contoured Folding Chairs, 4/Set",99.372,2,0.3,-7.098
+442,CA-2017-155292,10/30/2017,Ross DeVincentis,Home Office,Kentucky,40475,Chairs,"Metal Folding Chairs, Beige, 4/Carton",33.94,1,0,9.1638
+443,CA-2016-152555,3/29/2016,Maria Etezadi,Home Office,Illinois,60653,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",844.116,6,0.3,-36.1764
+444,CA-2016-104157,7/25/2016,Meg Tillman,Consumer,Mississippi,39212,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",2430.08,8,0,388.8128
+445,CA-2014-159835,11/17/2014,Randy Bradley,Consumer,Pennsylvania,19143,Chairs,Hon Every-Day Series Multi-Task Chairs,657.93,5,0.3,-93.99
+446,CA-2017-112956,8/21/2017,Tracy Hopkins,Home Office,Maryland,21044,Furnishings,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",25.16,2,0,8.5544
+447,CA-2017-112956,8/21/2017,Tracy Hopkins,Home Office,Maryland,21044,Furnishings,"Seth Thomas 12"" Clock w/ Goldtone Case",91.92,4,0,31.2528
+448,CA-2017-112529,11/19/2017,Stewart Carmichael,Corporate,Texas,78207,Tables,"Bush Andora Conference Table, Maple/Graphite Gray Finish",718.116,6,0.3,-71.8116
+449,CA-2014-159184,9/14/2014,John Castell,Consumer,Georgia,31204,Furnishings,"Seth Thomas 14"" Day/Date Wall Clock",142.4,5,0,52.688
+450,CA-2017-113530,5/19/2017,Becky Castell,Home Office,California,94109,Chairs,"Situations Contoured Folding Chairs, 4/Set",681.408,12,0.2,42.588
+451,US-2015-131359,10/30/2015,Frank Atkinson,Corporate,Colorado,80219,Furnishings,"Eldon Regeneration Recycled Desk Accessories, Black",15.488,4,0.2,3.6784
+452,CA-2015-151680,11/19/2015,Tony Chapman,Home Office,Washington,98115,Furnishings,"Tenex V2T-RE Standard Weight Series Chair Mat, 45"" x 53"", Lip 25"" x 12""",141.96,2,0,22.7136
+453,CA-2017-169411,12/24/2017,Ann Chong,Corporate,New York,14609,Furnishings,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",37.93,1,0,6.8274
+454,CA-2014-120544,11/23/2014,Saphhira Shifley,Corporate,Texas,75150,Furnishings,Staple-based wall hangings,6.368,2,0.6,-2.5472
+455,CA-2017-113670,10/15/2017,Roland Schwarz,Corporate,California,90045,Tables,Bush Advantage Collection Round Conference Table,510.24,3,0.2,6.378
+456,CA-2017-166198,4/21/2017,Joni Wasserman,Consumer,Washington,98103,Furnishings,Eldon Advantage Foldable Chair Mats for Low Pile Carpets,162.6,3,0,34.146
+457,CA-2016-151155,12/20/2016,Alejandro Ballentine,Home Office,Mississippi,39212,Furnishings,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,18.92,4,0,7.3788
+458,CA-2016-149979,9/23/2016,Russell Applegate,Consumer,Georgia,31907,Chairs,Hon Mobius Operator's Chair,368.97,3,0,81.1734
+459,CA-2017-161956,8/27/2017,Dan Reichenbach,Corporate,California,90301,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",198.46,2,0,99.23
+460,CA-2017-161956,8/27/2017,Dan Reichenbach,Corporate,California,90301,Chairs,Bevis Steel Folding Chairs,230.28,3,0.2,23.028
+461,CA-2015-167745,9/18/2015,George Bell,Corporate,California,90049,Furnishings,Advantus Panel Wall Certificate Holder - 8.5x11,24.4,2,0,10.248
+462,CA-2016-156251,8/13/2016,Theresa Swint,Corporate,Wisconsin,53214,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,241.96,2,0,24.196
+463,CA-2016-163153,3/21/2016,Dario Medina,Corporate,Texas,77036,Tables,Safco Drafting Table,99.372,2,0.3,-1.4196
+464,CA-2014-153913,12/16/2014,Ken Black,Corporate,Florida,33012,Chairs,Hon Olson Stacker Stools,1013.832,9,0.2,101.3832
+465,CA-2016-155530,12/17/2016,Charles McCrossin,Consumer,California,94122,Tables,Bretford ÒJust In TimeÓ Height-Adjustable Multi-Task Work Tables,2003.52,6,0.2,-325.572
+466,US-2014-117163,1/27/2014,Ed Jacobs,Consumer,California,92037,Tables,Balt Split Level Computer Training Table,333,3,0.2,-16.65
+467,CA-2016-156503,10/14/2016,Nathan Cano,Consumer,North Carolina,28540,Chairs,SAFCO Folding Chair Trolley,102.592,1,0.2,10.2592
+468,CA-2015-102582,9/15/2015,Natalie Webber,Consumer,Alabama,36608,Tables,Bretford CR8500 Series Meeting Room Furniture,801.96,2,0,200.49
+469,CA-2015-102582,9/15/2015,Natalie Webber,Consumer,Alabama,36608,Chairs,"Global Manager's Adjustable Task Chair, Storm",1056.86,7,0,306.4894
+470,US-2015-111927,11/14/2015,Lycoris Saunders,Consumer,Delaware,19901,Furnishings,"Executive Impressions 13"" Chairman Wall Clock",76.14,3,0,26.649
+471,CA-2014-105984,11/24/2014,Muhammed Yedwab,Corporate,Ohio,43229,Chairs,Global Executive Mid-Back Manager's Chair,611.058,3,0.3,-34.9176
+472,CA-2014-126760,7/26/2014,Kunst Miller,Consumer,Nevada,89031,Chairs,Hon 2090 ÒPillow SoftÓ Series Mid Back Swivel/Tilt Chairs,674.352,3,0.2,-109.5822
+473,CA-2014-126760,7/26/2014,Kunst Miller,Consumer,Nevada,89031,Furnishings,Tensor Computer Mounted Lamp,134.01,9,0,36.1827
+474,CA-2014-101931,10/28/2014,Todd Sumrall,Corporate,California,90049,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,616.998,6,0.15,-36.294
+475,CA-2015-127593,9/21/2015,Duane Huffman,Home Office,Massachusetts,2169,Furnishings,"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",85.3,2,0,14.501
+476,CA-2017-154039,2/17/2017,Julie Kriz,Home Office,Illinois,60653,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",480.96,3,0.5,-269.3376
+477,CA-2015-157133,11/28/2015,Lena Creighton,Consumer,Illinois,61821,Furnishings,"Eldon ""L"" Workstation Diamond Chairmat",151.96,5,0.6,-182.352
+478,CA-2015-132486,10/23/2015,Jay Fein,Consumer,California,92105,Chairs,"Global Leather and Oak Executive Chair, Black",240.784,1,0.2,27.0882
+479,CA-2015-132486,10/23/2015,Jay Fein,Consumer,California,92105,Chairs,Global Chrome Stack Chair,191.968,7,0.2,16.7972
+480,CA-2015-132486,10/23/2015,Jay Fein,Consumer,California,92105,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,842.352,3,0.2,42.1176
+481,CA-2015-129896,6/15/2015,Peter Fuller,Consumer,Arizona,85234,Furnishings,"Eldon ""L"" Workstation Diamond Chairmat",364.704,6,0.2,-36.4704
+482,CA-2015-129896,6/15/2015,Peter Fuller,Consumer,Arizona,85234,Furnishings,"DAX Copper Panel Document Frame, 5 x 7 Size",40.256,4,0.2,11.0704
+483,US-2016-163881,11/24/2016,Sung Pak,Corporate,California,90036,Chairs,Global Leather Executive Chair,1684.752,6,0.2,210.594
+484,CA-2017-148068,9/18/2017,Muhammed MacIntyre,Corporate,New York,10035,Furnishings,Ultra Door Push Plate,9.82,2,0,3.2406
+485,US-2017-142573,7/18/2017,Maris LaWare,Consumer,Arizona,85023,Tables,"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",801.6,5,0.5,-448.896
+486,US-2017-142573,7/18/2017,Maris LaWare,Consumer,Arizona,85023,Chairs,"Global Fabric Manager's Chair, Dark Gray",161.568,2,0.2,10.098
+487,US-2017-142573,7/18/2017,Maris LaWare,Consumer,Arizona,85023,Chairs,High-Back Leather Manager's Chair,311.976,3,0.2,-42.8967
+488,CA-2014-103940,9/17/2014,Bradley Nguyen,Consumer,Washington,98103,Furnishings,"Executive Impressions 12"" Wall Clock",35.34,2,0,13.4292
+489,CA-2016-162082,3/14/2016,John Stevenson,Consumer,Texas,78550,Bookcases,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",241.332,5,0.32,-14.196
+490,CA-2015-118955,6/16/2015,Lycoris Saunders,Consumer,Texas,75051,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,197.372,2,0.3,-25.3764
+491,CA-2017-117863,5/18/2017,Toby Swindell,Consumer,New York,10024,Furnishings,"Master Caster Door Stop, Large Neon Orange",14.56,2,0,6.2608
+492,CA-2016-119963,11/18/2016,Steve Nguyen,Home Office,Texas,77506,Chairs,"Global Value Steno Chair, Gray",255.108,6,0.3,-18.222
+493,CA-2016-114951,6/26/2016,Duane Noonan,Consumer,California,94109,Furnishings,"Eldon Expressions Wood Desk Accessories, Oak",22.14,3,0,6.4206
+494,CA-2016-156573,5/29/2016,Raymond Buch,Consumer,Tennessee,37211,Furnishings,3M Polarizing Light Filter Sleeves,44.76,3,0.2,14.547
+495,CA-2017-134838,2/19/2017,Emily Ducich,Home Office,California,90045,Furnishings,Tensor Computer Mounted Lamp,44.67,3,0,12.0609
+496,CA-2016-167556,3/29/2016,Janet Martin,Consumer,New York,10009,Furnishings,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",414,8,0,124.2
+497,US-2016-116400,10/22/2016,Eric Barreto,Consumer,Virginia,23223,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",39.92,4,0,11.1776
+498,CA-2014-114517,12/23/2014,Tiffany House,Corporate,New York,10024,Tables,Hon 61000 Series Interactive Training Tables,53.316,2,0.4,-19.5492
+499,CA-2017-119564,12/15/2017,Paul Lucas,Home Office,Washington,98115,Furnishings,"Master Giant Foot Doorstop, Safety Yellow",22.77,3,0,9.7911
+500,CA-2016-108735,4/17/2016,Jessica Myrick,Consumer,California,90712,Bookcases,"Bush Westfield Collection Bookcases, Fully Assembled",257.499,3,0.15,24.2352
+501,US-2016-159415,4/17/2016,Charles Sheldon,Corporate,Tennessee,38401,Furnishings,"Ultra Door Kickplate, 8""H x 34""W",79.12,5,0.2,13.846
+502,CA-2014-122588,11/25/2014,Andy Reiter,Consumer,Rhode Island,2895,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,52.96,2,0,20.1248
+503,US-2015-149629,7/17/2015,Michael Paige,Corporate,Florida,34952,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",231.92,5,0.2,5.798
+504,CA-2014-154963,6/22/2014,Anna Andreadi,Consumer,Pennsylvania,19013,Chairs,"Padded Folding Chairs, Black, 4/Carton",170.058,3,0.3,-4.8588
+505,CA-2014-154963,6/22/2014,Anna Andreadi,Consumer,Pennsylvania,19013,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",853.93,5,0.3,0
+506,CA-2017-130764,10/27/2017,Jack O'Briant,Corporate,California,94110,Bookcases,"O'Sullivan Elevations Bookcase, Cherry Finish",556.665,5,0.15,6.549
+507,CA-2017-124296,12/24/2017,Christine Sundaresam,Consumer,Louisiana,70506,Chairs,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",232.88,4,0,60.5488
+508,CA-2014-110786,12/29/2014,Anthony Johnson,Corporate,California,94110,Furnishings,Stacking Trays by OIC,24.9,5,0,8.217
+509,CA-2014-110786,12/29/2014,Anthony Johnson,Corporate,California,94110,Furnishings,"Executive Impressions 10"" Spectator Wall Clock",70.56,6,0,23.9904
+510,CA-2015-137750,6/25/2015,Jill Fjeld,Consumer,California,94110,Furnishings,Dana Halogen Swing-Arm Architect Lamp,204.85,5,0,57.358
+511,CA-2017-136350,6/24/2017,George Ashbrook,Consumer,New York,10011,Furnishings,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",276.69,3,0,49.8042
+512,CA-2017-136350,6/24/2017,George Ashbrook,Consumer,New York,10011,Chairs,Global Deluxe Office Fabric Chairs,172.764,2,0.1,32.6332
+513,CA-2014-122931,9/29/2014,Suzanne McNair,Corporate,Pennsylvania,19134,Tables,"Hon 30"" x 60"" Table with Locking Drawer",409.272,2,0.4,-81.8544
+514,CA-2014-122931,9/29/2014,Suzanne McNair,Corporate,Pennsylvania,19134,Tables,Hon 4060 Series Tables,67.176,1,0.4,-20.1528
+515,CA-2015-124058,11/20/2015,Lena Creighton,Consumer,California,94601,Chairs,Safco Contoured Stacking Chairs,572.16,3,0.2,35.76
+516,CA-2016-145303,8/28/2016,Tom Prescott,Consumer,Texas,75081,Bookcases,"Sauder Camden County Collection Libraries, Planked Cherry Finish",156.3728,2,0.32,-52.8908
+517,CA-2017-108112,11/15/2017,Dana Kaydos,Consumer,Florida,33023,Furnishings,"Howard Miller 13-1/2"" Diameter Rosebrook Wall Clock",220.064,4,0.2,55.016
+518,CA-2017-108112,11/15/2017,Dana Kaydos,Consumer,Florida,33023,Furnishings,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",339.136,4,0.2,0
+519,US-2014-156559,8/19/2014,Lena Hernandez,Consumer,Arkansas,72401,Bookcases,"Hon Metal Bookcases, Gray",638.82,9,0,172.4814
+520,CA-2017-137456,12/21/2017,Rick Bensley,Home Office,Nebraska,68025,Furnishings,Staple-based wall hangings,15.92,2,0,7.0048
+521,CA-2015-153717,12/25/2015,Dionis Lloyd,Corporate,Michigan,48227,Bookcases,Rush Hierlooms Collection Rich Wood Bookcases,160.98,1,0,20.9274
+522,CA-2017-123239,7/27/2017,Mike Gockenbach,Consumer,Florida,32216,Furnishings,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",91.032,3,0.2,-2.2758
+523,CA-2017-112725,1/30/2017,Eugene Hildebrand,Home Office,California,94110,Chairs,Novimex Swivel Fabric Task Chair,120.784,1,0.2,-13.5882
+524,CA-2015-136196,11/28/2015,Tom Prescott,Consumer,New York,11520,Furnishings,"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",322.59,3,0,64.518
+525,CA-2015-150875,11/16/2015,Heather Kirkland,Corporate,Idaho,83704,Tables,Bretford CR4500 Series Slim Rectangular Table,696.42,2,0,160.1766
+526,CA-2014-145387,10/31/2014,Anne McFarland,Consumer,Rhode Island,2920,Furnishings,"Eldon Expressions Wood Desk Accessories, Oak",14.76,2,0,4.2804
+527,CA-2014-145387,10/31/2014,Anne McFarland,Consumer,Rhode Island,2920,Furnishings,Eldon Wave Desk Accessories,17.67,3,0,7.7748
+528,CA-2014-145387,10/31/2014,Anne McFarland,Consumer,Rhode Island,2920,Chairs,Hon Pagoda Stacking Chairs,1604.9,5,0,481.47
+529,CA-2014-145387,10/31/2014,Anne McFarland,Consumer,Rhode Island,2920,Tables,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",385.686,1,0.3,-60.6078
+530,US-2014-102631,12/13/2014,Ellis Ballard,Corporate,Illinois,60623,Furnishings,Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock,94.428,3,0.6,-42.4926
+531,CA-2017-117702,11/28/2017,Lindsay Shagiari,Home Office,Maryland,21215,Furnishings,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,1049.2,5,0,272.792
+532,CA-2017-117702,11/28/2017,Lindsay Shagiari,Home Office,Maryland,21215,Furnishings,"Eldon Image Series Desk Accessories, Burgundy",20.9,5,0,7.524
+533,CA-2014-168130,9/19/2014,Bill Shonely,Corporate,New York,10011,Chairs,Hon Olson Stacker Stools,887.103,7,0.1,177.4206
+534,CA-2017-163160,10/13/2017,Troy Staebel,Consumer,Illinois,61032,Furnishings,Dax Clear Box Frame,10.476,3,0.6,-6.8094
+535,CA-2016-124793,3/14/2016,Muhammed MacIntyre,Corporate,Washington,98103,Chairs,"Global High-Back Leather Tilter, Burgundy",196.784,2,0.2,-22.1382
+536,US-2017-124821,6/25/2017,Anne McFarland,Consumer,Washington,98115,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",871.4,4,0,148.138
+537,CA-2015-166975,11/26/2015,Stefanie Holloman,Corporate,Tennessee,38301,Furnishings,Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock,692.472,11,0.2,190.4298
+538,CA-2016-123806,11/24/2016,Laura Armstrong,Corporate,Maryland,21215,Furnishings,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",207.76,4,0,85.1816
+539,US-2016-107440,4/16/2016,Bill Shonely,Corporate,New Jersey,8701,Furnishings,Stacking Trays by OIC,9.96,2,0,3.2868
+540,CA-2014-166989,11/14/2014,Robert Marley,Home Office,New York,10011,Chairs,"Safco Chair Connectors, 6/Carton",69.264,2,0.1,14.6224
+541,CA-2015-105690,11/21/2015,Carol Adams,Corporate,Texas,77642,Bookcases,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,246.1328,2,0.32,-76.0116
+542,CA-2017-101581,10/22/2017,David Wiener,Corporate,Oregon,97756,Tables,KI Conference Tables,177.225,5,0.5,-120.513
+543,CA-2017-129021,8/23/2017,Patrick O'Brill,Consumer,Florida,32303,Furnishings,"Eldon Regeneration Recycled Desk Accessories, Smoke",2.784,2,0.2,0.4176
+544,CA-2014-162278,10/26/2014,Angele Hood,Consumer,Washington,98105,Furnishings,Tenex Chairmats For Use With Carpeted Floors,63.92,4,0,3.196
+545,CA-2015-154795,12/20/2015,Gary Zandusky,Consumer,Arizona,86442,Furnishings,Nu-Dell Float Frame 11 x 14 1/2,14.368,2,0.2,3.9512
+546,CA-2016-120355,9/18/2016,Magdelene Morse,Consumer,New York,10801,Chairs,Global Leather Executive Chair,631.782,2,0.1,140.396
+547,CA-2016-120355,9/18/2016,Magdelene Morse,Consumer,New York,10801,Furnishings,DAX Two-Tone Silver Metal Document Frame,60.72,3,0,26.1096
+548,CA-2014-166954,4/25/2014,Beth Thompson,Home Office,California,91776,Furnishings,"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",303.25,5,0,63.6825
+549,CA-2014-166954,4/25/2014,Beth Thompson,Home Office,California,91776,Chairs,GuestStacker Chair with Chrome Finish Legs,1487.04,5,0.2,148.704
+550,CA-2015-152891,10/25/2015,Trudy Brown,Consumer,California,94110,Tables,Balt Solid Wood Rectangular Table,253.176,3,0.2,-31.647
+551,US-2015-122784,7/20/2015,Russell Applegate,Consumer,Illinois,60035,Bookcases,O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,384.944,4,0.3,-126.4816
+552,US-2015-122784,7/20/2015,Russell Applegate,Consumer,Illinois,60035,Bookcases,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",913.43,5,0.3,-52.196
+553,CA-2017-111556,11/20/2017,Carlos Daly,Consumer,New York,10035,Bookcases,"Sauder Camden County Collection Libraries, Planked Cherry Finish",183.968,2,0.2,-25.2956
+554,CA-2016-131737,3/17/2016,Gary Zandusky,Consumer,Maryland,21044,Furnishings,Electrix Halogen Magnifier Lamp,971.5,5,0,252.59
+555,CA-2014-160157,12/20/2014,Mark Hamilton,Consumer,Ohio,45011,Furnishings,Eldon Cleatmat Plus Chair Mats for High Pile Carpets,190.848,3,0.2,-21.4704
+556,CA-2017-159464,5/18/2017,Todd Boyes,Corporate,Georgia,30328,Bookcases,Hon 4-Shelf Metal Bookcases,302.94,3,0,75.735
+557,CA-2017-119452,3/21/2017,Clay Ludtke,Consumer,Oklahoma,74133,Chairs,"Global Leather and Oak Executive Chair, Black",1805.88,6,0,523.7052
+558,CA-2015-121965,6/19/2015,Logan Haushalter,Consumer,California,90032,Furnishings,Eldon 200 Class Desk Accessories,12.56,2,0,4.0192
+559,US-2017-125717,9/28/2017,Darrin Sayre,Home Office,Colorado,80013,Furnishings,Dana Halogen Swing-Arm Architect Lamp,32.776,1,0.2,3.2776
+560,CA-2017-168641,11/24/2017,Kelly Andreada,Consumer,New York,10035,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,321.568,2,0.2,-16.0784
+561,CA-2017-121300,9/29/2017,Maureen Gastineau,Home Office,Ohio,44060,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",63.686,1,0.3,-15.4666
+562,CA-2017-121300,9/29/2017,Maureen Gastineau,Home Office,Ohio,44060,Tables,Riverside Furniture Stanwyck Manor Table Series,344.22,2,0.4,-189.321
+563,CA-2017-121300,9/29/2017,Maureen Gastineau,Home Office,Ohio,44060,Furnishings,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,21.248,4,0.2,7.4368
+564,CA-2017-130211,10/22/2017,Brian DeCherney,Consumer,Oklahoma,73505,Tables,Bevis 36 x 72 Conference Tables,248.98,2,0,54.7756
+565,CA-2017-105921,8/14/2017,Janet Martin,Consumer,California,90032,Tables,Chromcraft Round Conference Tables,418.296,3,0.2,5.2287
+566,CA-2017-112753,6/18/2017,Craig Carreira,Consumer,California,90032,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",917.9235,9,0.15,75.5937
+567,US-2014-138247,12/24/2014,Ben Ferrer,Home Office,California,90045,Furnishings,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",23.99,1,0,5.5177
+568,CA-2017-167003,5/23/2017,Vivek Sundaresam,Consumer,California,90036,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",171.288,3,0.2,-6.4233
+569,CA-2016-120873,10/27/2016,Ben Wallace,Consumer,Virginia,23666,Chairs,Global Executive Mid-Back Manager's Chair,290.98,1,0,75.6548
+570,CA-2014-109491,2/20/2014,Linda Cazamias,Corporate,Indiana,47374,Furnishings,"Master Caster Door Stop, Brown",20.32,4,0,6.9088
+571,US-2017-105046,7/17/2017,Bill Eplett,Home Office,New York,13440,Furnishings,DAX Solid Wood Frames,39.08,4,0,14.4596
+572,CA-2016-118759,11/14/2016,Maria Bertelson,Consumer,New York,10009,Chairs,Hon GuestStacker Chair,408.006,2,0.1,72.5344
+573,CA-2015-104129,2/27/2015,Erin Smith,Corporate,Rhode Island,2908,Tables,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",493.92,7,0.3,-28.224
+574,US-2014-165862,7/13/2014,Grace Kelly,Corporate,California,90049,Tables,Bevis Round Conference Table Top & Single Column Base,351.216,3,0.2,4.3902
+575,US-2014-106334,12/27/2014,Jeremy Farry,Consumer,California,94122,Chairs,Bevis Steel Folding Chairs,230.28,3,0.2,23.028
+576,CA-2017-129490,9/26/2017,Sanjit Jacobs,Home Office,Florida,33023,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",419.136,4,0.2,-57.6312
+577,CA-2014-169460,4/19/2014,Nicole Fjeld,Home Office,California,95123,Furnishings,"Executive Impressions 13"" Chairman Wall Clock",76.14,3,0,26.649
+578,CA-2016-120250,9/19/2016,Anne Pryor,Home Office,Pennsylvania,19140,Furnishings,Nu-Dell Oak Frame,25.632,3,0.2,3.8448
+579,CA-2016-129868,12/26/2016,Mike Caudle,Corporate,California,90004,Chairs,"Global Armless Task Chair, Royal Blue",146.352,3,0.2,-5.4882
+580,CA-2016-129868,12/26/2016,Mike Caudle,Corporate,California,90004,Tables,Bretford Rectangular Conference Table Tops,902.712,3,0.2,33.8517
+581,CA-2015-146948,7/16/2015,Michael Granlund,Home Office,Maryland,21215,Chairs,"Global Manager's Adjustable Task Chair, Storm",150.98,1,0,43.7842
+582,CA-2015-117800,9/21/2015,Tracy Hopkins,Home Office,Massachusetts,2149,Chairs,Global Ergonomic Managers Chair,542.94,3,0,141.1644
+583,US-2015-126235,10/15/2015,Guy Armstrong,Consumer,Michigan,48858,Furnishings,"DAX Cubicle Frames, 8-1/2 x 11",17.14,2,0,6.1704
+584,CA-2015-130456,8/21/2015,David Smith,Corporate,California,94122,Bookcases,Sauder Camden County Collection Library,586.398,6,0.15,34.494
+585,CA-2017-130141,10/22/2017,Helen Abelman,Consumer,Colorado,80525,Chairs,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,579.136,4,0.2,-28.9568
+586,CA-2016-139556,4/26/2016,Dennis Bolton,Home Office,New York,10009,Chairs,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,434.646,3,0.1,62.7822
+587,CA-2016-133550,7/31/2016,Ken Lonsdale,Consumer,Michigan,48205,Furnishings,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,272.94,3,0,30.0234
+588,CA-2017-139416,3/27/2017,Alejandro Grove,Consumer,Pennsylvania,19120,Furnishings,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",15.008,2,0.2,1.5008
+589,CA-2016-159912,8/29/2016,George Bell,Corporate,Pennsylvania,19120,Tables,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",241.92,4,0.4,-56.448
+590,CA-2016-159912,8/29/2016,George Bell,Corporate,Pennsylvania,19120,Bookcases,O'Sullivan 5-Shelf Heavy-Duty Bookcases,163.88,4,0.5,-81.94
+591,CA-2014-138681,12/20/2014,Carol Triggs,Consumer,Arizona,85705,Furnishings,"Computer Room Manger, 14""",51.968,2,0.2,10.3936
+592,CA-2014-138681,12/20/2014,Carol Triggs,Consumer,Arizona,85705,Chairs,Global Low Back Tilter Chair,242.352,3,0.2,-42.4116
+593,US-2015-138121,12/17/2015,John Lee,Consumer,Michigan,48205,Chairs,Hon Valutask Swivel Chairs,302.94,3,0,48.4704
+594,US-2015-138121,12/17/2015,John Lee,Consumer,Michigan,48205,Chairs,Harbour Creations 67200 Series Stacking Chairs,142.36,2,0,38.4372
+595,US-2015-138121,12/17/2015,John Lee,Consumer,Michigan,48205,Chairs,"Global Value Steno Chair, Gray",546.66,9,0,136.665
+596,US-2015-138121,12/17/2015,John Lee,Consumer,Michigan,48205,Furnishings,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",212.13,3,0,14.8491
+597,CA-2016-158435,5/17/2016,Arthur Gainer,Consumer,Connecticut,6708,Furnishings,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,173.24,4,0,17.324
+598,CA-2014-108273,12/16/2014,Ed Jacobs,Consumer,Texas,77340,Furnishings,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",56.568,2,0.6,-74.9526
+599,CA-2014-119151,11/25/2014,Mike Pelletier,Home Office,New York,10009,Bookcases,"Sauder Camden County Collection Libraries, Planked Cherry Finish",275.952,3,0.2,-37.9434
+600,US-2015-103996,3/29/2015,Richard Bierner,Consumer,California,92105,Furnishings,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,19.92,3,0,9.5616
+601,CA-2015-105725,2/18/2015,Guy Thornton,Consumer,California,90805,Tables,Hon 61000 Series Interactive Training Tables,35.544,1,0.2,-0.8886
+602,CA-2017-103499,11/20/2017,Erica Smith,Consumer,Tennessee,38301,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,209.568,2,0.2,-23.5764
+603,CA-2017-119746,11/23/2017,Christopher Martinez,Consumer,Illinois,60610,Furnishings,Contemporary Wood/Metal Frame,6.464,1,0.6,-4.04
+604,CA-2015-144722,3/16/2015,Monica Federle,Corporate,California,90036,Furnishings,"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",43.13,1,0,18.1146
+605,US-2016-148901,5/14/2016,Michael Kennedy,Corporate,Florida,32216,Furnishings,"DAX Copper Panel Document Frame, 5 x 7 Size",30.192,3,0.2,8.3028
+606,CA-2017-136364,7/13/2017,Mark Hamilton,Consumer,Pennsylvania,19140,Furnishings,Nu-Dell Executive Frame,91.008,9,0.2,19.3392
+607,CA-2016-121370,11/14/2016,Eugene Barchas,Consumer,Pennsylvania,19134,Chairs,Global Ergonomic Managers Chair,380.058,3,0.3,-21.7176
+608,CA-2016-121370,11/14/2016,Eugene Barchas,Consumer,Pennsylvania,19134,Furnishings,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",48.576,3,0.2,9.7152
+609,CA-2016-140018,11/21/2016,Chloris Kastensmidt,Consumer,Ohio,43229,Chairs,"Global Value Steno Chair, Gray",127.554,3,0.3,-9.111
+610,CA-2016-140018,11/21/2016,Chloris Kastensmidt,Consumer,Ohio,43229,Furnishings,"Computer Room Manger, 14""",77.952,3,0.2,15.5904
+611,CA-2017-154123,11/20/2017,Sample Company A,Home Office,Kentucky,42420,Furnishings,9-3/4 Diameter Round Wall Clock,27.58,2,0,11.5836
+612,CA-2015-137526,1/13/2015,Philip Brown,Consumer,California,90004,Furnishings,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",77.6,4,0,38.024
+613,CA-2015-137526,1/13/2015,Philip Brown,Consumer,California,90004,Furnishings,"Deflect-o EconoMat Nonstudded, No Bevel Mat",464.85,9,0,92.97
+614,CA-2017-122490,11/13/2017,Ted Trevino,Consumer,Washington,98103,Chairs,Global Troy Executive Leather Low-Back Tilter,2404.704,6,0.2,150.294
+615,CA-2016-163167,11/28/2016,Randy Ferguson,Corporate,Georgia,30062,Chairs,"Global Push Button Manager's Chair, Indigo",182.67,3,0,52.9743
+616,US-2014-122021,10/15/2014,Anna Chung,Consumer,Ohio,44134,Chairs,Global Italian Leather Office Chair,183.372,2,0.3,-7.8588
+617,CA-2017-117653,10/19/2017,Mary O'Rourke,Consumer,Illinois,60623,Tables,"Lesro Round Back Collection Coffee Table, End Table",91.275,1,0.5,-67.5435
+618,CA-2014-157147,1/13/2014,Brian Dahlen,Consumer,California,94109,Bookcases,"O'Sullivan Elevations Bookcase, Cherry Finish",333.999,3,0.15,3.9294
+619,CA-2017-107125,11/27/2017,Bill Donatelli,Consumer,California,90045,Furnishings,Eldon 200 Class Desk Accessories,18.84,3,0,6.0288
+620,CA-2016-149279,4/24/2016,Craig Leslie,Home Office,Colorado,80906,Chairs,SAFCO Arco Folding Chair,1325.76,6,0.2,149.148
+621,CA-2015-153038,12/18/2015,Robert Barroso,Corporate,Tennessee,38109,Furnishings,"Master Caster Door Stop, Brown",20.32,5,0.2,3.556
+622,CA-2014-153850,11/24/2014,Thea Hendricks,Consumer,Ohio,43615,Furnishings,"Eldon 200 Class Desk Accessories, Burgundy",35.168,7,0.2,9.6712
+623,CA-2014-127558,11/15/2014,Shahid Shariari,Consumer,California,90008,Furnishings,Eldon 100 Class Desk Accessories,10.11,3,0,3.2352
+624,CA-2016-133795,12/18/2016,Jeremy Ellison,Consumer,California,92037,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",39.92,4,0,11.1776
+625,US-2017-130953,7/29/2017,Roland Fjeld,Consumer,Oklahoma,73120,Chairs,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,302.67,3,0,72.6408
+626,CA-2016-155166,12/26/2016,Brenda Bowman,Corporate,New Jersey,8360,Chairs,Novimex Turbo Task Chair,212.94,3,0,25.5528
+627,CA-2017-142090,11/30/2017,Shahid Collister,Consumer,North Carolina,27217,Tables,Bush Advantage Collection Racetrack Conference Table,1781.682,7,0.4,-653.2834
+628,CA-2014-134572,4/20/2014,Seth Vernon,Consumer,Texas,77070,Tables,Bush Advantage Collection Round Conference Table,744.1,5,0.3,-95.67
+629,CA-2014-134572,4/20/2014,Seth Vernon,Consumer,Texas,77070,Tables,Riverside Furniture Stanwyck Manor Table Series,401.59,2,0.3,-131.951
+630,US-2017-133312,11/25/2017,Bradley Drucker,Consumer,California,94122,Bookcases,"Sauder Forest Hills Library, Woodland Oak Finish",359.499,3,0.15,-29.6058
+631,CA-2014-116568,12/14/2014,Bryan Mills,Consumer,Florida,32725,Chairs,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",186.304,4,0.2,13.9728
+632,CA-2015-153073,11/13/2015,Helen Abelman,Consumer,Illinois,60610,Furnishings,"Eldon Imˆge Series Desk Accessories, Clear",17.496,9,0.6,-7.4358
+633,CA-2014-160766,9/14/2014,Darrin Martin,Consumer,New York,10009,Tables,KI Adjustable-Height Table,464.292,9,0.4,-108.3348
+634,CA-2017-146626,12/29/2017,Ben Peterman,Corporate,California,92804,Furnishings,Nu-Dell Executive Frame,101.12,8,0,37.4144
+635,CA-2016-128972,11/13/2016,Tom Stivers,Corporate,Oklahoma,73120,Furnishings,"Master Giant Foot Doorstop, Safety Yellow",30.36,4,0,13.0548
+636,CA-2017-128734,12/24/2017,James Lanier,Home Office,Arizona,85224,Furnishings,Acrylic Self-Standing Desk Frames,8.544,4,0.2,1.9224
+637,CA-2017-128734,12/24/2017,James Lanier,Home Office,Arizona,85224,Chairs,Global Leather Executive Chair,842.376,3,0.2,105.297
+638,CA-2017-163006,6/30/2017,Gary Hansen,Home Office,Illinois,60653,Chairs,Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,569.058,3,0.3,-178.8468
+639,CA-2017-163006,6/30/2017,Gary Hansen,Home Office,Illinois,60653,Furnishings,"Seth Thomas 13 1/2"" Wall Clock",14.224,2,0.6,-10.3124
+640,CA-2014-111192,7/30/2014,Tom Stivers,Corporate,Washington,98103,Bookcases,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",1367.84,8,0,259.8896
+641,CA-2016-115378,11/18/2016,Ashley Jarboe,Consumer,Michigan,48180,Chairs,Novimex Swivel Fabric Task Chair,301.96,2,0,33.2156
+642,CA-2016-122903,5/27/2016,Laura Armstrong,Corporate,Michigan,48205,Chairs,HON 5400 Series Task Chairs for Big and Tall,3504.9,5,0,700.98
+643,CA-2017-106432,10/19/2017,Christina Anderson,Consumer,Texas,76706,Bookcases,Rush Hierlooms Collection Rich Wood Bookcases,328.3992,3,0.32,-91.7586
+644,US-2015-120502,4/13/2015,Bill Tyler,Corporate,California,90036,Furnishings,Flat Face Poster Frame,37.68,2,0,15.8256
+645,CA-2015-115567,9/13/2015,Zuschuss Carroll,Consumer,Indiana,47201,Chairs,Hon Multipurpose Stacking Arm Chairs,1516.2,7,0,394.212
+646,CA-2014-101560,11/28/2014,Chris Selesnick,Corporate,South Carolina,29203,Furnishings,Eldon Cleatmat Plus Chair Mats for High Pile Carpets,397.6,5,0,43.736
+647,CA-2015-142454,8/15/2015,Richard Eichhorn,Consumer,California,94601,Furnishings,Tensor Computer Mounted Lamp,104.23,7,0,28.1421
+648,CA-2014-140487,6/14/2014,Sharelle Roach,Home Office,Michigan,48234,Bookcases,"Hon Metal Bookcases, Gray",212.94,3,0,57.4938
+649,CA-2016-119865,6/21/2016,Adam Shillingsburg,Consumer,New York,10011,Bookcases,O'Sullivan Living Dimensions 5-Shelf Bookcases,353.568,2,0.2,-44.196
+650,CA-2017-124436,3/19/2017,Sue Ann Reed,Consumer,California,93727,Tables,Chromcraft Round Conference Tables,697.16,5,0.2,8.7145
+651,CA-2017-124436,3/19/2017,Sue Ann Reed,Consumer,California,93727,Furnishings,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",30.93,1,0,12.6813
+652,CA-2014-115084,10/18/2014,Luke Schmidt,Corporate,Arkansas,71854,Chairs,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,605.34,6,0,145.2816
+653,CA-2017-131037,8/22/2017,Tony Molinari,Consumer,California,94110,Tables,Hon Racetrack Conference Tables,210.008,1,0.2,2.6251
+654,CA-2014-166744,9/20/2014,Duane Noonan,Consumer,Maryland,21044,Furnishings,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",164.22,3,0,50.9082
+655,CA-2014-166744,9/20/2014,Duane Noonan,Consumer,Maryland,21044,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,362.94,3,0,36.294
+656,CA-2017-125913,1/16/2017,Jack O'Briant,Corporate,California,90008,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",27.92,4,0,8.0968
+657,CA-2017-125913,1/16/2017,Jack O'Briant,Corporate,California,90008,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",399.672,7,0.2,-14.9877
+658,CA-2014-113859,9/13/2014,Becky Castell,Home Office,Texas,79762,Chairs,"Padded Folding Chairs, Black, 4/Carton",340.116,6,0.3,-9.7176
+659,CA-2015-111073,12/26/2015,Mick Crebagga,Consumer,Ohio,44256,Tables,KI Adjustable-Height Table,51.588,1,0.4,-15.4764
+660,CA-2017-108791,7/27/2017,Tony Molinari,Consumer,New York,10701,Furnishings,Tensor Computer Mounted Lamp,14.89,1,0,4.0203
+661,CA-2016-113831,5/30/2016,Anna HŠberlin,Corporate,Virginia,22153,Tables,Hon Rectangular Conference Tables,2275.5,10,0,386.835
+662,US-2014-139500,11/16/2014,Alan Barnes,Consumer,Illinois,62521,Chairs,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,37.296,2,0.3,-1.0656
+663,US-2014-166310,9/21/2014,Joni Sundaresam,Home Office,Texas,75043,Furnishings,Dana Swing-Arm Lamps,8.544,2,0.6,-7.476
+664,US-2016-168410,2/21/2016,Benjamin Venier,Corporate,New York,11572,Furnishings,9-3/4 Diameter Round Wall Clock,68.95,5,0,28.959
+665,CA-2017-131254,11/19/2017,Nathan Cano,Consumer,Texas,77095,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",191.058,3,0.3,-46.3998
+666,CA-2017-137876,4/30/2017,Don Jones,Corporate,California,94110,Furnishings,"Seth Thomas 16"" Steel Case Clock",64.96,2,0,21.4368
+667,CA-2014-103331,8/26/2014,Karl Braun,Consumer,Delaware,19711,Furnishings,Acrylic Self-Standing Desk Frames,10.68,4,0,4.0584
+668,CA-2014-113768,5/13/2014,Aaron Hawkins,Corporate,California,90004,Chairs,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",279.456,6,0.2,20.9592
+669,US-2017-126060,4/14/2017,Dorothy Wardle,Corporate,North Carolina,28314,Bookcases,Sauder Cornerstone Collection Library,198.272,8,0.2,-32.2192
+670,CA-2016-122017,12/29/2016,Carlos Daly,Consumer,Kansas,67212,Furnishings,"Executive Impressions 10"" Spectator Wall Clock",70.56,6,0,23.9904
+671,CA-2015-118738,10/24/2015,Andrew Gjertsen,Corporate,Texas,77041,Tables,KI Conference Tables,347.361,7,0.3,-69.4722
+672,US-2014-123183,11/19/2014,Georgia Rosenberg,Corporate,Delaware,19805,Bookcases,Sauder Inglewood Library Bookcases,1025.88,6,0,235.9524
+673,US-2016-147340,9/24/2016,Edward Becker,Corporate,California,94110,Furnishings,Nu-Dell Executive Frame,63.2,5,0,23.384
+674,US-2016-108497,6/14/2016,Marc Harrigan,Home Office,California,90036,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",599.165,5,0.15,35.245
+675,CA-2017-130631,12/29/2017,Bruce Stewart,Consumer,Washington,98026,Furnishings,Hand-Finished Solid Wood Document Frame,68.46,2,0,20.538
+676,CA-2017-101574,9/28/2017,Bruce Degenhardt,Consumer,California,90032,Furnishings,Longer-Life Soft White Bulbs,9.24,3,0,4.4352
+677,CA-2014-146591,1/19/2014,Toby Swindell,Consumer,Arizona,85254,Bookcases,O'Sullivan 4-Shelf Bookcase in Odessa Pine,181.47,5,0.7,-320.597
+678,CA-2014-132451,9/26/2014,Karen Ferguson,Home Office,California,92105,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",585.552,3,0.2,73.194
+679,CA-2017-116946,12/19/2017,Tony Sayre,Consumer,Colorado,80134,Furnishings,OIC Stacking Trays,13.36,5,0.2,4.008
+680,CA-2017-116946,12/19/2017,Tony Sayre,Consumer,Colorado,80134,Bookcases,O'Sullivan 2-Shelf Heavy-Duty Bookcases,102.018,7,0.7,-183.6324
+681,CA-2017-148999,1/30/2017,Emily Burns,Consumer,Florida,33142,Chairs,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",419.136,4,0.2,-68.1096
+682,CA-2014-105249,11/28/2014,Duane Huffman,Home Office,California,94122,Bookcases,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",411.332,4,0.15,-4.8392
+683,CA-2017-164378,7/15/2017,Michelle Moray,Consumer,New York,10024,Chairs,Hon Mobius Operator's Chair,664.146,6,0.1,88.5528
+684,US-2017-150595,5/22/2017,Laurel Elliston,Consumer,Illinois,60653,Chairs,High-Back Leather Manager's Chair,181.986,2,0.3,-54.5958
+685,CA-2016-134936,12/19/2016,Erin Smith,Corporate,Arizona,85705,Tables,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",455.97,6,0.5,-218.8656
+686,CA-2015-125066,12/14/2015,Keith Dawkins,Corporate,Mississippi,39212,Furnishings,Stackable Trays,6.16,2,0,1.9712
+687,CA-2017-157966,3/13/2017,Stephanie Ulpright,Home Office,Illinois,60610,Chairs,SAFCO Folding Chair Trolley,89.768,1,0.3,-2.5648
+688,CA-2014-116673,12/15/2014,Jas O'Carroll,Consumer,California,92037,Furnishings,Stackable Trays,6.16,2,0,1.9712
+689,CA-2014-164742,10/13/2014,Marina Lichtenstein,Corporate,New Jersey,8701,Chairs,"Global High-Back Leather Tilter, Burgundy",245.98,2,0,27.0578
+690,CA-2016-134516,9/20/2016,Filia McAdams,Corporate,North Carolina,27405,Furnishings,Dana Swing-Arm Lamps,17.088,2,0.2,1.068
+691,CA-2016-134516,9/20/2016,Filia McAdams,Corporate,North Carolina,27405,Chairs,"Global High-Back Leather Tilter, Burgundy",98.392,1,0.2,-11.0691
+692,CA-2017-125745,6/30/2017,Darrin Van Huff,Corporate,Tennessee,38109,Furnishings,Advantus Panel Wall Certificate Holder - 8.5x11,19.52,2,0.2,5.368
+693,US-2016-124163,9/25/2016,Steve Chapman,Corporate,Wisconsin,54601,Chairs,"Global Fabric Manager's Chair, Dark Gray",201.96,2,0,50.49
+694,US-2016-124163,9/25/2016,Steve Chapman,Corporate,Wisconsin,54601,Furnishings,Eldon Expressions Mahogany Wood Desk Collection,68.64,11,0,17.16
+695,CA-2014-126683,9/29/2014,Paul Prost,Home Office,Washington,98115,Furnishings,Longer-Life Soft White Bulbs,6.16,2,0,2.9568
+696,CA-2014-126683,9/29/2014,Paul Prost,Home Office,Washington,98115,Tables,"Bevis Oval Conference Table, Walnut",2348.82,9,0,399.2994
+697,CA-2017-148810,6/26/2017,Dan Reichenbach,Corporate,Florida,33180,Chairs,Hon Comfortask Task/Swivel Chairs,273.552,3,0.2,-13.6776
+698,US-2016-146066,8/21/2016,Rick Bensley,Home Office,Pennsylvania,19143,Tables,"Iceberg OfficeWorks 42"" Round Tables",815.292,9,0.4,-339.705
+699,CA-2017-113208,3/26/2017,Michelle Lonsdale,Corporate,Michigan,48126,Furnishings,"Career Cubicle Clock, 8 1/4"", Black",60.84,3,0,23.1192
+700,CA-2014-154893,12/21/2014,Gary McGarr,Consumer,California,92024,Chairs,SAFCO Arco Folding Chair,1325.76,6,0.2,149.148
+701,CA-2014-154893,12/21/2014,Gary McGarr,Consumer,California,92024,Chairs,Safco Contoured Stacking Chairs,572.16,3,0.2,35.76
+702,CA-2017-127117,4/14/2017,Harry Marie,Corporate,New Jersey,7960,Furnishings,Tensor Computer Mounted Lamp,74.45,5,0,20.1015
+703,CA-2017-142342,7/17/2017,Anthony Johnson,Corporate,California,92307,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",1194.165,5,0.15,210.735
+704,CA-2016-145261,12/18/2016,Adrian Hane,Home Office,Oregon,97301,Tables,"Iceberg OfficeWorks 42"" Round Tables",377.45,5,0.5,-264.215
+705,CA-2016-108875,9/24/2016,Craig Leslie,Home Office,Colorado,80013,Furnishings,Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,21.44,2,0.2,7.504
+706,CA-2014-126802,12/29/2014,Zuschuss Carroll,Consumer,Illinois,60610,Furnishings,Tenex Chairmats For Use with Hard Floors,38.976,3,0.6,-50.6688
+707,CA-2014-131541,7/28/2014,Chloris Kastensmidt,Consumer,Florida,32712,Furnishings,"DataProducts Ampli Magnifier Task Lamp, Black,",129.888,6,0.2,12.9888
+708,CA-2015-119550,12/26/2015,Roger Barcio,Home Office,Texas,77070,Chairs,"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",275.058,3,0.3,-90.3762
+709,US-2014-123519,12/14/2014,Sung Shariari,Consumer,Ohio,43302,Tables,Hon Rectangular Conference Tables,136.53,1,0.4,-52.3365
+710,CA-2017-143574,6/29/2017,Dan Reichenbach,Corporate,Connecticut,6460,Bookcases,"Hon Metal Bookcases, Putty",638.82,9,0,185.2578
+711,CA-2017-143574,6/29/2017,Dan Reichenbach,Corporate,Connecticut,6460,Furnishings,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",25.16,2,0,8.5544
+712,CA-2014-148614,1/20/2014,Mark Van Huff,Consumer,California,90049,Furnishings,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",19.3,2,0,5.79
+713,US-2017-147886,3/28/2017,Dave Hallsten,Corporate,California,94533,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,26.48,1,0,10.0624
+714,US-2017-147886,3/28/2017,Dave Hallsten,Corporate,California,94533,Furnishings,Stackable Trays,21.56,7,0,6.8992
+715,CA-2014-145800,5/30/2014,Shahid Shariari,Consumer,Illinois,60089,Tables,Chromcraft Rectangular Conference Tables,355.455,3,0.5,-184.8366
+716,CA-2015-103835,9/24/2015,Shaun Chance,Corporate,California,90032,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",14.91,3,0,4.6221
+717,CA-2017-140186,9/29/2017,Patrick Gardner,Consumer,California,93309,Chairs,"Leather Task Chair, Black",72.784,1,0.2,0
+718,CA-2017-140186,9/29/2017,Patrick Gardner,Consumer,California,93309,Furnishings,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",51.75,1,0,15.525
+719,CA-2014-124856,9/29/2014,Lisa DeCherney,Consumer,New York,10011,Furnishings,"Seth Thomas 14"" Putty-Colored Wall Clock",117.36,4,0,36.3816
+720,CA-2014-166716,8/20/2014,Craig Reiter,Consumer,Illinois,60610,Chairs,"Global Leather and Oak Executive Chair, Black",421.372,2,0.3,-6.0196
+721,CA-2017-113873,11/13/2017,Katrina Edelman,Corporate,Texas,75220,Bookcases,"Bush Westfield Collection Bookcases, Fully Assembled",205.9992,3,0.32,-27.2646
+722,US-2015-163279,3/22/2015,Justin Deggeller,Corporate,California,92037,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,91.96,2,0,15.6332
+723,CA-2016-142895,7/21/2016,Beth Paige,Consumer,North Carolina,28027,Chairs,"Leather Task Chair, Black",363.92,5,0.2,0
+724,CA-2015-134992,9/22/2015,Michael Grace,Home Office,Virginia,22204,Furnishings,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",47.98,2,0,11.0354
+725,CA-2015-126725,11/17/2015,Brian Stugart,Consumer,California,92105,Furnishings,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",80.96,4,0,29.1456
+726,CA-2015-126725,11/17/2015,Brian Stugart,Consumer,California,92105,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,225.568,2,0.2,2.8196
+727,CA-2015-126725,11/17/2015,Brian Stugart,Consumer,California,92105,Furnishings,Advantus Panel Wall Certificate Holder - 8.5x11,36.6,3,0,15.372
+728,CA-2016-128223,6/14/2016,Ed Braxton,Corporate,California,92804,Tables,"Bush Cubix Conference Tables, Fully Assembled",1293.488,7,0.2,80.843
+729,CA-2016-154235,9/24/2016,Ruben Dartt,Consumer,Indiana,47401,Furnishings,"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",127.95,3,0,21.7515
+730,CA-2016-133935,9/18/2016,Jane Waco,Corporate,California,92105,Chairs,Global Troy Executive Leather Low-Back Tilter,801.568,2,0.2,50.098
+731,CA-2016-133935,9/18/2016,Jane Waco,Corporate,California,92105,Chairs,"Global High-Back Leather Tilter, Burgundy",885.528,9,0.2,-99.6219
+732,CA-2016-136301,3/13/2016,Edward Hooks,Corporate,California,94109,Furnishings,"Westinghouse Mesh Shade Clip-On Gooseneck Lamp, Black",28.28,2,0,7.3528
+733,CA-2016-159639,11/27/2016,Pamela Coakley,Corporate,New Jersey,7090,Furnishings,Ultra Door Pull Handle,31.56,3,0,10.4148
+734,US-2015-126977,9/17/2015,Peter Fuller,Consumer,New York,10035,Chairs,Office Star Flex Back Scooter Chair with White Frame,199.764,2,0.1,8.8784
+735,US-2015-126977,9/17/2015,Peter Fuller,Consumer,New York,10035,Bookcases,"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",4228.704,6,0.2,158.5764
+736,US-2015-126977,9/17/2015,Peter Fuller,Consumer,New York,10035,Bookcases,DMI Eclipse Executive Suite Bookcases,2003.92,5,0.2,-25.049
+737,CA-2016-130288,11/26/2016,Dean Katz,Corporate,New York,10011,Tables,"Bevis Oval Conference Table, Walnut",313.176,2,0.4,-120.0508
+738,CA-2014-104178,8/25/2014,Janet Molinari,Corporate,California,90036,Furnishings,"Eldon 200 Class Desk Accessories, Smoke",6.28,1,0,2.6376
+739,CA-2014-141726,7/20/2014,Charles Crestani,Consumer,California,92105,Furnishings,Nu-Dell Leatherette Frames,43.02,3,0,15.4872
+740,CA-2016-163776,7/19/2016,Joy Smith,Consumer,Mississippi,39401,Furnishings,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",185.58,6,0,76.0878
+741,CA-2016-163776,7/19/2016,Joy Smith,Consumer,Mississippi,39401,Bookcases,Hon 4-Shelf Metal Bookcases,504.9,5,0,126.225
+742,US-2017-163300,9/15/2017,Erica Smith,Consumer,California,90049,Chairs,Global Deluxe Steno Chair,184.752,3,0.2,-20.7846
+743,CA-2014-124079,12/13/2014,Randy Ferguson,Corporate,Arizona,85023,Furnishings,"Electrix Incandescent Magnifying Lamp, Black",87.96,3,0.2,7.6965
+744,CA-2016-101168,12/25/2016,Saphhira Shifley,Corporate,New Hampshire,3060,Furnishings,"Master Big Foot Doorstop, Beige",21.12,4,0,6.5472
+745,CA-2015-130253,12/14/2015,Paul Prost,Home Office,California,90036,Furnishings,"Master Caster Door Stop, Gray",15.24,3,0,5.1816
+746,CA-2017-145702,5/19/2017,Adam Hart,Corporate,Tennessee,37918,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,314.352,3,0.2,-35.3646
+747,CA-2016-124016,9/23/2016,Joni Sundaresam,Home Office,Ohio,43130,Furnishings,"Eldon 400 Class Desk Accessories, Black Carbon",28,4,0.2,7.7
+748,CA-2017-166695,5/20/2017,Chuck Clark,Home Office,California,90712,Chairs,"Global Geo Office Task Chair, Gray",518.272,8,0.2,-97.176
+749,CA-2017-166695,5/20/2017,Chuck Clark,Home Office,California,90712,Furnishings,G.E. Halogen Desk Lamp Bulbs,6.98,1,0,3.3504
+750,US-2014-165589,2/18/2014,Troy Blackwell,Consumer,Texas,79424,Furnishings,"DAX Copper Panel Document Frame, 5 x 7 Size",25.16,5,0.6,-11.322
+751,CA-2015-114048,12/14/2015,Eric Hoffmann,Consumer,California,92627,Furnishings,Staple-based wall hangings,29.22,3,0,12.8568
+752,CA-2017-100111,9/20/2017,Seth Vernon,Consumer,New York,10035,Chairs,Hon Valutask Swivel Chairs,272.646,3,0.1,18.1764
+753,CA-2017-100111,9/20/2017,Seth Vernon,Consumer,New York,10035,Chairs,"Global Leather Task Chair, Black",80.991,1,0.1,8.0991
+754,CA-2017-100111,9/20/2017,Seth Vernon,Consumer,New York,10035,Chairs,Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,2888.127,11,0.1,609.7157
+755,CA-2017-100111,9/20/2017,Seth Vernon,Consumer,New York,10035,Chairs,Global Troy Executive Leather Low-Back Tilter,2254.41,5,0.1,375.735
+756,US-2017-132381,8/22/2017,Dean percer,Home Office,Pennsylvania,19143,Tables,Bevis Boat-Shaped Conference Table,314.532,2,0.4,-83.8752
+757,CA-2017-143378,9/19/2017,Justin Ritter,Corporate,Oregon,97477,Furnishings,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",409.216,8,0.2,61.3824
+758,CA-2017-143378,9/19/2017,Justin Ritter,Corporate,Oregon,97477,Bookcases,O'Sullivan 4-Shelf Bookcase in Odessa Pine,72.588,2,0.7,-128.2388
+759,CA-2016-124100,3/31/2016,Erica Hackney,Consumer,New York,10009,Chairs,"Global Value Steno Chair, Gray",327.996,6,0.1,54.666
+760,CA-2014-163447,12/27/2014,Thomas Brumley,Home Office,New York,10011,Chairs,"Global Push Button Manager's Chair, Indigo",767.214,14,0.1,161.9674
+761,CA-2016-148096,8/16/2016,Anthony O'Donnell,Corporate,California,90045,Tables,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",161.28,2,0.2,12.096
+762,CA-2014-131247,3/30/2014,Guy Armstrong,Consumer,California,94110,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,205.666,2,0.15,-12.098
+763,CA-2017-101322,12/28/2017,Jason Gross,Corporate,California,90805,Chairs,Novimex Turbo Task Chair,340.704,6,0.2,-34.0704
+764,CA-2014-111871,3/18/2014,Eileen Kiefer,Home Office,California,94110,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",1198.33,10,0.15,70.49
+765,CA-2017-151484,4/20/2017,Cynthia Voltz,Corporate,Pennsylvania,19120,Furnishings,"Computer Room Manger, 14""",51.968,2,0.2,10.3936
+766,CA-2017-151484,4/20/2017,Cynthia Voltz,Corporate,Pennsylvania,19120,Furnishings,"Executive Impressions 12"" Wall Clock",42.408,3,0.2,9.5418
+767,CA-2014-103989,3/19/2014,Matt Connell,Corporate,Florida,33801,Furnishings,Eldon Wave Desk Accessories,4.992,3,0.2,1.3728
+768,CA-2014-103989,3/19/2014,Matt Connell,Corporate,Florida,33801,Furnishings,Document Clip Frames,20.016,3,0.2,5.5044
+769,CA-2015-158421,9/21/2015,Giulietta Baptist,Consumer,South Carolina,29203,Chairs,Global Comet Stacking Arm Chair,1690.04,4,0,422.51
+770,CA-2016-157259,12/24/2016,Jessica Myrick,Consumer,New York,10035,Furnishings,Luxo Adjustable Task Clamp Lamp,799.56,9,0,207.8856
+771,CA-2016-118332,12/16/2016,Pete Kriz,Consumer,California,92307,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,563.92,5,0.2,7.049
+772,CA-2016-133697,10/20/2016,Chuck Magee,Consumer,Texas,77095,Chairs,Office Star - Ergonomically Designed Knee Chair,56.686,1,0.3,-14.5764
+773,CA-2017-119809,8/18/2017,Yana Sorensen,Corporate,Washington,98103,Furnishings,"Contract Clock, 14"", Brown",65.94,3,0,22.4196
+774,CA-2015-161711,11/28/2015,Mark Cousins,Corporate,New York,10035,Furnishings,"Executive Impressions 14"" Two-Color Numerals Wall Clock",68.16,3,0,27.9456
+775,CA-2017-140627,12/23/2017,Darren Koutras,Consumer,Tennessee,37075,Furnishings,"Executive Impressions 14"" Two-Color Numerals Wall Clock",72.704,4,0.2,19.0848
+776,CA-2017-141572,5/28/2017,Lori Olson,Corporate,New Hampshire,3301,Furnishings,"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",247.44,8,0,101.4504
+777,CA-2015-112305,11/20/2015,Katrina Bavinger,Home Office,Washington,98105,Furnishings,"Eldon Expressions Wood Desk Accessories, Oak",22.14,3,0,6.4206
+778,CA-2017-121580,5/29/2017,Maris LaWare,Consumer,Indiana,47201,Furnishings,Eldon Wave Desk Accessories,6.24,3,0,2.6208
+779,US-2016-139087,7/17/2016,Dennis Kane,Consumer,Washington,98105,Furnishings,Eldon Image Series Black Desk Accessories,12.42,3,0,4.4712
+780,US-2016-139087,7/17/2016,Dennis Kane,Consumer,Washington,98105,Furnishings,"Eldon 300 Class Desk Accessories, Black",24.75,5,0,10.89
+781,CA-2015-116484,11/20/2015,Jamie Kunitz,Consumer,Ohio,43302,Furnishings,Ultra Commercial Grade Dual Valve Door Closer,63.824,2,0.2,9.5736
+782,CA-2016-100944,9/24/2016,Edward Hooks,Corporate,California,90049,Chairs,Hon Olson Stacker Stools,563.24,5,0.2,56.324
+783,CA-2016-125080,10/21/2016,Victoria Wilson,Corporate,Ohio,44107,Tables,"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",661.176,2,0.4,-231.4116
+784,US-2015-139675,3/13/2015,Nicole Fjeld,Home Office,California,95928,Chairs,Global Deluxe High-Back Manager's Chair,915.136,4,0.2,102.9528
+785,US-2015-139675,3/13/2015,Nicole Fjeld,Home Office,California,95928,Furnishings,Dana Halogen Swing-Arm Architect Lamp,327.76,8,0,91.7728
+786,CA-2017-107314,11/30/2017,Maria Zettner,Home Office,California,94109,Furnishings,Contemporary Borderless Frame,25.83,3,0,9.5571
+787,CA-2014-167927,1/20/2014,Xylona Preis,Consumer,Michigan,48185,Furnishings,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,272.94,3,0,30.0234
+788,CA-2014-167927,1/20/2014,Xylona Preis,Consumer,Michigan,48185,Furnishings,Ultra Door Push Plate,14.73,3,0,4.8609
+789,CA-2016-165995,8/30/2016,Bruce Geld,Consumer,California,90008,Furnishings,"Executive Impressions 10"" Spectator Wall Clock",47.04,4,0,15.9936
+790,CA-2016-113425,11/21/2016,Julie Kriz,Home Office,New York,10009,Bookcases,"Hon Metal Bookcases, Putty",113.568,2,0.2,12.7764
+791,CA-2014-107811,4/29/2014,Laura Armstrong,Corporate,Tennessee,38109,Chairs,Global Leather Executive Chair,561.584,2,0.2,70.198
+792,US-2016-116442,12/15/2016,Benjamin Patterson,Consumer,California,90004,Furnishings,"Eldon Expressions Wood Desk Accessories, Oak",14.76,2,0,4.2804
+793,CA-2016-127236,3/29/2016,Troy Blackwell,Consumer,Ohio,45503,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",299.975,5,0.5,-167.986
+794,CA-2016-129126,12/14/2016,Pete Kriz,Consumer,New York,10011,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",396.92,4,0,198.46
+795,CA-2017-125472,5/30/2017,Bruce Degenhardt,Consumer,Louisiana,70506,Bookcases,"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",241.96,2,0,33.8744
+796,CA-2017-125472,5/30/2017,Bruce Degenhardt,Consumer,Louisiana,70506,Furnishings,Acrylic Self-Standing Desk Frames,8.01,3,0,3.0438
+797,CA-2017-154074,8/31/2017,Bart Watters,Corporate,Washington,99207,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,569.568,2,0.2,7.1196
+798,CA-2017-161774,5/14/2017,Greg Tran,Consumer,Texas,77041,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,899.43,5,0.3,-12.849
+799,CA-2016-140130,10/31/2016,Helen Wasserman,Corporate,Oklahoma,74133,Chairs,Hon Mobius Operator's Chair,368.97,3,0,81.1734
+800,CA-2015-149650,10/24/2015,Robert Dilbeck,Home Office,California,94601,Chairs,Novimex High-Tech Fabric Mesh Task Chair,454.272,8,0.2,-73.8192
+801,US-2017-116897,5/27/2017,James Galang,Consumer,Idaho,83201,Furnishings,"Eldon 400 Class Desk Accessories, Black Carbon",35,4,0,14.7
+802,US-2017-113992,12/14/2017,Lena Creighton,Consumer,Texas,75023,Tables,Bretford CR4500 Series Slim Rectangular Table,974.988,4,0.3,-97.4988
+803,CA-2016-101161,10/13/2016,Bart Watters,Corporate,New York,10024,Furnishings,Howard Miller Distant Time Traveler Alarm Clock,82.26,3,0,33.7266
+804,CA-2017-161102,7/31/2017,Erin Creighton,Consumer,California,94110,Furnishings,"Master Big Foot Doorstop, Beige",36.96,7,0,11.4576
+805,US-2017-133361,5/14/2017,Anthony Jacobs,Corporate,Maryland,21215,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",261.96,2,0,23.5764
+806,US-2016-155404,9/22/2016,Ann Steele,Home Office,Kentucky,40214,Furnishings,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,13.28,2,0,6.3744
+807,CA-2014-149524,1/14/2014,Brendan Sweed,Corporate,Pennsylvania,19140,Bookcases,Sauder Cornerstone Collection Library,61.96,4,0.5,-53.2856
+808,CA-2014-149594,9/15/2014,Monica Federle,Corporate,Pennsylvania,19120,Furnishings,"Seth Thomas 16"" Steel Case Clock",103.936,4,0.2,16.8896
+809,CA-2016-113845,11/20/2016,Frank Atkinson,Corporate,Florida,32839,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,289.568,2,0.2,10.8588
+810,CA-2015-103135,7/24/2015,Shirley Schmidt,Home Office,Kentucky,40214,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",20.94,3,0,6.0726
+811,US-2017-116652,9/15/2017,Rick Duston,Consumer,California,94122,Chairs,"Leather Task Chair, Black",218.352,3,0.2,0
+812,US-2017-116652,9/15/2017,Rick Duston,Consumer,California,94122,Furnishings,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",529.9,5,0,105.98
+813,CA-2017-138289,1/16/2017,Andy Reiter,Consumer,Michigan,49201,Chairs,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,302.67,3,0,72.6408
+814,CA-2014-128209,11/17/2014,Greg Tran,Consumer,New York,14215,Bookcases,DMI Eclipse Executive Suite Bookcases,4007.84,10,0.2,-50.098
+815,CA-2014-169684,10/20/2014,Fred Hopkins,Corporate,Tennessee,37918,Tables,"Lesro Round Back Collection Coffee Table, End Table",328.59,3,0.4,-147.8655
+816,CA-2015-109862,10/25/2015,Heather Kirkland,Corporate,Delaware,19711,Chairs,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",291.1,5,0,75.686
+817,US-2017-107888,11/16/2017,Chris Cortes,Consumer,Washington,98103,Furnishings,"Tenex ""The Solids"" Textured Chair Mats",139.92,2,0,23.7864
+818,US-2015-164966,7/30/2015,Gary Hansen,Home Office,Minnesota,55044,Chairs,"Global Stack Chair without Arms, Black",155.88,6,0,38.97
+819,CA-2014-100678,4/18/2014,Kunst Miller,Consumer,Texas,77095,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,317.058,3,0.3,-18.1176
+820,CA-2016-169887,10/22/2016,MaryBeth Skach,Consumer,Washington,98105,Furnishings,"Linden 12"" Wall Clock With Oak Frame",101.94,3,0,30.582
+821,CA-2017-104731,7/21/2017,Anne McFarland,Consumer,Virginia,24153,Furnishings,Regeneration Desk Collection,8.8,5,0,3.872
+822,CA-2017-104731,7/21/2017,Anne McFarland,Consumer,Virginia,24153,Bookcases,"Bush Westfield Collection Bookcases, Fully Assembled",302.94,3,0,69.6762
+823,CA-2016-148852,5/26/2016,Stewart Visinsky,Consumer,California,92704,Chairs,Global Low Back Tilter Chair,484.704,6,0.2,-84.8232
+824,CA-2015-107678,4/21/2015,Juliana Krohn,Consumer,Kentucky,40214,Chairs,Global Deluxe Office Fabric Chairs,191.96,2,0,51.8292
+825,CA-2015-107678,4/21/2015,Juliana Krohn,Consumer,Kentucky,40214,Furnishings,"Tenex ""The Solids"" Textured Chair Mats",209.88,3,0,35.6796
+826,CA-2016-123512,6/17/2016,Mike Vittorini,Consumer,California,90045,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",239.666,2,0.15,14.098
+827,US-2017-167402,1/13/2017,Cathy Prescott,Corporate,Missouri,65807,Bookcases,"Hon Metal Bookcases, Black",212.94,3,0,53.235
+828,CA-2015-141250,1/19/2015,Paul MacIntyre,Consumer,Texas,77590,Tables,Bevis Round Conference Table Top & Single Column Base,102.438,1,0.3,-13.1706
+829,CA-2015-141250,1/19/2015,Paul MacIntyre,Consumer,Texas,77590,Chairs,Harbour Creations 67200 Series Stacking Chairs,199.304,4,0.3,-8.5416
+830,CA-2016-105081,12/25/2016,Joe Elijah,Consumer,Washington,98115,Chairs,Global Executive Mid-Back Manager's Chair,698.352,3,0.2,52.3764
+831,CA-2016-105081,12/25/2016,Joe Elijah,Consumer,Washington,98115,Tables,"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",1747.25,5,0,629.01
+832,CA-2014-108609,10/31/2014,Anthony Jacobs,Corporate,Ohio,44052,Tables,Hon 94000 Series Round Tables,1421.664,8,0.4,-734.5264
+833,US-2016-127334,12/15/2016,Mike Pelletier,Home Office,Oregon,97477,Tables,Bretford Rectangular Conference Table Tops,564.195,3,0.5,-304.6653
+834,CA-2017-135937,2/20/2017,Katherine Murray,Home Office,Arizona,85234,Furnishings,"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",68.704,2,0.2,16.3172
+835,CA-2017-135937,2/20/2017,Katherine Murray,Home Office,Arizona,85234,Tables,KI Adjustable-Height Table,386.91,9,0.5,-185.7168
+836,CA-2017-162173,10/26/2017,Olvera Toch,Consumer,Virginia,23464,Tables,"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",356.85,5,0,60.6645
+837,US-2015-129637,12/17/2015,Mick Crebagga,Consumer,Illinois,61701,Furnishings,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",41.552,2,0.6,-19.7372
+838,CA-2017-145429,7/21/2017,Shaun Weien,Consumer,California,92024,Chairs,Hon Olson Stacker Stools,225.296,2,0.2,22.5296
+839,CA-2015-153535,5/20/2015,Sheri Gordon,Consumer,North Carolina,27893,Furnishings,"Dana Fluorescent Magnifying Lamp, White, 36""",163.136,4,0.2,20.392
+840,CA-2015-123141,11/14/2015,Gary Zandusky,Consumer,New Mexico,87124,Chairs,SAFCO Arco Folding Chair,883.84,4,0.2,99.432
+841,CA-2015-123141,11/14/2015,Gary Zandusky,Consumer,New Mexico,87124,Chairs,Global Deluxe Office Fabric Chairs,230.352,3,0.2,20.1558
+842,CA-2017-107629,12/14/2017,Dave Brooks,Consumer,Illinois,60076,Furnishings,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",266.352,6,0.6,-292.9872
+843,CA-2017-107629,12/14/2017,Dave Brooks,Consumer,Illinois,60076,Furnishings,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",56.328,3,0.6,-26.7558
+844,CA-2015-156734,6/18/2015,Benjamin Venier,Corporate,Tennessee,37167,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",643.136,4,0.2,56.2744
+845,CA-2014-144029,5/26/2014,Michelle Moray,Consumer,Illinois,60623,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,359.772,2,0.3,-5.1396
+846,CA-2016-154767,6/28/2016,Becky Pak,Consumer,New Jersey,7501,Chairs,"Global Armless Task Chair, Royal Blue",121.96,2,0,20.7332
+847,CA-2017-124205,9/15/2017,Theresa Coyne,Corporate,New Jersey,8701,Furnishings,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",47.4,5,0,18.96
+848,CA-2017-124205,9/15/2017,Theresa Coyne,Corporate,New Jersey,8701,Chairs,SAFCO Folding Chair Trolley,512.96,4,0,143.6288
+849,CA-2016-162943,7/24/2016,Darren Budd,Corporate,New York,10035,Chairs,Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,253.764,2,0.1,31.0156
+850,CA-2017-100615,4/20/2017,Sarah Jordon,Consumer,Illinois,60653,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,317.058,3,0.3,-18.1176
+851,CA-2017-100615,4/20/2017,Sarah Jordon,Consumer,Illinois,60653,Furnishings,"Master Caster Door Stop, Large Neon Orange",14.56,5,0.6,-6.188
+852,CA-2017-121293,7/25/2017,John Castell,Consumer,Pennsylvania,19143,Furnishings,Eldon 200 Class Desk Accessories,20.096,4,0.2,3.0144
+853,CA-2017-121293,7/25/2017,John Castell,Consumer,Pennsylvania,19143,Tables,"Bush Cubix Conference Tables, Fully Assembled",138.588,1,0.4,-34.647
+854,CA-2015-118843,9/13/2015,Jonathan Howell,Consumer,Georgia,30318,Furnishings,Eldon Advantage Chair Mats for Low to Medium Pile Carpets,129.93,3,0,12.993
+855,CA-2015-145394,11/16/2015,Matt Connell,Corporate,Illinois,60610,Furnishings,"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",34.504,2,0.6,-15.5268
+856,CA-2015-168809,8/25/2015,Mick Crebagga,Consumer,Texas,77041,Furnishings,"Eldon Executive Woodline II Desk Accessories, Mahogany",20.104,2,0.6,-16.5858
+857,CA-2015-168809,8/25/2015,Mick Crebagga,Consumer,Texas,77041,Furnishings,Nu-Dell EZ-Mount Plastic Wall Frames,7.88,5,0.6,-3.94
+858,CA-2016-109827,12/25/2016,Laurel Workman,Corporate,Arizona,85023,Tables,KI Conference Tables,35.445,1,0.5,-24.1026
+859,CA-2016-109827,12/25/2016,Laurel Workman,Corporate,Arizona,85023,Chairs,"Global Stack Chair with Arms, Black",47.968,2,0.2,4.1972
+860,CA-2015-128125,3/31/2015,Ed Braxton,Corporate,Texas,77095,Furnishings,3M Polarizing Light Filter Sleeves,22.38,3,0.6,-7.833
+861,CA-2017-156237,9/14/2017,Pamela Stobb,Consumer,Pennsylvania,19140,Chairs,Office Star - Ergonomically Designed Knee Chair,113.372,2,0.3,-29.1528
+862,CA-2017-156237,9/14/2017,Pamela Stobb,Consumer,Pennsylvania,19140,Furnishings,Tensor Track Tree Floor Lamp,127.936,8,0.2,4.7976
+863,CA-2014-144414,6/17/2014,Gary Hwang,Consumer,Washington,98105,Furnishings,Eldon Wave Desk Accessories,6.24,3,0,2.6208
+864,CA-2017-163860,12/28/2017,Lori Olson,Corporate,Illinois,61604,Furnishings,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,7.968,3,0.6,-2.3904
+865,CA-2017-163860,12/28/2017,Lori Olson,Corporate,Illinois,61604,Chairs,"Padded Folding Chairs, Black, 4/Carton",113.372,2,0.3,-3.2392
+866,CA-2017-163860,12/28/2017,Lori Olson,Corporate,Illinois,61604,Furnishings,3M Hangers With Command Adhesive,2.96,2,0.6,-1.406
+867,CA-2015-154291,7/25/2015,Yana Sorensen,Corporate,Alabama,36116,Tables,"Bevis Round Conference Table Top, X-Base",358.58,2,0,39.4438
+868,CA-2017-142643,10/15/2017,Dionis Lloyd,Corporate,California,91360,Furnishings,"Executive Impressions 14"" Two-Color Numerals Wall Clock",22.72,1,0,9.3152
+869,CA-2014-101462,4/20/2014,Benjamin Patterson,Consumer,California,90045,Furnishings,"GE 4 Foot Flourescent Tube, 40 Watt",59.92,4,0,27.5632
+870,CA-2017-128965,4/17/2017,Pamela Stobb,Consumer,California,90008,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",218.352,3,0.2,-19.1058
+871,US-2016-126452,8/21/2016,Scot Coram,Corporate,California,90004,Tables,Bretford CR8500 Series Meeting Room Furniture,2887.056,9,0.2,180.441
+872,US-2015-123918,10/15/2015,Claire Gute,Consumer,Texas,75217,Furnishings,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",131.376,6,0.6,-95.2476
+873,CA-2015-120677,5/31/2015,Bill Donatelli,Consumer,Minnesota,55407,Chairs,Hon Pagoda Stacking Chairs,2567.84,8,0,770.352
+874,CA-2017-164756,9/18/2017,Saphhira Shifley,Corporate,Georgia,31907,Furnishings,"Master Caster Door Stop, Gray",20.32,4,0,6.9088
+875,US-2015-165512,5/24/2015,Vivek Sundaresam,Consumer,Illinois,60540,Chairs,"Global High-Back Leather Tilter, Burgundy",602.651,7,0.3,-163.5767
+876,US-2017-115301,7/29/2017,Vivek Gonzalez,Consumer,Washington,98103,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",115.96,2,0,25.5112
+877,CA-2014-124247,12/16/2014,Stefanie Holloman,Corporate,California,95823,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,1403.92,5,0.2,70.196
+878,CA-2015-137925,11/30/2015,Janet Lee,Consumer,New York,10035,Bookcases,"Hon Metal Bookcases, Black",681.408,12,0.2,42.588
+879,CA-2014-164182,7/14/2014,Shui Tom,Consumer,Pennsylvania,19140,Furnishings,Tensor Track Tree Floor Lamp,31.984,2,0.2,1.1994
+880,CA-2016-106243,9/30/2016,Greg Matthias,Consumer,New York,10011,Bookcases,"O'Sullivan Elevations Bookcase, Cherry Finish",523.92,5,0.2,-26.196
+881,CA-2015-130365,4/25/2015,Zuschuss Carroll,Consumer,Illinois,60505,Chairs,"Global Armless Task Chair, Royal Blue",128.058,3,0.3,-23.7822
+882,CA-2017-143021,11/19/2017,Anne Pryor,Home Office,New York,10011,Tables,Hon 61000 Series Interactive Training Tables,79.974,3,0.4,-29.3238
+883,CA-2016-157588,7/14/2016,Anemone Ratner,Consumer,Georgia,31907,Furnishings,"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",51.75,1,0,15.525
+884,CA-2015-112144,6/28/2015,Craig Yedwab,Corporate,Arizona,85234,Furnishings,Electrix Halogen Magnifier Lamp,621.76,4,0.2,46.632
+885,CA-2015-104871,3/30/2015,Daniel Raglin,Home Office,Illinois,61761,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",366.744,4,0.3,-110.0232
+886,CA-2014-133158,8/19/2014,David Wiener,Corporate,California,90045,Furnishings,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",289.24,7,0,26.0316
+887,CA-2014-119466,12/15/2014,Sung Pak,Corporate,Illinois,60623,Furnishings,Dana Swing-Arm Lamps,8.544,2,0.6,-7.476
+888,CA-2015-154823,8/21/2015,Katherine Nockton,Corporate,Ohio,45503,Chairs,Global Commerce Series High-Back Swivel/Tilt Chairs,598.458,3,0.3,-42.747
+889,CA-2015-154823,8/21/2015,Katherine Nockton,Corporate,Ohio,45503,Furnishings,Tenex Chairmats For Use with Hard Floors,25.984,1,0.2,-3.8976
+890,CA-2014-124737,8/23/2014,Arthur Prichep,Consumer,Colorado,80219,Furnishings,Regeneration Desk Collection,4.224,3,0.2,1.2672
+891,CA-2017-103443,12/17/2017,Annie Thurman,Consumer,New York,10009,Furnishings,Deflect-o Glass Clear Studded Chair Mats,124.36,2,0,27.3592
+892,US-2017-165358,7/18/2017,Seth Vernon,Consumer,Pennsylvania,19134,Chairs,"Situations Contoured Folding Chairs, 4/Set",198.744,4,0.3,-14.196
+893,CA-2017-128944,6/19/2017,Katharine Harms,Corporate,Ohio,43055,Chairs,Global Ergonomic Managers Chair,760.116,6,0.3,-43.4352
+894,CA-2017-128944,6/19/2017,Katharine Harms,Corporate,Ohio,43055,Furnishings,Contemporary Wood/Metal Frame,38.784,3,0.2,7.272
+895,US-2016-117541,11/14/2016,Justin MacKendrick,Consumer,Delaware,19711,Furnishings,Stacking Trays by OIC,19.92,4,0,6.5736
+896,CA-2017-141439,11/26/2017,Tonja Turnell,Home Office,Indiana,47374,Tables,KI Adjustable-Height Table,257.94,3,0,67.0644
+897,CA-2017-141439,11/26/2017,Tonja Turnell,Home Office,Indiana,47374,Furnishings,DAX Wood Document Frame,27.46,2,0,9.8856
+898,CA-2017-141439,11/26/2017,Tonja Turnell,Home Office,Indiana,47374,Chairs,SAFCO Arco Folding Chair,828.6,3,0,240.294
+899,CA-2015-163965,11/20/2015,Sung Shariari,Consumer,Florida,33180,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,290.352,3,0.2,-36.294
+900,CA-2014-122217,11/24/2014,Harold Pawlan,Home Office,Virginia,23464,Furnishings,"Executive Impressions 14""",111.15,5,0,48.906
+901,CA-2017-100412,12/22/2017,Sharelle Roach,Home Office,Alabama,35401,Chairs,"Situations Contoured Folding Chairs, 4/Set",141.96,2,0,35.49
+902,CA-2017-142909,12/22/2017,Alex Grayson,Consumer,Arizona,85204,Tables,"Lesro Round Back Collection Coffee Table, End Table",182.55,2,0.5,-135.087
+903,US-2015-136749,12/25/2015,Lena Hernandez,Consumer,Georgia,31907,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,275.88,6,0,46.8996
+904,CA-2014-117464,7/22/2014,Naresj Patel,Consumer,California,94122,Chairs,Global Comet Stacking Armless Chair,717.72,3,0.2,71.772
+905,CA-2014-117464,7/22/2014,Naresj Patel,Consumer,California,94122,Tables,Safco Drafting Table,170.352,3,0.2,19.1646
+906,CA-2017-128853,4/21/2017,Janet Martin,Consumer,Maryland,21215,Chairs,"Global Fabric Manager's Chair, Dark Gray",908.82,9,0,227.205
+907,CA-2017-133102,8/17/2017,Emily Ducich,Home Office,Texas,77095,Chairs,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,74.592,4,0.3,-2.1312
+908,CA-2017-133102,8/17/2017,Emily Ducich,Home Office,Texas,77095,Furnishings,36X48 HARDFLOOR CHAIRMAT,16.784,2,0.6,-22.2388
+909,CA-2016-147683,11/13/2016,Philisse Overcash,Home Office,Washington,98103,Furnishings,DAX Solid Wood Frames,19.54,2,0,7.2298
+910,CA-2016-104276,11/27/2016,Herbert Flentye,Consumer,Florida,33311,Tables,KI Adjustable-Height Table,331.023,7,0.45,-114.3534
+911,CA-2016-120369,10/28/2016,Victoria Brennan,Corporate,New York,14609,Furnishings,"Tenex Chairmat w/ Average Lip, 45"" x 53""",756.8,5,0,75.68
+912,CA-2014-118276,12/29/2014,Michael Granlund,Home Office,Illinois,60174,Furnishings,"Master Caster Door Stop, Large Brown",8.736,3,0.6,-4.8048
+913,CA-2016-109953,7/14/2016,Raymond Buch,Consumer,California,94122,Furnishings,Deflect-O Glasstique Clear Desk Accessories,30.8,4,0,10.164
+914,CA-2016-101651,12/24/2016,Sean Christensen,Consumer,California,95123,Furnishings,"Eldon 200 Class Desk Accessories, Smoke",43.96,7,0,18.4632
+915,CA-2017-136651,4/23/2017,Jay Fein,Consumer,California,91104,Furnishings,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",66.36,7,0,26.544
+916,CA-2017-136651,4/23/2017,Jay Fein,Consumer,California,91104,Furnishings,Eldon 500 Class Desk Accessories,24.14,2,0,7.9662
+917,CA-2017-118892,8/17/2017,Tom Prescott,Consumer,Pennsylvania,19134,Chairs,HON 5400 Series Task Chairs for Big and Tall,4416.174,9,0.3,-630.882
+918,CA-2016-152730,5/30/2016,Eugene Moren,Home Office,Wisconsin,54880,Furnishings,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",47.4,5,0,21.33
+919,US-2014-143721,11/23/2014,Damala Kotsonis,Corporate,Texas,77095,Chairs,Office Star Flex Back Scooter Chair with White Frame,155.372,2,0.3,-35.5136
+920,CA-2016-133368,1/14/2016,Anna Gayman,Consumer,North Carolina,28027,Furnishings,Electrix Fluorescent Magnifier Lamps & Weighted Base,315.776,8,0.2,31.5776
+921,CA-2016-123337,9/16/2016,Keith Dawkins,Corporate,California,95123,Bookcases,"Sauder Forest Hills Library with Doors, Woodland Oak Finish",273.666,2,0.15,-12.8784
+922,CA-2015-144519,11/13/2015,Arthur Wiediger,Home Office,Montana,59601,Furnishings,"Eldon Stackable Tray, Side-Load, Legal, Smoke",63.98,7,0,21.7532
+923,CA-2016-149965,6/20/2016,Bill Shonely,Corporate,Oklahoma,73120,Furnishings,"Executive Impressions 13"" Clairmont Wall Clock",57.69,3,0,23.6529
+924,CA-2016-113656,1/23/2016,Christy Brittain,Consumer,California,90036,Furnishings,"DAX Cubicle Frames, 8-1/2 x 11",59.99,7,0,21.5964
+925,CA-2015-148964,5/26/2015,Ruben Dartt,Consumer,Washington,98006,Furnishings,"DAX Metal Frame, Desktop, Stepped-Edge",20.24,1,0,7.8936
+926,CA-2014-163468,11/18/2014,Joe Kamberova,Consumer,Illinois,60016,Tables,BPI Conference Tables,292.1,4,0.5,-175.26
+927,CA-2014-163468,11/18/2014,Joe Kamberova,Consumer,Illinois,60016,Furnishings,Dana Swing-Arm Lamps,8.544,2,0.6,-7.476
+928,CA-2014-163468,11/18/2014,Joe Kamberova,Consumer,Illinois,60016,Bookcases,Hon 4-Shelf Metal Bookcases,424.116,6,0.3,-30.294
+929,CA-2014-137274,3/29/2014,Mike Gockenbach,Consumer,Texas,75023,Tables,Bush Advantage Collection Racetrack Conference Table,890.841,3,0.3,-152.7156
+930,CA-2016-132066,10/16/2016,Nona Balk,Corporate,New York,10011,Tables,Chromcraft Rectangular Conference Tables,142.182,1,0.4,-37.9152
+931,CA-2017-100097,11/26/2017,Michael Nguyen,Consumer,New York,10009,Furnishings,"DataProducts Ampli Magnifier Task Lamp, Black,",135.3,5,0,37.884
+932,US-2014-131275,3/18/2014,Sample Company A,Home Office,California,91505,Furnishings,Eldon Cleatmat Chair Mats for Medium Pile Carpets,111,2,0,14.43
+933,CA-2015-113152,12/25/2015,Jim Karlsson,Consumer,New York,10024,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",449.568,2,0.2,56.196
+934,CA-2014-163412,12/20/2014,Suzanne McNair,Corporate,New York,10035,Chairs,Harbour Creations 67200 Series Stacking Chairs,192.186,3,0.1,36.3018
+935,CA-2014-116190,7/26/2014,Sheri Gordon,Consumer,Georgia,30318,Chairs,"Metal Folding Chairs, Beige, 4/Carton",67.88,2,0,18.3276
+936,CA-2014-116190,7/26/2014,Sheri Gordon,Consumer,Georgia,30318,Furnishings,"DAX Cubicle Frames, 8-1/2 x 11",25.71,3,0,9.2556
+937,US-2014-115189,12/30/2014,Alex Russell,Corporate,Pennsylvania,19143,Tables,Hon 5100 Series Wood Tables,523.764,3,0.4,-192.0468
+938,CA-2016-127243,11/28/2016,David Smith,Corporate,Pennsylvania,19140,Chairs,"Situations Contoured Folding Chairs, 4/Set",347.802,7,0.3,-24.843
+939,CA-2016-105732,9/13/2016,Alejandro Grove,Consumer,Nebraska,68104,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",1336.44,14,0,387.5676
+940,CA-2017-108035,11/29/2017,Ted Trevino,Consumer,Tennessee,37421,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",390.368,2,0.2,48.796
+941,CA-2017-108035,11/29/2017,Ted Trevino,Consumer,Tennessee,37421,Furnishings,"Executive Impressions 13"" Chairman Wall Clock",101.52,5,0.2,19.035
+942,CA-2016-110975,12/25/2016,Darren Budd,Corporate,New York,10024,Tables,"Bevis Oval Conference Table, Walnut",313.176,2,0.4,-120.0508
+943,CA-2016-110975,12/25/2016,Darren Budd,Corporate,New York,10024,Chairs,Hon 4070 Series Pagoda Round Back Stacking Chairs,866.646,3,0.1,173.3292
+944,CA-2015-100146,5/14/2015,Claudia Bergmann,Corporate,California,93010,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",509.9575,5,0.15,41.9965
+945,CA-2015-100146,5/14/2015,Claudia Bergmann,Corporate,California,93010,Furnishings,Dana Halogen Swing-Arm Architect Lamp,122.91,3,0,34.4148
+946,CA-2015-100146,5/14/2015,Claudia Bergmann,Corporate,California,93010,Chairs,Novimex Fabric Task Chair,97.568,2,0.2,-6.098
+947,CA-2015-100146,5/14/2015,Claudia Bergmann,Corporate,California,93010,Chairs,"Global Leather and Oak Executive Chair, Black",722.352,3,0.2,81.2646
+948,CA-2016-129728,5/30/2016,Jason Gross,Corporate,California,90032,Furnishings,36X48 HARDFLOOR CHAIRMAT,167.84,8,0,11.7488
+949,CA-2017-121125,5/30/2017,Michael Granlund,Home Office,Oregon,97224,Furnishings,Tensor Brushed Steel Torchiere Floor Lamp,13.592,1,0.2,-0.3398
+950,US-2016-114013,3/13/2016,Stewart Carmichael,Corporate,Pennsylvania,19134,Chairs,SAFCO Arco Folding Chair,386.68,2,0.3,-5.524
+951,CA-2016-101693,6/25/2016,Logan Currie,Consumer,Texas,77070,Chairs,"Global Value Mid-Back Manager's Chair, Gray",85.246,2,0.3,-6.089
+952,CA-2016-101693,6/25/2016,Logan Currie,Consumer,Texas,77070,Furnishings,Eldon Executive Woodline II Cherry Finish Desk Accessories,32.712,2,0.6,-26.1696
+953,CA-2015-145457,3/24/2015,Cathy Prescott,Corporate,Washington,98042,Furnishings,"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",46.9,5,0,13.132
+954,CA-2017-105669,9/17/2017,Sanjit Jacobs,Home Office,Texas,77036,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",318.43,5,0.3,-77.333
+955,CA-2015-137974,4/16/2015,Lauren Leatherbury,Consumer,Virginia,22980,Furnishings,Tenex Antistatic Computer Chair Mats,1196.86,7,0,119.686
+956,CA-2015-137974,4/16/2015,Lauren Leatherbury,Consumer,Virginia,22980,Bookcases,O'Sullivan 3-Shelf Heavy-Duty Bookcases,523.26,9,0,125.5824
+957,CA-2014-138100,9/15/2014,Alex Avila,Consumer,New York,10011,Furnishings,"Master Caster Door Stop, Large Neon Orange",14.56,2,0,6.2608
+958,CA-2014-129938,12/15/2014,Ed Braxton,Corporate,Pennsylvania,19140,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",445.802,7,0.3,-108.2662
+959,US-2015-134558,12/19/2015,Peter McVee,Home Office,New Hampshire,3820,Tables,Bretford Rectangular Conference Table Tops,1053.164,4,0.3,-105.3164
+960,CA-2017-121048,7/14/2017,Toby Carlisle,Consumer,California,92683,Furnishings,"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",276.69,3,0,49.8042
+961,CA-2017-121048,7/14/2017,Toby Carlisle,Consumer,California,92683,Furnishings,"Eldon 200 Class Desk Accessories, Burgundy",18.84,3,0,7.9128
+962,US-2017-161935,7/14/2017,John Lee,Consumer,Ohio,43229,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",396.92,5,0.2,148.845
+963,US-2017-106145,9/26/2017,Ruben Ausman,Corporate,California,94109,Furnishings,Stackable Trays,9.24,3,0,2.9568
+964,CA-2016-107146,6/17/2016,Lena Creighton,Consumer,Colorado,80501,Furnishings,"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",266.352,3,0.2,-13.3176
+965,CA-2016-107146,6/17/2016,Lena Creighton,Consumer,Colorado,80501,Chairs,"Global Manager's Adjustable Task Chair, Storm",483.136,4,0.2,54.3528
+966,US-2017-134642,2/25/2017,Scot Wooten,Consumer,North Carolina,27834,Chairs,"Global High-Back Leather Tilter, Burgundy",196.784,2,0.2,-22.1382
+967,US-2017-134642,2/25/2017,Scot Wooten,Consumer,North Carolina,27834,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",231.92,5,0.2,5.798
+968,CA-2016-105746,12/30/2016,Brian Dahlen,Consumer,Pennsylvania,17602,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",170.786,1,0.3,0
+969,US-2016-166660,1/30/2016,Tim Brockman,Consumer,Washington,98103,Chairs,Global Deluxe High-Back Office Chair in Storm,435.168,4,0.2,-59.8356
+970,US-2016-166660,1/30/2016,Tim Brockman,Consumer,Washington,98103,Bookcases,O'Sullivan 2-Shelf Heavy-Duty Bookcases,48.58,1,0,7.7728
+971,CA-2014-100916,10/21/2014,Frank Hawley,Corporate,Virginia,23602,Tables,Hon 2111 Invitation Series Straight Table,591.32,4,0,112.3508
+972,CA-2016-138597,12/18/2016,Parhena Norris,Home Office,Nebraska,68104,Chairs,Hon Every-Day Series Multi-Task Chairs,563.94,3,0,112.788
+973,CA-2015-142734,4/16/2015,Denise Monton,Corporate,New York,10024,Chairs,Novimex Turbo Task Chair,127.764,2,0.1,2.8392
+974,CA-2017-122945,11/16/2017,Mick Brown,Consumer,California,95661,Furnishings,DAX Cubicle Frames - 8x10,17.31,3,0,5.193
+975,CA-2016-101791,5/27/2016,Brian Stugart,Consumer,Illinois,60623,Furnishings,36X48 HARDFLOOR CHAIRMAT,25.176,3,0.6,-33.3582
+976,CA-2016-101791,5/27/2016,Brian Stugart,Consumer,Illinois,60623,Furnishings,G.E. Halogen Desk Lamp Bulbs,5.584,2,0.6,-1.6752
+977,CA-2015-113740,8/24/2015,Shahid Collister,Consumer,New York,10035,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",14.91,3,0,4.6221
+978,CA-2017-151225,10/27/2017,Jim Mitchum,Corporate,California,90032,Tables,Chromcraft Rectangular Conference Tables,189.576,1,0.2,9.4788
+979,US-2014-144078,11/25/2014,Richard Bierner,Consumer,California,90004,Chairs,Hon GuestStacker Chair,725.344,4,0.2,54.4008
+980,CA-2015-136805,5/23/2015,Nathan Mautz,Home Office,Michigan,48234,Furnishings,Westinghouse Clip-On Gooseneck Lamps,75.33,9,0,19.5858
+981,CA-2014-162089,3/30/2014,Mark Packer,Home Office,Texas,78521,Chairs,"Global Stack Chair without Arms, Black",127.302,7,0.3,-9.093
+982,US-2017-158526,12/29/2017,Katherine Hughes,Consumer,Kentucky,40214,Chairs,DMI Arturo Collection Mission-style Design Wood Chair,1207.84,8,0,314.0384
+983,US-2017-158526,12/29/2017,Katherine Hughes,Consumer,Kentucky,40214,Chairs,"Global Leather and Oak Executive Chair, Black",300.98,1,0,87.2842
+984,US-2017-158526,12/29/2017,Katherine Hughes,Consumer,Kentucky,40214,Chairs,Harbour Creations Steel Folding Chair,258.75,3,0,77.625
+985,CA-2016-138968,3/15/2016,Fred Chung,Corporate,California,94110,Chairs,Global Comet Stacking Arm Chair,1352.032,4,0.2,84.502
+986,CA-2015-101889,12/27/2015,David Bremer,Corporate,Ohio,43302,Tables,"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",1548.99,9,0.4,-464.697
+987,CA-2015-107685,11/30/2015,John Murray,Consumer,Nevada,89115,Furnishings,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",80.96,4,0,29.1456
+988,US-2014-120740,4/15/2014,Paul Stevenson,Home Office,California,90049,Furnishings,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",187.76,4,0,76.9816
+989,CA-2014-151967,10/22/2014,Nicole Brennan,Corporate,Louisiana,71111,Furnishings,Tenex Chairmats For Use with Hard Floors,129.92,4,0,10.3936
+990,CA-2015-130974,11/27/2015,Matt Abelman,Home Office,Massachusetts,2149,Bookcases,"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",170.98,1,0,32.4862
+991,CA-2015-130974,11/27/2015,Matt Abelman,Home Office,Massachusetts,2149,Furnishings,"Tensor ""Hersey Kiss"" Styled Floor Lamp",38.97,3,0,4.6764
+992,CA-2015-130974,11/27/2015,Matt Abelman,Home Office,Massachusetts,2149,Tables,Hon Non-Folding Utility Tables,446.068,4,0.3,0
+993,CA-2014-133592,12/31/2014,Katherine Murray,Home Office,Rhode Island,2908,Bookcases,Sauder Inglewood Library Bookcases,341.96,2,0,78.6508
+994,CA-2014-133592,12/31/2014,Katherine Murray,Home Office,Rhode Island,2908,Chairs,"Global Fabric Manager's Chair, Dark Gray",605.88,6,0,151.47
+995,CA-2016-169838,11/25/2016,Brenda Bowman,Corporate,Michigan,49201,Tables,Chromcraft Round Conference Tables,1568.61,9,0,329.4081
+996,US-2017-128951,7/15/2017,Ricardo Sperren,Corporate,Virginia,23434,Tables,Hon 5100 Series Wood Tables,872.94,3,0,157.1292
+997,CA-2016-118899,3/22/2016,Marc Crier,Consumer,Washington,98103,Chairs,"Global Stack Chair with Arms, Black",167.888,7,0.2,14.6902
+998,CA-2017-151799,12/14/2017,Ben Ferrer,Home Office,Massachusetts,1841,Tables,Bretford Rectangular Conference Table Tops,526.582,2,0.3,-52.6582
+999,CA-2016-114601,8/26/2016,Andrew Allen,Consumer,Michigan,48234,Tables,Hon 4060 Series Tables,447.84,4,0,98.5248
+1000,CA-2017-139353,10/28/2017,Janet Martin,Consumer,North Carolina,28314,Furnishings,"Computer Room Manger, 14""",77.952,3,0.2,15.5904
+1001,CA-2017-104850,6/13/2017,Tamara Willingham,Home Office,Washington,98103,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",291.136,4,0.2,-25.4744
+1002,CA-2015-133242,6/18/2015,Keith Herrera,Consumer,Virginia,22204,Furnishings,"Seth Thomas 8 1/2"" Cubicle Clock",60.84,3,0,19.4688
+1003,CA-2015-158323,11/30/2015,Ann Blume,Corporate,North Carolina,28540,Furnishings,Dana Swing-Arm Lamps,17.088,2,0.2,1.068
+1004,CA-2017-112844,11/13/2017,Stefania Perrino,Corporate,New York,14215,Furnishings,"Deflect-o EconoMat Nonstudded, No Bevel Mat",154.95,3,0,30.99
+1005,US-2016-117037,5/17/2016,Luke Weiss,Consumer,Illinois,60653,Furnishings,Flat Face Poster Frame,22.608,3,0.6,-10.1736
+1006,CA-2017-166184,3/24/2017,Harold Ryan,Corporate,New York,10035,Chairs,Global Deluxe Steno Chair,207.846,3,0.1,2.3094
+1007,CA-2014-143637,3/24/2014,Maurice Satty,Consumer,California,93727,Furnishings,"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",40.48,2,0,14.5728
+1008,CA-2016-134334,2/14/2016,Dave Kipp,Consumer,Maryland,20735,Tables,Bevis Boat-Shaped Conference Table,550.431,3,0.3,-47.1798
+1009,CA-2016-134334,2/14/2016,Dave Kipp,Consumer,Maryland,20735,Furnishings,Regeneration Desk Collection,10.56,6,0,4.6464
+1010,CA-2014-125150,5/16/2014,Pauline Webber,Corporate,California,90036,Chairs,"Iceberg Nesting Folding Chair, 19w x 6d x 43h",232.88,5,0.2,17.466
+1011,CA-2015-137302,4/26/2015,Bart Watters,Corporate,California,92105,Chairs,SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,63.936,3,0.2,6.3936
+1012,CA-2015-106257,4/13/2015,Eugene Barchas,Consumer,California,90045,Tables,"Iceberg OfficeWorks 42"" Round Tables",241.568,2,0.2,-15.098
+1013,CA-2015-149083,9/25/2015,Sally Hughsby,Corporate,Washington,98103,Chairs,Global Super Steno Chair,307.136,4,0.2,-11.5176
+1014,US-2014-137869,3/28/2014,Christina VanderZanden,Consumer,Iowa,50315,Tables,Hon 94000 Series Round Tables,1184.72,4,0,106.6248
+1015,US-2017-123834,7/21/2017,Gene McClure,Consumer,Texas,78577,Tables,Hon 61000 Series Interactive Training Tables,124.404,4,0.3,-21.3264
+1016,CA-2016-128706,2/27/2016,Don Weiss,Consumer,Texas,77070,Furnishings,DAX Two-Tone Silver Metal Document Frame,16.192,2,0.6,-6.8816
+1017,CA-2015-143364,7/14/2015,Toby Gnade,Consumer,Arizona,85204,Chairs,SAFCO Arco Folding Chair,441.92,2,0.2,49.716
+1018,CA-2015-143364,7/14/2015,Toby Gnade,Consumer,Arizona,85204,Bookcases,"Hon Metal Bookcases, Black",127.764,6,0.7,-191.646
+1019,CA-2016-160241,11/29/2016,Daniel Raglin,Home Office,Illinois,60505,Furnishings,"Tenex Chairmat w/ Average Lip, 45"" x 53""",242.176,4,0.6,-302.72
+1020,CA-2016-155747,6/14/2016,Jim Sink,Corporate,Pennsylvania,19140,Tables,Global Adaptabilities Conference Tables,337.176,2,0.4,-118.0116
+1021,CA-2016-148684,12/25/2016,Trudy Schmidt,Consumer,Arkansas,72701,Furnishings,"Howard Miller 13-1/2"" Diameter Rosebrook Wall Clock",343.85,5,0,137.54
+1022,CA-2017-128363,8/13/2017,Dan Campbell,Consumer,Tennessee,38109,Furnishings,Eldon Radial Chair Mat for Low to Medium Pile Carpets,31.984,1,0.2,0
+1023,CA-2017-128363,8/13/2017,Dan Campbell,Consumer,Tennessee,38109,Chairs,Hon Olson Stacker Chairs,423.648,2,0.2,47.6604
+1024,CA-2016-167605,4/28/2016,Rob Beeghly,Consumer,Illinois,60174,Furnishings,"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",30.344,2,0.6,-31.8612
+1025,CA-2015-110891,11/20/2015,Phillina Ober,Home Office,Pennsylvania,19140,Chairs,"Global High-Back Leather Tilter, Burgundy",344.372,4,0.3,-93.4724
+1026,CA-2017-120404,11/20/2017,Katharine Harms,Corporate,New York,10035,Furnishings,Tensor Brushed Steel Torchiere Floor Lamp,50.97,3,0,9.1746
+1027,CA-2017-167549,7/25/2017,Evan Minnotte,Home Office,Texas,75217,Tables,Safco Drafting Table,298.116,6,0.3,-4.2588
+1028,US-2016-168095,7/15/2016,Mark Cousins,Corporate,Oregon,97206,Chairs,Bevis Steel Folding Chairs,230.28,3,0.2,23.028
+1029,CA-2016-146325,12/14/2016,David Smith,Corporate,California,92037,Chairs,"Global Task Chair, Black",81.424,2,0.2,-9.1602
+1030,US-2015-126753,8/16/2015,Sung Pak,Corporate,Pennsylvania,19134,Furnishings,"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",254.352,3,0.2,0
+1031,US-2015-165743,11/20/2015,Michelle Moray,Consumer,Colorado,80013,Bookcases,Sauder Barrister Bookcases,145.764,6,0.7,-247.7988
+1032,CA-2015-110863,11/17/2015,Anna Andreadi,Consumer,Oklahoma,73120,Chairs,Hon Olson Stacker Chairs,1323.9,5,0,383.931
+1033,CA-2017-120168,5/25/2017,Trudy Brown,Consumer,New York,10009,Furnishings,Eldon 200 Class Desk Accessories,18.84,3,0,6.0288
+1034,CA-2014-129189,7/21/2014,Harry Marie,Corporate,Texas,75217,Chairs,Hon Every-Day Series Multi-Task Chairs,657.93,5,0.3,-93.99
+1035,CA-2015-119690,6/25/2015,Mark Van Huff,Consumer,Texas,77041,Furnishings,"GE General Use Halogen Bulbs, 100 Watts, 1 Bulb per Pack",75.384,9,0.6,-20.7306
+1036,CA-2017-109393,6/30/2017,John Castell,Consumer,California,90032,Bookcases,"Sauder Facets Collection Library, Sky Alder Finish",435.999,3,0.15,5.1294
+1037,CA-2017-121489,8/21/2017,Candace McMahon,Corporate,Washington,98115,Chairs,"Padded Folding Chairs, Black, 4/Carton",388.704,6,0.2,38.8704
+1038,CA-2014-144974,9/26/2014,Craig Molinari,Corporate,Pennsylvania,19140,Furnishings,DAX Black Cherry Wood-Tone Poster Frame,21.184,1,0.2,4.7664
+1039,CA-2015-121188,8/28/2015,Cassandra Brandow,Consumer,California,90049,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,307.666,2,0.15,28.9568
+1040,CA-2015-121188,8/28/2015,Cassandra Brandow,Consumer,California,90049,Furnishings,Eldon Wave Desk Accessories,4.16,2,0,1.7472
+1041,US-2015-160563,10/20/2015,Noel Staavos,Corporate,California,94109,Furnishings,Acrylic Self-Standing Desk Frames,16.02,6,0,6.0876
+1042,CA-2015-106187,6/23/2015,Randy Ferguson,Corporate,Georgia,30344,Furnishings,"Eldon Stackable Tray, Side-Load, Legal, Smoke",27.42,3,0,9.3228
+1043,CA-2016-105753,10/20/2016,Lindsay Castell,Home Office,Virginia,22204,Furnishings,Aluminum Document Frame,61.1,5,0,18.33
+1044,CA-2017-133046,7/27/2017,Dennis Kane,Consumer,Washington,98115,Furnishings,Staple-based wall hangings,23.88,3,0,10.5072
+1045,CA-2017-159149,2/17/2017,Cyra Reiten,Home Office,Texas,77041,Bookcases,"Sauder Mission Library with Doors, Fruitwood Finish",89.0664,1,0.32,-17.0274
+1046,CA-2017-160122,11/18/2017,Russell D'Ascenzo,Consumer,Illinois,60623,Chairs,Global Highback Leather Tilter in Burgundy,127.386,2,0.3,-25.4772
+1047,CA-2017-101014,8/29/2017,Rick Wilson,Corporate,California,90049,Furnishings,Electrix Fluorescent Magnifier Lamps & Weighted Base,148.02,3,0,41.4456
+1048,US-2017-106551,7/22/2017,Eric Barreto,Consumer,Illinois,60653,Chairs,Hon Every-Day Series Multi-Task Chairs,526.344,4,0.3,-75.192
+1049,CA-2017-157350,8/26/2017,Darren Powers,Consumer,Illinois,60610,Furnishings,"Seth Thomas 16"" Steel Case Clock",64.96,5,0.6,-43.848
+1050,CA-2014-167997,1/26/2014,Carol Adams,Corporate,South Dakota,57701,Bookcases,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",141.96,2,0,39.7488
+1051,CA-2016-134138,2/16/2016,John Dryer,Consumer,New Jersey,7109,Chairs,Hon Comfortask Task/Swivel Chairs,227.96,2,0,36.4736
+1052,CA-2016-144148,7/31/2016,Anna HŠberlin,Corporate,California,94122,Tables,Laminate Occasional Tables,863.128,7,0.2,-32.3673
+1053,CA-2015-119879,11/21/2015,Shahid Shariari,Consumer,Pennsylvania,19120,Tables,"Bevis Oval Conference Table, Walnut",1252.704,8,0.4,-480.2032
+1054,CA-2017-155642,5/18/2017,Brendan Murry,Corporate,Illinois,60653,Furnishings,Flat Face Poster Frame,22.608,3,0.6,-10.1736
+1055,CA-2017-155642,5/18/2017,Brendan Murry,Corporate,Illinois,60653,Furnishings,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,1.892,1,0.6,-0.9933
+1056,CA-2015-136728,9/13/2015,Arthur Gainer,Consumer,Illinois,60623,Chairs,"Global Value Steno Chair, Gray",170.072,4,0.3,-12.148
+1057,US-2017-155866,11/17/2017,Christopher Conant,Consumer,New York,10011,Furnishings,"Howard Miller 13"" Diameter Goldtone Round Wall Clock",187.76,4,0,76.9816
+1058,CA-2015-141327,11/30/2015,Lena Radford,Consumer,North Carolina,27707,Furnishings,Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,335.744,2,0.2,25.1808
+1059,CA-2015-122266,4/26/2015,Sue Ann Reed,Consumer,Florida,32114,Tables,Bretford CR4500 Series Slim Rectangular Table,191.5155,1,0.45,-76.6062
+1060,CA-2016-162355,6/30/2016,Philip Fox,Consumer,Georgia,30328,Bookcases,O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,1266.86,7,0,291.3778
+1061,CA-2017-103065,10/20/2017,Pete Takahito,Consumer,Florida,32216,Furnishings,DAX Wood Document Frame.,43.936,4,0.2,6.0412
+1062,CA-2017-121790,1/30/2017,Liz Preis,Consumer,Illinois,60505,Tables,Balt Split Level Computer Training Table,69.375,1,0.5,-47.175
+1063,CA-2016-169670,12/25/2016,Joe Elijah,Consumer,New York,10009,Chairs,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,2563.056,8,0.1,313.2624
+1064,CA-2016-139549,10/20/2016,Muhammed Yedwab,Corporate,California,92020,Chairs,Hon Every-Day Chair Series Swivel Task Chairs,387.136,4,0.2,4.8392
+1065,CA-2015-154284,12/21/2015,Sam Zeldin,Home Office,Illinois,60174,Furnishings,"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",51.756,3,0.6,-33.6414
+1066,US-2017-167318,7/26/2017,George Zrebassa,Corporate,California,90036,Chairs,"Global Airflow Leather Mesh Back Chair, Black",362.352,3,0.2,45.294
+1067,US-2017-105935,1/26/2017,Bradley Drucker,Consumer,Georgia,31907,Furnishings,Artistic Insta-Plaque,62.72,4,0,24.4608
+1068,CA-2017-135076,4/13/2017,Yana Sorensen,Corporate,California,92345,Chairs,"Global Wood Trimmed Manager's Task Chair, Khaki",436.704,6,0.2,-38.2116
+1069,US-2014-155544,3/21/2014,Gary McGarr,Consumer,Tennessee,37918,Furnishings,DAX Wood Document Frame,32.952,3,0.2,6.5904
+1070,US-2014-155544,3/21/2014,Gary McGarr,Consumer,Tennessee,37918,Chairs,Global Highback Leather Tilter in Burgundy,218.376,3,0.2,-10.9188
+1071,US-2015-115238,4/30/2015,Jane Waco,Corporate,Massachusetts,1841,Furnishings,"Eldon 200 Class Desk Accessories, Burgundy",31.4,5,0,13.188
+1072,US-2015-115238,4/30/2015,Jane Waco,Corporate,Massachusetts,1841,Furnishings,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",9.48,1,0,3.792
+1073,US-2015-115238,4/30/2015,Jane Waco,Corporate,Massachusetts,1841,Furnishings,"Eldon Imˆge Series Desk Accessories, Clear",24.3,5,0,10.449
+1074,CA-2016-163174,8/26/2016,Xylona Preis,Consumer,Georgia,30605,Furnishings,Deflect-o Glass Clear Studded Chair Mats,186.54,3,0,41.0388
+1075,CA-2016-163972,10/17/2016,Michael Granlund,Home Office,California,93727,Bookcases,"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",120.666,2,0.15,21.294
+1076,CA-2016-113726,11/24/2016,Steve Carroll,Home Office,Washington,98105,Furnishings,Howard Miller Distant Time Traveler Alarm Clock,82.26,3,0,33.7266
+1077,CA-2017-110625,12/23/2017,Julia Barnett,Home Office,Connecticut,6810,Furnishings,DAX Wood Document Frame,27.46,2,0,9.8856
+1078,CA-2016-130820,11/15/2016,Odella Nelson,Corporate,North Carolina,27217,Tables,Hon Racetrack Conference Tables,630.024,4,0.4,-199.5076
+1079,CA-2016-118129,12/19/2016,Clay Ludtke,Consumer,Pennsylvania,19601,Furnishings,"Eldon ""L"" Workstation Diamond Chairmat",303.92,5,0.2,-30.392
+1080,US-2014-127635,9/14/2014,Scott Cohen,Corporate,Texas,78415,Furnishings,Stacking Trays by OIC,9.96,5,0.6,-6.723
+1081,CA-2017-125451,10/23/2017,Adam Hart,Corporate,Rhode Island,2920,Tables,KI Adjustable-Height Table,240.744,4,0.3,-13.7568
+1082,CA-2017-125451,10/23/2017,Adam Hart,Corporate,Rhode Island,2920,Furnishings,"Eldon 400 Class Desk Accessories, Black Carbon",35,4,0,14.7
+1083,CA-2017-125451,10/23/2017,Adam Hart,Corporate,Rhode Island,2920,Furnishings,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,210.68,2,0,50.5632
+1084,CA-2017-125451,10/23/2017,Adam Hart,Corporate,Rhode Island,2920,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",637.896,3,0.3,-127.5792
+1085,CA-2016-125087,4/18/2016,Thea Hudgings,Corporate,Texas,77070,Chairs,"Global High-Back Leather Tilter, Burgundy",344.372,4,0.3,-93.4724
+1086,CA-2016-125087,4/18/2016,Thea Hudgings,Corporate,Texas,77070,Furnishings,"Howard Miller 16"" Diameter Gallery Wall Clock",127.88,5,0.6,-67.137
+1087,US-2017-118556,5/28/2017,Tiffany House,Corporate,Illinois,60653,Chairs,"Global Task Chair, Black",106.869,3,0.3,-29.0073
+1088,US-2017-132031,4/23/2017,Parhena Norris,Home Office,Tennessee,37042,Bookcases,O'Sullivan 4-Shelf Bookcase in Odessa Pine,387.136,4,0.2,-14.5176
+1089,US-2017-132031,4/23/2017,Parhena Norris,Home Office,Tennessee,37042,Furnishings,Tenex Chairmats For Use with Hard Floors,77.952,3,0.2,-11.6928
+1090,CA-2017-142391,9/24/2017,Philip Brown,Consumer,Washington,98115,Furnishings,12-1/2 Diameter Round Wall Clock,199.8,10,0,71.928
+1091,CA-2017-161172,3/16/2017,Susan Pistek,Consumer,Ohio,43229,Furnishings,Nu-Dell Oak Frame,51.264,6,0.2,7.6896
+1092,CA-2016-156748,11/30/2016,Bruce Stewart,Consumer,Michigan,48227,Chairs,High-Back Leather Manager's Chair,389.97,3,0,35.0973
+1093,CA-2015-157287,12/22/2015,Harold Ryan,Corporate,Pennsylvania,19140,Chairs,Harbour Creations Steel Folding Chair,422.625,7,0.3,0
+1094,CA-2016-119074,3/27/2016,David Smith,Corporate,Georgia,31907,Furnishings,DAX Two-Tone Silver Metal Document Frame,20.24,1,0,8.7032
+1095,CA-2016-119074,3/27/2016,David Smith,Corporate,Georgia,31907,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",39.92,4,0,11.1776
+1096,CA-2016-132829,12/23/2016,Laura Armstrong,Corporate,Texas,77041,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",2.328,2,0.6,-0.7566
+1097,US-2017-108315,4/30/2017,Mick Hernandez,Home Office,Florida,32771,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,220.704,6,0.2,-8.2764
+1098,CA-2017-146164,12/22/2017,Charlotte Melton,Consumer,Minnesota,55901,Tables,"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",607.52,2,0,97.2032
+1099,CA-2014-130673,5/20/2014,Matt Collister,Corporate,Texas,78666,Furnishings,Contemporary Borderless Frame,10.332,3,0.6,-5.9409
+1100,CA-2017-101700,4/23/2017,Sean O'Donnell,Consumer,Colorado,80634,Furnishings,"Eldon Imˆge Series Desk Accessories, Clear",11.664,3,0.2,3.3534
+1101,CA-2016-107783,7/28/2016,Olvera Toch,Consumer,Pennsylvania,18018,Bookcases,"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",177.45,5,0.5,-78.078
+1102,CA-2017-159793,8/25/2017,Seth Vernon,Consumer,Pennsylvania,19140,Bookcases,Bush Somerset Collection Bookcase,130.98,2,0.5,-89.0664
+1103,CA-2017-151281,4/27/2017,Henry MacAllister,Consumer,Washington,98105,Furnishings,Luxo Economy Swing Arm Lamp,139.58,7,0,39.0824
+1104,CA-2016-113341,11/25/2016,Mark Hamilton,Consumer,California,90032,Chairs,"Padded Folding Chairs, Black, 4/Carton",194.352,3,0.2,19.4352
+1105,CA-2014-142769,9/13/2014,Resi Pšlking,Consumer,Washington,98103,Furnishings,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,14.19,3,0,5.5341
+1106,CA-2017-124765,11/25/2017,Henia Zydlo,Consumer,Florida,33311,Bookcases,O'Sullivan Manor Hill 2-Door Library in Brianna Oak,723.92,5,0.2,-81.441
+1107,CA-2017-126634,3/30/2017,Alan Barnes,Consumer,California,90712,Furnishings,Flat Face Poster Frame,94.2,5,0,39.564
+1108,US-2014-159611,12/27/2014,Karl Braun,Consumer,Ohio,44105,Furnishings,"Eldon ""L"" Workstation Diamond Chairmat",182.352,3,0.2,-18.2352
+1109,CA-2017-163265,2/16/2017,Joy Smith,Consumer,Illinois,62521,Chairs,Global Deluxe High-Back Manager's Chair,600.558,3,0.3,-8.5794
+1110,CA-2017-163265,2/16/2017,Joy Smith,Consumer,Illinois,62521,Furnishings,"Executive Impressions 13"" Clairmont Wall Clock",7.692,1,0.6,-3.6537
+1111,CA-2017-141705,10/24/2017,Patrick O'Brill,Consumer,Texas,76063,Tables,Hon 2111 Invitation Series Straight Table,517.405,5,0.3,-81.3065
+1112,CA-2017-127096,9/15/2017,Christopher Schild,Home Office,California,94109,Tables,Bretford Rectangular Conference Table Tops,300.904,1,0.2,11.2839
+1113,CA-2017-119284,6/15/2017,Thomas Seio,Corporate,Tennessee,37211,Furnishings,Staple-based wall hangings,31.168,4,0.2,9.3504
+1114,CA-2017-119284,6/15/2017,Thomas Seio,Corporate,Tennessee,37211,Tables,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",120.96,2,0.4,-28.224
+1115,CA-2014-119144,11/16/2014,Justin Deggeller,Corporate,California,90008,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",305.9745,3,0.15,25.1979
+1116,CA-2015-103870,12/27/2015,Sung Pak,Corporate,Tennessee,37130,Furnishings,"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",53.352,3,0.2,16.0056
+1117,CA-2015-103870,12/27/2015,Sung Pak,Corporate,Tennessee,37130,Bookcases,O'Sullivan 5-Shelf Heavy-Duty Bookcases,131.104,2,0.2,8.194
+1118,CA-2017-116988,6/27/2017,Pauline Webber,Corporate,Washington,98105,Furnishings,Executive Impressions Supervisor Wall Clock,126.3,3,0,40.416
+1119,CA-2016-114307,7/22/2016,Maureen Fritzler,Corporate,Maryland,21044,Furnishings,"Eldon Stackable Tray, Side-Load, Legal, Smoke",27.42,3,0,9.3228
+1120,CA-2017-135377,12/13/2017,Bart Pistole,Corporate,New York,10024,Bookcases,"Bush Andora Bookcase, Maple/Graphite Gray Finish",287.976,3,0.2,7.1994
+1121,CA-2016-116911,9/15/2016,Justin Deggeller,Corporate,Idaho,83301,Tables,Bretford Rectangular Conference Table Tops,1128.39,3,0,259.5297
+1122,CA-2017-126914,6/15/2017,Joe Elijah,Consumer,North Carolina,28110,Chairs,Global Executive Mid-Back Manager's Chair,698.352,3,0.2,52.3764
+1123,CA-2017-126914,6/15/2017,Joe Elijah,Consumer,North Carolina,28110,Bookcases,O'Sullivan 2-Shelf Heavy-Duty Bookcases,77.728,2,0.2,-3.8864
+1124,CA-2015-127754,7/26/2015,Cyma Kinney,Corporate,Arizona,85301,Chairs,Office Star - Contemporary Task Swivel Chair,266.352,3,0.2,13.3176
+1125,CA-2015-145324,11/15/2015,Duane Huffman,Home Office,Virginia,22801,Furnishings,12-1/2 Diameter Round Wall Clock,39.96,2,0,14.3856
+1126,CA-2014-120411,9/20/2014,Sarah Brown,Consumer,Illinois,60653,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",493.43,5,0.3,-70.49
+1127,CA-2016-162159,9/16/2016,Corey Roper,Home Office,Georgia,31907,Chairs,"Global Value Mid-Back Manager's Chair, Gray",121.78,2,0,30.445
+1128,CA-2016-167241,8/15/2016,Bill Donatelli,Consumer,California,90004,Furnishings,Luxo Professional Magnifying Clamp-On Fluorescent Lamps,312.03,3,0,43.6842
+1129,CA-2016-150483,5/31/2016,Beth Paige,Consumer,Illinois,62521,Furnishings,"Executive Impressions 16-1/2"" Circular Wall Clock",32.064,3,0.6,-12.8256
+1130,CA-2016-150483,5/31/2016,Beth Paige,Consumer,Illinois,62521,Chairs,Global Highback Leather Tilter in Burgundy,191.079,3,0.3,-38.2158
+1131,CA-2016-168032,1/30/2016,David Flashing,Consumer,Illinois,61107,Tables,Bretford ÒJust In TimeÓ Height-Adjustable Multi-Task Work Tables,626.1,3,0.5,-538.446
+1132,US-2015-168704,4/13/2015,Frank Preis,Consumer,Texas,77340,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",609.98,4,0.3,-113.282
+1133,US-2015-168704,4/13/2015,Frank Preis,Consumer,Texas,77340,Tables,"Iceberg OfficeWorks 42"" Round Tables",211.372,2,0.3,-45.294
+1134,CA-2017-143252,12/18/2017,Harold Engle,Corporate,Wisconsin,53209,Furnishings,Tensor Track Tree Floor Lamp,99.95,5,0,22.9885
+1135,CA-2016-102134,3/14/2016,Sibella Parks,Corporate,Wisconsin,54302,Furnishings,Westinghouse Clip-On Gooseneck Lamps,16.74,2,0,4.3524
+1136,CA-2017-150910,12/22/2017,Jack Lebron,Consumer,Tennessee,38301,Tables,"Bevis Round Bullnose 29"" High Table Top",934.956,6,0.4,-249.3216
+1137,CA-2017-105620,12/25/2017,Jennifer Halladay,Consumer,Florida,33012,Furnishings,"Eldon 400 Class Desk Accessories, Black Carbon",21,3,0.2,5.775
+1138,CA-2017-150266,11/25/2017,Rose O'Brian,Consumer,Texas,77070,Chairs,Hon Deluxe Fabric Upholstered Stacking Chairs,853.93,5,0.3,-24.398
+1139,CA-2017-122308,3/24/2017,Mark Van Huff,Consumer,New York,10011,Chairs,"Global Airflow Leather Mesh Back Chair, Black",271.764,2,0.1,60.392
+1140,CA-2017-159226,4/25/2017,Rob Lucas,Consumer,California,90008,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",344.981,7,0.15,28.4102
+1141,CA-2017-156622,11/23/2017,Jennifer Patt,Corporate,Texas,75220,Tables,"Lesro Round Back Collection Coffee Table, End Table",127.785,1,0.3,-31.0335
+1142,US-2015-128587,12/24/2015,Harry Marie,Corporate,Missouri,65807,Furnishings,"Eldon Regeneration Recycled Desk Accessories, Black",9.68,2,0,3.7752
+1143,CA-2017-159100,10/16/2017,Victoria Pisteka,Corporate,Tennessee,38401,Tables,Balt Solid Wood Round Tables,1875.258,7,0.4,-968.8833
+1144,CA-2017-137785,5/13/2017,Mick Hernandez,Home Office,Pennsylvania,19140,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,458.43,5,0.3,-124.431
+1145,CA-2017-107825,11/18/2017,Nona Balk,Corporate,Wisconsin,53209,Furnishings,"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",5.82,2,0,2.7354
+1146,CA-2016-121447,2/21/2016,Erin Ashbrook,Corporate,New York,10011,Furnishings,"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",135.8,7,0,66.542
+1147,CA-2014-100706,12/16/2014,Laurel Elliston,Consumer,Virginia,22153,Furnishings,Ultra Door Push Plate,29.46,6,0,9.7218
+1148,US-2016-141880,8/22/2016,Tony Chapman,Home Office,Colorado,80525,Furnishings,Dana Halogen Swing-Arm Architect Lamp,98.328,3,0.2,9.8328
+1149,CA-2015-165799,6/29/2015,Sheri Gordon,Consumer,New York,10024,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,117.882,1,0.1,1.3098
+1150,CA-2016-102127,6/26/2016,Victoria Pisteka,Corporate,New York,10035,Furnishings,"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",37.74,3,0,12.8316
+1151,US-2016-152415,9/17/2016,Patrick O'Donnell,Consumer,Massachusetts,1752,Furnishings,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",14.82,3,0,6.2244
+1152,US-2016-152415,9/17/2016,Patrick O'Donnell,Consumer,Massachusetts,1752,Furnishings,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",191.82,3,0,61.3824
+1153,CA-2017-105823,6/22/2017,Rick Bensley,Home Office,Michigan,48227,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",487.96,2,0,146.388
+1154,CA-2014-138177,9/19/2014,Neil Ducich,Corporate,Arizona,85224,Tables,Hon 2111 Invitation Series Straight Table,73.915,1,0.5,-45.8273
+1155,CA-2014-114335,9/28/2014,Xylona Preis,Consumer,Florida,33021,Furnishings,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,337.088,4,0.2,16.8544
+1156,CA-2015-149097,10/20/2015,Stewart Visinsky,Consumer,California,90045,Furnishings,Nu-Dell Oak Frame,74.76,7,0,23.9232
+1157,CA-2015-149097,10/20/2015,Stewart Visinsky,Consumer,California,90045,Tables,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",364.776,3,0.2,27.3582
+1158,CA-2016-132304,6/14/2016,Anthony Rawles,Corporate,Washington,98103,Tables,Hon Non-Folding Utility Tables,1115.17,7,0,334.551
+1159,CA-2016-108105,2/16/2016,Giulietta Weimer,Consumer,Kentucky,42420,Furnishings,Eldon Cleatmat Plus Chair Mats for High Pile Carpets,318.08,4,0,34.9888
+1160,CA-2016-143406,9/26/2016,Lisa Ryan,Corporate,Texas,77041,Chairs,High-Back Leather Manager's Chair,454.965,5,0.3,-136.4895
+1161,CA-2015-162950,6/28/2015,Dorothy Wardle,Corporate,Ohio,45373,Bookcases,"Sauder Forest Hills Library with Doors, Woodland Oak Finish",482.94,6,0.5,-376.6932
+1162,CA-2017-153045,1/19/2017,Neola Schneider,Consumer,Pennsylvania,19140,Furnishings,12-1/2 Diameter Round Wall Clock,31.968,2,0.2,6.3936
+1163,CA-2017-153045,1/19/2017,Neola Schneider,Consumer,Pennsylvania,19140,Chairs,Global Comet Stacking Arm Chair,887.271,3,0.3,-63.3765
+1164,CA-2016-128916,8/18/2016,Matt Abelman,Home Office,Texas,77070,Furnishings,Staple-based wall hangings,9.552,3,0.6,-3.8208
+1165,CA-2016-128916,8/18/2016,Matt Abelman,Home Office,Texas,77070,Furnishings,OIC Stacking Trays,5.344,4,0.6,-2.1376
+1166,CA-2016-130911,3/24/2016,Dan Campbell,Consumer,Ohio,44105,Bookcases,O'Sullivan Living Dimensions 3-Shelf Bookcases,301.47,3,0.5,-241.176
+1167,CA-2017-100055,5/28/2017,Michael Dominguez,Corporate,Maryland,20707,Furnishings,DAX Wood Document Frame,27.46,2,0,9.8856
+1168,CA-2016-152688,10/17/2016,Nick Radford,Consumer,New Jersey,8861,Bookcases,O'Sullivan Living Dimensions 2-Shelf Bookcases,120.98,1,0,12.098
+1169,US-2015-164238,8/16/2015,Joni Wasserman,Consumer,Pennsylvania,19120,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,301.47,3,0.5,-204.9996
+1170,CA-2017-103212,10/13/2017,Michelle Huthwaite,Consumer,Louisiana,70506,Tables,Bretford Rectangular Conference Table Tops,1504.52,4,0,346.0396
+1171,CA-2015-151869,9/25/2015,Carlos Soltero,Consumer,New York,11520,Chairs,Hon Comfortask Task/Swivel Chairs,102.582,1,0.1,6.8388
+1172,CA-2016-166772,9/20/2016,Heather Jas,Home Office,Washington,98105,Bookcases,O'Sullivan 5-Shelf Heavy-Duty Bookcases,163.88,2,0,40.97
+1173,CA-2014-161032,11/18/2014,Michael Kennedy,Corporate,Wisconsin,53132,Chairs,Office Star - Mesh Screen back chair with Vinyl seat,392.94,3,0,43.2234
+1174,CA-2015-102778,11/21/2015,John Huston,Consumer,North Carolina,28110,Furnishings,"Executive Impressions 14"" Two-Color Numerals Wall Clock",18.176,1,0.2,4.7712
+1175,CA-2017-154011,6/19/2017,Deborah Brumfield,Home Office,Texas,75081,Tables,"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",457.485,3,0.3,-84.9615
+1176,US-2017-165456,11/30/2017,Trudy Brown,Consumer,Pennsylvania,19134,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,1079.316,6,0.3,-15.4188
+1177,CA-2017-161340,5/28/2017,Alice McCarthy,Corporate,Ohio,44105,Bookcases,"Bush Westfield Collection Bookcases, Medium Cherry Finish",115.96,4,0.5,-64.9376
+1178,US-2015-163433,4/18/2015,Michael Paige,Corporate,Texas,78501,Chairs,"Global Geo Office Task Chair, Gray",56.686,1,0.3,-20.245
+1179,US-2017-108343,7/20/2017,Anthony Rawles,Corporate,New York,10009,Chairs,Office Star - Task Chair with Contemporary Loop Arms,163.764,2,0.1,25.4744
+1180,US-2017-108343,7/20/2017,Anthony Rawles,Corporate,New York,10009,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,183.92,4,0,31.2664
+1181,CA-2017-121853,9/23/2017,Duane Benoit,Consumer,California,90036,Chairs,GuestStacker Chair with Chrome Finish Legs,594.816,2,0.2,59.4816
+1182,CA-2017-109085,2/17/2017,Christine Kargatis,Home Office,Ohio,45373,Tables,"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",455.97,5,0.4,-106.393
+1183,CA-2017-109085,2/17/2017,Christine Kargatis,Home Office,Ohio,45373,Furnishings,Flat Face Poster Frame,30.144,2,0.2,8.2896
+1184,CA-2017-109085,2/17/2017,Christine Kargatis,Home Office,Ohio,45373,Chairs,Global Commerce Series Low-Back Swivel/Tilt Chairs,899.43,5,0.3,-12.849
+1185,CA-2016-114860,12/22/2016,Duane Noonan,Consumer,California,92553,Furnishings,Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,842.72,8,0,202.2528
+1186,CA-2016-114860,12/22/2016,Duane Noonan,Consumer,California,92553,Furnishings,Magnifier Swing Arm Lamp,41.96,2,0,10.9096
+1187,CA-2016-159009,9/23/2016,Dave Poirier,Corporate,Washington,98115,Chairs,Global Deluxe Steno Chair,184.752,3,0.2,-20.7846
+1188,CA-2017-148411,9/24/2017,Rose O'Brian,Consumer,Illinois,60623,Chairs,GuestStacker Chair with Chrome Finish Legs,520.464,2,0.3,-14.8704
+1189,CA-2016-168046,1/25/2016,Jonathan Doherty,Corporate,New York,10024,Tables,Chromcraft Round Conference Tables,313.722,3,0.4,-99.3453
+1190,CA-2016-168046,1/25/2016,Jonathan Doherty,Corporate,New York,10024,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,45.98,1,0,7.8166
+1191,CA-2017-111591,3/21/2017,Paul Stevenson,Home Office,Washington,98105,Furnishings,"Eldon Expressions Wood Desk Accessories, Oak",22.14,3,0,6.4206
+1192,CA-2015-111339,5/29/2015,Victoria Pisteka,Corporate,Ohio,43229,Furnishings,"Tensor ""Hersey Kiss"" Styled Floor Lamp",41.568,4,0.2,-4.1568
+1193,CA-2015-111339,5/29/2015,Victoria Pisteka,Corporate,Ohio,43229,Chairs,Novimex Swivel Fabric Task Chair,317.058,3,0.3,-86.0586
+1194,CA-2014-154158,12/23/2014,Craig Carreira,Consumer,Florida,33614,Chairs,"Padded Folding Chairs, Black, 4/Carton",64.784,1,0.2,6.4784
+1195,CA-2017-163097,8/27/2017,Sarah Foster,Consumer,Arizona,85204,Furnishings,Flat Face Poster Frame,120.576,8,0.2,33.1584
+1196,CA-2015-130848,10/25/2015,Deirdre Greer,Corporate,Colorado,80219,Chairs,Global Highback Leather Tilter in Burgundy,582.336,8,0.2,-29.1168
+1197,CA-2014-125997,9/20/2014,Mitch Webber,Consumer,New York,10011,Chairs,Global Leather Executive Chair,631.782,2,0.1,140.396
+1198,CA-2014-125997,9/20/2014,Mitch Webber,Consumer,New York,10011,Bookcases,DMI Eclipse Executive Suite Bookcases,801.568,2,0.2,-10.0196
+1199,CA-2014-159814,6/24/2014,Liz Pelletier,Consumer,Arizona,85705,Furnishings,Acrylic Self-Standing Desk Frames,4.272,2,0.2,0.9612
+1200,CA-2017-162789,9/22/2017,Logan Currie,Consumer,New York,10035,Furnishings,Eldon 500 Class Desk Accessories,12.07,1,0,3.9831
+1201,CA-2015-164777,1/27/2015,Sean Christensen,Consumer,California,90036,Chairs,HON 5400 Series Task Chairs for Big and Tall,2803.92,5,0.2,0
+1202,CA-2015-127824,10/18/2015,John Castell,Consumer,Washington,98115,Furnishings,Eldon 100 Class Desk Accessories,10.11,3,0,3.2352
+1203,CA-2014-167486,11/27/2014,Jack O'Briant,Corporate,New York,14215,Furnishings,Eldon Radial Chair Mat for Low to Medium Pile Carpets,199.9,5,0,39.98
+1204,CA-2015-166219,8/28/2015,Ben Peterman,Corporate,Texas,75081,Tables,Hon 2111 Invitation Series Straight Table,103.481,1,0.3,-16.2613
+1205,CA-2017-136882,5/27/2017,Duane Noonan,Consumer,Oklahoma,74133,Furnishings,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",477.3,5,0,138.417
+1206,US-2017-109610,11/25/2017,Brendan Sweed,Corporate,Kentucky,40214,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,701.96,2,0,168.4704
+1207,CA-2016-126858,11/19/2016,Janet Molinari,Corporate,Washington,98115,Furnishings,Tenex Chairmats For Use With Carpeted Floors,31.96,2,0,1.598
+1208,CA-2015-100818,5/31/2015,Janet Molinari,Corporate,Illinois,60653,Furnishings,"Tenex Traditional Chairmats for Hard Floors, Average Lip, 36"" x 48""",51.56,2,0.6,-61.872
+1209,CA-2016-149237,5/26/2016,Chris McAfee,Consumer,Wisconsin,53209,Furnishings,Nu-Dell Float Frame 11 x 14 1/2,26.94,3,0,11.3148
+1210,US-2015-158589,11/20/2015,Kelly Williams,Consumer,California,94109,Furnishings,Dana Swing-Arm Lamps,32.04,3,0,8.01
+1211,CA-2017-142461,5/30/2017,Kean Thornton,Consumer,Texas,75217,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",204.6664,1,0.32,-6.0196
+1212,CA-2016-116596,10/27/2016,Ben Wallace,Consumer,New York,10011,Chairs,"Metal Folding Chairs, Beige, 4/Carton",427.644,14,0.1,80.7772
+1213,CA-2016-148747,9/25/2016,Aaron Smayling,Corporate,California,94110,Bookcases,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",477.666,2,0.15,84.294
+1214,CA-2016-125724,9/22/2016,Suzanne McNair,Corporate,Colorado,80020,Furnishings,Aluminum Document Frame,68.432,7,0.2,8.554
+1215,CA-2015-111612,11/28/2015,Eugene Barchas,Consumer,Ohio,43229,Furnishings,"Seth Thomas 13 1/2"" Wall Clock",71.12,5,0.2,9.779
+1216,CA-2014-103086,10/17/2014,Evan Bailliet,Consumer,Texas,77095,Furnishings,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,5.312,2,0.6,-1.5936
+1217,CA-2014-130428,3/31/2014,Trudy Glocke,Consumer,Florida,33614,Chairs,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",1125.488,7,0.2,98.4802
+1218,CA-2015-148495,8/13/2015,Sandra Flanagan,Consumer,California,91767,Furnishings,Ultra Door Pull Handle,31.56,3,0,10.4148
+1219,CA-2015-143147,5/26/2015,Pamela Stobb,Consumer,Texas,78207,Chairs,Novimex Swivel Fabric Task Chair,105.686,1,0.3,-28.6862
+1220,CA-2015-143147,5/26/2015,Pamela Stobb,Consumer,Texas,78207,Chairs,"Global Stack Chair with Arms, Black",104.93,5,0.3,-4.497
+1221,CA-2017-152975,9/14/2017,Roger Barcio,Home Office,New York,10035,Chairs,"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",589.41,5,0.1,-6.549
+1222,CA-2017-116127,6/25/2017,Sarah Brown,Consumer,New York,10024,Bookcases,DMI Eclipse Executive Suite Bookcases,400.784,1,0.2,-5.0098
+1223,US-2016-105452,7/28/2016,Barry Franz,Home Office,Texas,77506,Furnishings,"Eldon Image Series Desk Accessories, Ebony",24.7,5,0.6,-9.88
+1224,US-2016-105452,7/28/2016,Barry Franz,Home Office,Texas,77506,Furnishings,"Tenex Chairmat w/ Average Lip, 45"" x 53""",302.72,5,0.6,-378.4
+1225,CA-2015-149517,9/19/2015,Frank Carlisle,Home Office,California,95823,Furnishings,"Seth Thomas 8 1/2"" Cubicle Clock",60.84,3,0,19.4688
+1226,CA-2016-129861,6/17/2016,Denise Monton,Corporate,New York,14609,Tables,Hon 2111 Invitation Series Corner Table,376.866,3,0.4,-213.5574
+1227,CA-2016-130638,5/16/2016,Sanjit Chand,Consumer,California,90045,Furnishings,"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",282.84,4,0,19.7988
+1228,CA-2017-137449,6/29/2017,Max Engle,Consumer,Texas,75220,Tables,Bevis Round Conference Table Top & Single Column Base,307.314,3,0.3,-39.5118
+1229,CA-2017-137449,6/29/2017,Max Engle,Consumer,Texas,75220,Bookcases,O'Sullivan Plantations 2-Door Library in Landvery Oak,409.9992,3,0.32,-96.4704
+1230,CA-2014-151330,10/14/2014,Toby Carlisle,Consumer,Massachusetts,2149,Chairs,Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,1628.82,9,0,260.6112
+1231,CA-2014-124702,11/18/2014,Maya Herman,Corporate,Washington,98105,Furnishings,"Howard Miller 13-1/2"" Diameter Rosebrook Wall Clock",137.54,2,0,55.016
+1232,CA-2014-124702,11/18/2014,Maya Herman,Corporate,Washington,98105,Tables,"Lesro Round Back Collection Coffee Table, End Table",730.2,4,0,94.926
+1233,CA-2015-116638,1/28/2015,Joseph Holt,Consumer,North Carolina,28027,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,4297.644,13,0.4,-1862.3124
+1234,CA-2016-107104,11/26/2016,Maribeth Schnelling,Consumer,California,90045,Bookcases,DMI Eclipse Executive Suite Bookcases,3406.664,8,0.15,160.3136
+1235,CA-2016-107104,11/26/2016,Maribeth Schnelling,Consumer,California,90045,Furnishings,"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",595.38,6,0,297.69
+1236,CA-2014-156160,9/22/2014,Adam Shillingsburg,Consumer,New York,10035,Furnishings,"Computer Room Manger, 14""",97.44,3,0,35.0784
+1237,CA-2014-156160,9/22/2014,Adam Shillingsburg,Consumer,New York,10035,Chairs,Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,579.528,4,0.1,83.7096
+1238,CA-2017-157448,11/16/2017,Lena Creighton,Consumer,California,90049,Furnishings,Eldon Radial Chair Mat for Low to Medium Pile Carpets,119.94,3,0,23.988
+1239,CA-2017-157448,11/16/2017,Lena Creighton,Consumer,California,90049,Furnishings,Eldon Image Series Black Desk Accessories,12.42,3,0,4.4712
+1240,CA-2017-122770,12/13/2017,Emily Phan,Consumer,California,94122,Furnishings,"Eldon Executive Woodline II Desk Accessories, Mahogany",201.04,8,0,54.2808
+1241,CA-2015-130183,11/13/2015,Patrick O'Brill,Consumer,Texas,77041,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",613.9992,3,0.32,-18.0588
+1242,CA-2016-161746,10/21/2016,Carlos Soltero,Consumer,California,90045,Chairs,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,242.136,3,0.2,12.1068
+1243,CA-2016-161746,10/21/2016,Carlos Soltero,Consumer,California,90045,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Oak",19.96,2,0,5.5888
+1244,CA-2016-119641,9/22/2016,Chris Selesnick,Corporate,Wisconsin,54302,Furnishings,"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",18.96,2,0,7.584
+1245,CA-2016-105781,2/16/2016,Jill Fjeld,Consumer,New York,10024,Chairs,Hon Every-Day Chair Series Swivel Task Chairs,326.646,3,0.1,39.9234
+1246,CA-2014-114321,8/20/2014,Nick Crebassa,Corporate,Virginia,23666,Chairs,"Safco Chair Connectors, 6/Carton",500.24,13,0,145.0696
+1247,CA-2017-137505,11/24/2017,Beth Paige,Consumer,California,90008,Tables,"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",364.08,2,0.2,9.102
+1248,CA-2017-137505,11/24/2017,Beth Paige,Consumer,California,90008,Tables,Hon 61000 Series Interactive Training Tables,71.088,2,0.2,-1.7772
+1249,CA-2017-113705,3/27/2017,Lena Cacioppo,Consumer,Virginia,23223,Tables,BPI Conference Tables,292.1,2,0,58.42
+1250,CA-2016-146913,10/31/2016,Sylvia Foulston,Corporate,California,94109,Chairs,Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,1403.92,5,0.2,70.196
+1251,CA-2016-123533,11/24/2016,Sample Company A,Home Office,Florida,33012,Bookcases,O'Sullivan Cherrywood Estates Traditional Bookcase,339.92,5,0.2,8.498
+1252,CA-2014-169019,7/26/2014,Luke Foster,Consumer,Texas,78207,Furnishings,DAX Clear Channel Poster Frame,17.496,3,0.6,-10.0602
+1253,CA-2015-149748,5/31/2015,Elizabeth Moffitt,Corporate,New Jersey,7501,Furnishings,Eldon Image Series Black Desk Accessories,8.28,2,0,2.9808
+1254,CA-2017-144491,3/27/2017,Caroline Jumper,Consumer,Texas,77070,Bookcases,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",1023.332,5,0.32,-30.098
+1255,CA-2017-144491,3/27/2017,Caroline Jumper,Consumer,Texas,77070,Chairs,Global Deluxe High-Back Manager's Chair,600.558,3,0.3,-8.5794
+1256,CA-2017-144491,3/27/2017,Caroline Jumper,Consumer,Texas,77070,Chairs,"Global Leather & Oak Executive Chair, Burgundy",211.246,2,0.3,-66.3916
+1257,CA-2014-127166,5/21/2014,Katherine Hughes,Consumer,Texas,77070,Chairs,Global Deluxe Steno Chair,107.772,2,0.3,-29.2524
+1258,CA-2015-122973,7/18/2015,Pauline Johnson,Consumer,New York,10024,Furnishings,"Eldon Expressions Wood Desk Accessories, Oak",7.38,1,0,2.1402
+1259,CA-2016-136322,10/21/2016,Anne Pryor,Home Office,Florida,33311,Furnishings,"Seth Thomas 14"" Day/Date Wall Clock",45.568,2,0.2,9.6832
+1260,CA-2017-107209,7/27/2017,Joni Wasserman,Consumer,North Carolina,27604,Chairs,"Global Value Mid-Back Manager's Chair, Gray",194.848,4,0.2,12.178
+1261,US-2014-164406,8/15/2014,Brian Dahlen,Consumer,California,94122,Chairs,Novimex Fabric Task Chair,195.136,4,0.2,-12.196
+1262,US-2017-152842,7/16/2017,Natalie Fritzler,Consumer,North Carolina,28205,Chairs,"Global Fabric Manager's Chair, Dark Gray",242.352,3,0.2,15.147
+1263,CA-2014-113257,12/16/2014,Sean Christensen,Consumer,Texas,77705,Furnishings,Longer-Life Soft White Bulbs,8.624,7,0.6,-2.5872
+1264,US-2016-125402,9/25/2016,Dan Lawera,Consumer,California,90805,Chairs,"Global Airflow Leather Mesh Back Chair, Black",483.136,4,0.2,60.392
+1265,CA-2017-138870,6/19/2017,George Ashbrook,Consumer,California,94109,Furnishings,"DAX Copper Panel Document Frame, 5 x 7 Size",50.32,4,0,21.1344
+1266,CA-2015-164301,3/26/2015,Ellis Ballard,Corporate,Washington,98103,Tables,Bush Advantage Collection Racetrack Conference Table,3393.68,8,0,610.8624
+1267,CA-2017-113278,1/14/2017,Hallie Redmond,Home Office,Indiana,47374,Furnishings,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",18.96,2,0,8.532
+1268,CA-2016-122581,8/21/2016,Jay Kimmel,Consumer,New York,10035,Chairs,"Leather Task Chair, Black",573.174,7,0.1,63.686
+1269,US-2016-115441,7/25/2016,Sally Hughsby,Corporate,Wisconsin,53209,Chairs,Office Star Flex Back Scooter Chair with Aluminum Finish Frame,403.56,4,0,96.8544
+1270,US-2016-115441,7/25/2016,Sally Hughsby,Corporate,Wisconsin,53209,Furnishings,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",95.2,5,0,27.608
+1271,US-2014-117380,3/28/2014,Mike Pelletier,Home Office,Ohio,45503,Tables,Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,330.588,1,0.4,-143.2548
+1272,CA-2017-117646,8/21/2017,Sung Chung,Consumer,Colorado,80027,Furnishings,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",22.752,3,0.2,7.11
+1273,US-2015-129007,9/13/2015,Ken Dana,Corporate,California,92804,Furnishings,Flat Face Poster Frame,131.88,7,0,55.3896
+1274,US-2015-129007,9/13/2015,Ken Dana,Corporate,California,92804,Chairs,Global Comet Stacking Armless Chair,717.72,3,0.2,71.772
+1275,US-2015-129007,9/13/2015,Ken Dana,Corporate,California,92804,Furnishings,Eldon Econocleat Chair Mats for Low Pile Carpets,207.35,5,0,24.882
+1276,US-2015-129007,9/13/2015,Ken Dana,Corporate,California,92804,Furnishings,Tensor Computer Mounted Lamp,44.67,3,0,12.0609
+1277,CA-2017-160927,1/29/2017,Tamara Manning,Consumer,Iowa,52302,Furnishings,"DAX Value U-Channel Document Frames, Easel Back",14.91,3,0,4.6221
+1278,CA-2016-149272,3/15/2016,Muhammed Yedwab,Corporate,Texas,77803,Chairs,Novimex Swivel Fabric Task Chair,528.43,5,0.3,-143.431
+1279,CA-2015-104948,11/13/2015,Keith Herrera,Consumer,California,92404,Bookcases,O'Sullivan Living Dimensions 3-Shelf Bookcases,683.332,4,0.15,-40.196
+1280,CA-2015-141593,12/14/2015,Darren Budd,Corporate,California,90045,Tables,"Bush Andora Conference Table, Maple/Graphite Gray Finish",273.568,2,0.2,10.2588
+1281,CA-2015-168088,3/19/2015,Corinna Mitchell,Home Office,Texas,77041,Bookcases,"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",383.4656,4,0.32,-67.6704
+1282,CA-2014-110422,1/21/2014,Tom Boeckenhauer,Consumer,Florida,33180,Furnishings,Ultra Door Pull Handle,25.248,3,0.2,4.1028
+1283,CA-2017-121258,2/26/2017,Dave Brooks,Consumer,California,92627,Furnishings,Tenex B1-RE Series Chair Mats for Low Pile Carpets,91.96,2,0,15.6332

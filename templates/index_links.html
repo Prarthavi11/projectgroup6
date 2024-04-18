@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e0f2f1;
+            }
+            h1 {
+            text-align: center;
+            color: #333;
+            }
+            p {
+            text-align: center;
+            color: #666;
+            font-size: 18px;
+            }
+            ul {
+                list-style-type: none;
+                padding: 0;
+                text-align: center;
+                margin-top: 20px;
+            }
+            li {
+                display: inline-block;
+                margin: 0 10px;
+            }
+
+            a {
+            color: #007bff;
+            text-decoration: none;
+            }
+            a:hover {
+            text-decoration: underline;
+            }
+
+        </style>
+        <title>My Website</title>
+        
+    </head>
+    <body>
+        <h1>Welcome to my website!</h1>
+        <p>Choose where you want to go:</p>
+        <ul>
+            <li><a href="{{ url_for('about') }}">Link To About page</a></li>
+            <li><a href="{{ url_for('data') }}">Link To Data page</a></li>
+            
+        </ul>
+    </body>
+</html>

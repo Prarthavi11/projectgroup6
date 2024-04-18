@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-size: cover;
+                background-repeat: no-repeat;
+                font-family: Arial, sans-serif;
+                background-color: #d4e9f7;
+
+            }
+            h1 {
+            text-align: center;
+            color: #333;
+            }
+            table, th, td {
+              border:1px solid black;
+            }
+            th {
+            background-color: #5c9ead;
+            color: white;
+            }
+        </style>
+        <title>DATA SET</title>
+        
+    </head>
+
+    <body>
+        <h1>Furniture Data</h1>
+
+        <table style="width:100%">
+            <thead>
+                <tr>
+                    <th>Row_ID</th>
+                    <th>Order_ID</th>
+                    <th>Order_Date</th>
+                    <th>Customer_Name</th>
+                    <th>Segment</th>
+                    <th>State</th>
+                    <th>Postal_Code</th>
+                    <th>Sub_Category</th>
+                    <th>Product_Name</th>
+                    <th>Sales</th>
+                    <th>Quantity</th>
+                    <th>Discount</th>
+                    <th>Profit</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for s in furniture%}
+            <tr>
+                <td>{{ s[0] }}</td>
+                <td>{{ s[1] }}</td>
+                <td>{{ s[2] }}</td>
+                <td>{{ s[3] }}</td>
+                <td>{{ s[4] }}</td>
+                <td>{{ s[5] }}</td>
+                <td>{{ s[6] }}</td>
+                <td>{{ s[7] }}</td>
+                <td>{{ s[8] }}</td>
+                <td>{{ s[9] }}</td>
+                <td>{{ s[10] }}</td>
+                <td>{{ s[11] }}</td>
+                <td>{{ s[12] }}</td>
+            </tr>
+                {% endfor %}    
+            </tbody>
+        </table>
+    </body>
+</html>
+
